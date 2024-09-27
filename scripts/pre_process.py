@@ -11,6 +11,12 @@ class TelegramDataProcessor:
         self.categories = {
             'price': ['ብር', 'ETB', '$', 'Birr'],
             'location': ['ገርጂ', '4ኪሎ', 'ብስራተ ገብርኤል'],
+            'kids': [
+                'toy', 'children', 'kids', 'መጫወቻ', 'play', 'games', 'fun', 'educational', 
+                'puzzle', 'doll', 'action figure', 'stuffed animal', 'arts and crafts', 
+                'books', 'outdoor toys', 'building blocks', 'baby', 'toddler', 'Baby', 
+                'መጫወቻዎች'
+            ]
         }
 
     def check_and_remove_nan(self, column_name):
@@ -21,15 +27,19 @@ class TelegramDataProcessor:
         print(f"Dataset shape after dropping NaN values in '{column_name}' column: {self.df.shape}")
 
     def remove_emojis(self, text):
-        """Removes emojis including '1️⃣' from text."""
+        """Removes all emojis from text."""
         emoji_pattern = re.compile(
             "[" 
-            "\U0001F600-\U0001F64F"  
+            "\U0001F600-\U0001F64F" 
             "\U0001F300-\U0001F5FF" 
             "\U0001F680-\U0001F6FF"  
             "\U0001F700-\U0001F77F"  
-            "\U0001F1E0-\U0001F1FF"  
-            "\u0031\uFE0F\u20E3"     
+            "\U0001F1E0-\U0001F1FF"   
+            "\U00002500-\U00002BEF"  
+            "\U00002702-\U000027B0"  
+            "\U0001F900-\U0001F9FF"  
+            "\U00002600-\U000026FF"  
+             "\u0031\uFE0F\u20E3"     
             "]+", 
             flags=re.UNICODE
         )
@@ -37,11 +47,11 @@ class TelegramDataProcessor:
 
     def clean_messages(self):
         self.df['Message'] = self.df['Message'].apply(self.remove_emojis)
-        self.df.to_csv('../data/clean_data.csv', index=False)
+        self.df.to_csv('/content/drive/MyDrive/telegram_preprocess/datas/clean_data.csv', index=False)
         print("Cleaned data saved.")
 
     def label_message(self, message):
-        """Labels messages with prices and locations using a rule-based approach."""
+        """Labels messages with prices, locations, and kids products using a rule-based approach."""
         # Define multi-word entities (locations, products, etc.)
         multi_word_entities = {
             'ብስራተ ገብርኤል': 'I-LOC',
@@ -56,6 +66,9 @@ class TelegramDataProcessor:
         labeled_tokens = []
 
         for token in tokens:
+            if token.startswith('@'):
+                continue  # Skip usernames
+
             # After tokenizing, replace underscores with spaces again for multi-word entities
             token = token.replace('_', ' ')
 
@@ -73,6 +86,9 @@ class TelegramDataProcessor:
                 labeled_tokens.append(f"{token} I-PRICE")
             elif 'ብር' in token or 'Birr' in token or 'ETB' in token:
                 labeled_tokens.append(f"{token} I-PRICE")
+            # Check if token matches kids products category
+            elif any(token.lower() == item.lower() for item in self.categories['kids']):
+                labeled_tokens.append(f"{token} B-PRODUCT")
             # Otherwise, treat it as outside any entity
             else:
                 labeled_tokens.append(f"{token} O")
@@ -81,7 +97,7 @@ class TelegramDataProcessor:
 
     def apply_labeling(self):
         self.df['Labeled_Message'] = self.df['Message'].apply(self.label_message)
-        labeled_data_path = '../data/labeled_telegram_data.txt'
+        labeled_data_path = '/content/drive/MyDrive/telegram_preprocess/datas/labeled_telegram_data.txt'
         with open(labeled_data_path, 'w', encoding='utf-8') as f:
             for _, row in self.df.iterrows():
                 f.write(f"{row['Labeled_Message']}\n\n")
@@ -129,6 +145,6 @@ class TelegramDataProcessor:
         category_counts = self.df['Category'].value_counts()
         print(category_counts)
         uncategorized_items = self.df[self.df['Category'] == 'uncategorized']
-        uncategorized_items.to_csv('../data/uncategorized_data.csv', index=False)
-        self.df.to_csv('../data/labeled_data.csv', index=False)
+        uncategorized_items.to_csv('/content/drive/MyDrive/telegram_preprocess/datas/uncategorized_data.csv', index=False)
+        self.df.to_csv('/content/drive/MyDrive/telegram_preprocess/datas/labeled_data.csv', index=False)
         print("Labeled and uncategorized data saved.")
