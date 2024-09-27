@@ -45,8 +45,6 @@
 በመጫን O
 ማዘዝ O
 ትችላላቹ O
-@sinasinaye O
-@sinayalj2 O
 አድራሻ O
 ቁጥር O
 ገርጂ I-LOC
@@ -134,7 +132,7 @@ FF-09 O
 ደስታ O
 እናበስራለን O
 
-Baby O
+Baby B-PRODUCT
 romper O
 ከላዩ O
 ፈር O
@@ -155,8 +153,6 @@ delivery O
 በመጫን O
 ማዘዝ O
 ትችላላቹ O
-@sinasinaye O
-@sinayalj2 O
 አድራሻ O
 ቁጥር O
 ገርጂ I-LOC
@@ -278,7 +274,6 @@ delivery O
 በመጫን O
 ማዘዝ O
 ትችላላቹ O
-@sinasinaye O
 https://t.me/sinayelj2 O
 አድራሻ O
 ቁጥር O
@@ -399,7 +394,6 @@ birr O
 በመጫን O
 ማዘዝ O
 ትችላላቹ O
-@sinasinaye O
 https://t.me/sinayelj2 O
 አድራሻ O
 ቁጥር O
@@ -488,7 +482,7 @@ FF-09 O
 ደስታ O
 እናበስራለን O
 
-Kids O
+Kids B-PRODUCT
 mat O
 400 I-PRICE
 ብር I-PRICE
@@ -506,8 +500,6 @@ delivery O
 በመጫን O
 ማዘዝ O
 ትችላላቹ O
-@sinasinaye O
-@sinayalj2 O
 አድራሻ O
 ቁጥር O
 ገርጂ I-LOC
@@ -632,7 +624,6 @@ collector O
 በመጫን O
 ማዘዝ O
 ትችላላቹ O
-@sinasinaye O
 https://t.me/sinayelj2 O
 አድራሻ O
 ቁጥር O
@@ -764,7 +755,6 @@ birr O
 በመጫን O
 ማዘዝ O
 ትችላላቹ O
-@sinasinaye O
 https://t.me/sinayelj2 O
 አድራሻ O
 ቁጥር O
@@ -872,7 +862,6 @@ birr O
 በመጫን O
 ማዘዝ O
 ትችላላቹ O
-@sinasinaye O
 https://t.me/sinayelj2 O
 አድራሻ O
 ቁጥር O
@@ -962,7 +951,7 @@ FF-09 O
 እናበስራለን O
 
 Infantino O
-baby O
+baby B-PRODUCT
 carier O
 ባለ O
 ኮፉያ O
@@ -991,7 +980,6 @@ kg O
 በመጫን O
 ማዘዝ O
 ትችላላቹ O
-@sinasinaye O
 https://t.me/sinayelj2 O
 አድራሻ O
 ቁጥር O
@@ -1176,8 +1164,6 @@ delivery O
 በመጫን O
 ማዘዝ O
 ትችላላቹ O
-@sinasinaye O
-@sinayalj2 O
 አድራሻ O
 ቁጥር O
 ገርጂ I-LOC
@@ -1296,12 +1282,12 @@ car O
 seat O
 stroller O
 combo O
-baby O
+baby B-PRODUCT
 car O
 seat O
 stroller O
 cradle O
-baby O
+baby B-PRODUCT
 basket O
 5 I-PRICE
 point O
@@ -1347,7 +1333,6 @@ delivery O
 በመጫን O
 ማዘዝ O
 ትችላላቹ O
-@sinasinaye O
 https://t.me/sinayelj2 O
 አድራሻ O
 ቁጥር O
@@ -1479,7 +1464,7 @@ FF-09 O
 ይጠብቅልን O
 
 Inflatable O
-Baby O
+Baby B-PRODUCT
 Seat O
 for O
 Babies O
@@ -1487,7 +1472,7 @@ Babies O
 Months O
 and O
 Up, O
-Toddler O
+Toddler B-PRODUCT
 Floor O
 Seats O
 for O
@@ -1497,13 +1482,13 @@ Built O
 in O
 Air O
 Pump O
-Baby O
+Baby B-PRODUCT
 Seats O
 for O
 Kids, O
 Blow O
 Up O
-Baby O
+Baby B-PRODUCT
 Chair O
 with O
 Back O
@@ -1527,7 +1512,6 @@ birr O
 በመጫን O
 ማዘዝ O
 ትችላላቹ O
-@sinasinaye O
 https://t.me/sinayelj2 O
 አድራሻ O
 ቁጥር O
@@ -1618,7 +1602,7 @@ FF-09 O
 
 Zimeitu O
 brand O
-Baby O
+Baby B-PRODUCT
 bottle O
 sterilizer O
 with O
@@ -1646,7 +1630,6 @@ delivery O
 በመጫን O
 ማዘዝ O
 ትችላላቹ O
-@sinasinaye O
 https://t.me/sinayelj2 O
 አድራሻ O
 ቁጥር O
@@ -1761,7 +1744,6 @@ delivery O
 በመጫን O
 ማዘዝ O
 ትችላላቹ O
-@sinasinaye O
 https://t.me/sinayelj2 O
 አድራሻ O
 ቁጥር O
@@ -1870,7 +1852,7 @@ FF-09 O
 አክብሮት O
 ነው O
 
-baby O
+baby B-PRODUCT
 travel O
 playpen O
 ከቤተስብ O
@@ -1937,7 +1919,6 @@ playpen O
 በመጫን O
 ማዘዝ O
 ትችላላቹ O
-@sinasinaye O
 https://t.me/sinayelj2 O
 አድራሻ O
 ቁጥር O
@@ -2044,7 +2025,6 @@ pcs O
 በመጫን O
 ማዘዝ O
 ትችላላቹ O
-@sinasinaye O
 https://t.me/sinayelj2 O
 አድራሻ O
 ቁጥር O
@@ -2201,8 +2181,6 @@ DELIVERY O
 በመጫን O
 ማዘዝ O
 ትችላላቹ O
-@sinasinaye O
-@sinayalj2 O
 አድራሻ O
 ቁጥር O
 ገርጂ I-LOC
@@ -2333,8 +2311,6 @@ blener O
 በመጫን O
 ማዘዝ O
 ትችላላቹ O
-@sinasinaye O
-@sinayalj2 O
 አድራሻ O
 ቁጥር O
 ገርጂ I-LOC
@@ -2442,7 +2418,7 @@ FF-09 O
 አክብሮት O
 ነው O
 
-Baby O
+Baby B-PRODUCT
 nail O
 trimmer O
 Including O
@@ -2458,7 +2434,7 @@ mom O
 cushioned O
 pads O
 for O
-baby O
+baby B-PRODUCT
 storage O
 and O
 travel O
@@ -2466,7 +2442,7 @@ case O
 Call O
 as O
 Electric O
-baby O
+baby B-PRODUCT
 nail O
 trimmer O
 0-6 O
@@ -2499,8 +2475,6 @@ birr O
 በመጫን O
 ማዘዝ O
 ትችላላቹ O
-@sinasinaye O
-@sinayalj2 O
 አድራሻ O
 ቁጥር O
 ገርጂ I-LOC
@@ -2589,7 +2563,7 @@ FF-09 O
 እናበስራለን O
 
 Only O
-baby O
+baby B-PRODUCT
 double O
 bottle O
 milk O
@@ -2626,7 +2600,6 @@ birr O
 በመጫን O
 ማዘዝ O
 ትችላላቹ O
-@sinasinaye O
 https://t.me/sinayelj2 O
 አድራሻ O
 ቁጥር O
@@ -2800,7 +2773,7 @@ FF-09 O
 ሲመጣ O
 ሌላ O
 ብዙዙዙዙ O
-መጫወቻ O
+መጫወቻ B-PRODUCT
 እንደሚያመጣልኝ O
 ቃል O
 ገብቶልኝ O
@@ -2811,7 +2784,7 @@ FF-09 O
 ስለምፈልግ O
 የዶክተሮቹን O
 ማከሚያ O
-መጫወቻ O
+መጫወቻ B-PRODUCT
 አምጣልኝ O
 ብዬዋለሁ። O
 እስከዚያ O
@@ -3016,7 +2989,7 @@ FF-09 O
 ምን O
 አደረኩት። O
 
-Kids O
+Kids B-PRODUCT
 underwear O
 pcs O
 320 I-PRICE
@@ -3035,7 +3008,6 @@ birr O
 በመጫን O
 ማዘዝ O
 ትችላላቹ O
-@sinasinaye O
 https://t.me/sinayelj2 O
 አድራሻ O
 ቁጥር O
@@ -3126,7 +3098,7 @@ FF-09 O
 
 Chrisbella O
 brand O
-kids O
+kids B-PRODUCT
 school O
 bags O
 with O
@@ -3148,7 +3120,6 @@ birr O
 በመጫን O
 ማዘዝ O
 ትችላላቹ O
-@sinasinaye O
 https://t.me/sinayelj2 O
 አድራሻ O
 ቁጥር O
@@ -3239,7 +3210,7 @@ FF-09 O
 
 Chrisbella O
 brand O
-kids O
+kids B-PRODUCT
 school O
 bag O
 3700 I-PRICE
@@ -3258,7 +3229,6 @@ birr O
 በመጫን O
 ማዘዝ O
 ትችላላቹ O
-@sinasinaye O
 https://t.me/sinayelj2 O
 አድራሻ O
 ቁጥር O
@@ -3696,7 +3666,7 @@ FF-09 O
 ሰው O
 በዋለ O
 #እርኩስ O
-መጫወቻ O
+መጫወቻ B-PRODUCT
 ሆኖ O
 ስጋዋ O
 እንደ O
@@ -3890,7 +3860,6 @@ FF-09 O
 በየአካውንታችሁ O
 #ሸር O
 አድርጉት O
-♦ O
 ይህች O
 እናት O
 የልጇ O
@@ -3927,7 +3896,6 @@ FF-09 O
 እያነባች O
 አመትን O
 አስቆጥራለች። O
-♦ O
 የገዳይ O
 ቤተሰቦች O
 ፣ጠበቆች O
@@ -3955,7 +3923,6 @@ FF-09 O
 ወጣት O
 እንደሚዝትባት O
 ተናግራለች። O
-♦ O
 ስለዚህ O
 የዚህች O
 እናት O
@@ -3998,7 +3965,6 @@ FF-09 O
 ትሆኑ O
 ዘንድ O
 እንማፀናለን። O
-♦ O
 በዚች O
 እናት O
 ላይ O
@@ -4033,7 +3999,7 @@ FF-09 O
 አክብሮት O
 ነው O
 
-kids O
+kids B-PRODUCT
 school O
 bags O
 with O
@@ -4055,7 +4021,6 @@ birr O
 በመጫን O
 ማዘዝ O
 ትችላላቹ O
-@sinasinaye O
 https://t.me/sinayelj2 O
 አድራሻ O
 ቁጥር O
@@ -4166,7 +4131,6 @@ delivery O
 በመጫን O
 ማዘዝ O
 ትችላላቹ O
-@sinasinaye O
 https://t.me/sinayelj2 O
 አድራሻ O
 ቁጥር O
@@ -4255,7 +4219,7 @@ FF-09 O
 ደስታ O
 እናበስራለን O
 
-Baby O
+Baby B-PRODUCT
 bath O
 mat O
 000 I-PRICE
@@ -4270,8 +4234,6 @@ birr O
 በመጫን O
 ማዘዝ O
 ትችላላቹ O
-@sinasinaye O
-@sinayalj2 O
 አድራሻ O
 ቁጥር O
 ገርጂ I-LOC
@@ -4361,22 +4323,22 @@ FF-09 O
 
 COTTONBEBE O
 Silicone O
-Baby O
+Baby B-PRODUCT
 Feeding O
 Set O
 of O
 6, O
 Suction O
-Baby O
+Baby B-PRODUCT
 Plates O
 and O
 Bowls O
 Sets, O
-Baby O
+Baby B-PRODUCT
 Led O
 Weaning O
 Supplies, O
-Toddler O
+Toddler B-PRODUCT
 Fork O
 Spoon O
 Utensils, O
@@ -4395,8 +4357,6 @@ Pink O
 በመጫን O
 ማዘዝ O
 ትችላላቹ O
-@sinasinaye O
-@sinayalj2 O
 አድራሻ O
 ቁጥር O
 ገርጂ I-LOC
@@ -4485,7 +4445,7 @@ FF-09 O
 እናበስራለን O
 
 Sky O
-baby O
+baby B-PRODUCT
 brand O
 high O
 chair O
@@ -4533,8 +4493,6 @@ DELIVERY O
 በመጫን O
 ማዘዝ O
 ትችላላቹ O
-@sinasinaye O
-@sinayalj2 O
 አድራሻ O
 ቁጥር O
 ገርጂ I-LOC
@@ -4622,7 +4580,7 @@ FF-09 O
 ደስታ O
 እናበስራለን O
 
-kids O
+kids B-PRODUCT
 school O
 bags O
 3300 I-PRICE
@@ -4641,7 +4599,6 @@ birr O
 በመጫን O
 ማዘዝ O
 ትችላላቹ O
-@sinasinaye O
 https://t.me/sinayelj2 O
 አድራሻ O
 ቁጥር O
@@ -4730,7 +4687,7 @@ FF-09 O
 ደስታ O
 እናበስራለን O
 
-kids O
+kids B-PRODUCT
 school O
 bags O
 with O
@@ -4756,7 +4713,6 @@ birr O
 በመጫን O
 ማዘዝ O
 ትችላላቹ O
-@sinasinaye O
 https://t.me/sinayelj2 O
 አድራሻ O
 ቁጥር O
@@ -4845,7 +4801,7 @@ FF-09 O
 ደስታ O
 እናበስራለን O
 
-kids O
+kids B-PRODUCT
 school O
 bags O
 with O
@@ -4874,7 +4830,6 @@ birr O
 በመጫን O
 ማዘዝ O
 ትችላላቹ O
-@sinasinaye O
 https://t.me/sinayelj2 O
 አድራሻ O
 ቁጥር O
@@ -4975,7 +4930,7 @@ Sipper O
 Thermos O
 Bottle O
 For O
-Baby O
+Baby B-PRODUCT
 With O
 Silicone O
 Cover O
@@ -5004,7 +4959,6 @@ birr O
 በመጫን O
 ማዘዝ O
 ትችላላቹ O
-@sinasinaye O
 https://t.me/sinayelj2 O
 አድራሻ O
 ቁጥር O
@@ -5106,7 +5060,7 @@ Sipper O
 Thermos O
 Bottle O
 For O
-Baby O
+Baby B-PRODUCT
 With O
 Silicone O
 Cover O
@@ -5135,7 +5089,6 @@ birr O
 በመጫን O
 ማዘዝ O
 ትችላላቹ O
-@sinasinaye O
 https://t.me/sinayelj2 O
 አድራሻ O
 ቁጥር O
@@ -5237,7 +5190,7 @@ Sipper O
 Thermos O
 Bottle O
 For O
-Baby O
+Baby B-PRODUCT
 With O
 Silicone O
 Cover O
@@ -5266,7 +5219,6 @@ birr O
 በመጫን O
 ማዘዝ O
 ትችላላቹ O
-@sinasinaye O
 https://t.me/sinayelj2 O
 አድራሻ O
 ቁጥር O
@@ -5379,7 +5331,6 @@ birr O
 በመጫን O
 ማዘዝ O
 ትችላላቹ O
-@sinasinaye O
 https://t.me/sinayelj2 O
 አድራሻ O
 ቁጥር O
@@ -5487,7 +5438,6 @@ birr O
 በመጫን O
 ማዘዝ O
 ትችላላቹ O
-@sinasinaye O
 https://t.me/sinayelj2 O
 አድራሻ O
 ቁጥር O
@@ -5595,7 +5545,6 @@ birr O
 በመጫን O
 ማዘዝ O
 ትችላላቹ O
-@sinasinaye O
 https://t.me/sinayelj2 O
 አድራሻ O
 ቁጥር O
@@ -5686,7 +5635,7 @@ FF-09 O
 
 Londony O
 brand O
-kids O
+kids B-PRODUCT
 t O
 shirt O
 made O
@@ -5709,7 +5658,6 @@ cotton O
 በመጫን O
 ማዘዝ O
 ትችላላቹ O
-@sinasinaye O
 https://t.me/sinayelj2 O
 አድራሻ O
 ቁጥር O
@@ -5800,7 +5748,7 @@ FF-09 O
 
 Londony O
 brand O
-kids O
+kids B-PRODUCT
 t O
 shirt O
 made O
@@ -5824,7 +5772,6 @@ birr O
 በመጫን O
 ማዘዝ O
 ትችላላቹ O
-@sinasinaye O
 https://t.me/sinayelj2 O
 አድራሻ O
 ቁጥር O
@@ -5939,7 +5886,6 @@ birr O
 በመጫን O
 ማዘዝ O
 ትችላላቹ O
-@sinasinaye O
 https://t.me/sinayelj2 O
 አድራሻ O
 ቁጥር O
@@ -6030,7 +5976,7 @@ FF-09 O
 
 High O
 quality O
-kids O
+kids B-PRODUCT
 lunch O
 box O
 with O
@@ -6052,7 +5998,6 @@ birr O
 በመጫን O
 ማዘዝ O
 ትችላላቹ O
-@sinasinaye O
 https://t.me/sinayelj2 O
 አድራሻ O
 ቁጥር O
@@ -6143,7 +6088,7 @@ FF-09 O
 
 High O
 quality O
-kids O
+kids B-PRODUCT
 lunch O
 box O
 250 I-PRICE
@@ -6162,7 +6107,6 @@ birr O
 በመጫን O
 ማዘዝ O
 ትችላላቹ O
-@sinasinaye O
 https://t.me/sinayelj2 O
 አድራሻ O
 ቁጥር O
@@ -6253,7 +6197,7 @@ FF-09 O
 
 High O
 quality O
-kids O
+kids B-PRODUCT
 lunch O
 box O
 with O
@@ -6283,7 +6227,6 @@ birr O
 በመጫን O
 ማዘዝ O
 ትችላላቹ O
-@sinasinaye O
 https://t.me/sinayelj2 O
 አድራሻ O
 ቁጥር O
@@ -6374,7 +6317,7 @@ FF-09 O
 
 High O
 quality O
-kids O
+kids B-PRODUCT
 lunch O
 box O
 with O
@@ -6407,7 +6350,6 @@ birr O
 በመጫን O
 ማዘዝ O
 ትችላላቹ O
-@sinasinaye O
 https://t.me/sinayelj2 O
 አድራሻ O
 ቁጥር O
@@ -6498,7 +6440,7 @@ FF-09 O
 
 High O
 quality O
-kids O
+kids B-PRODUCT
 school O
 bags O
 with O
@@ -6523,7 +6465,6 @@ birr O
 በመጫን O
 ማዘዝ O
 ትችላላቹ O
-@sinasinaye O
 https://t.me/sinayelj2 O
 አድራሻ O
 ቁጥር O
@@ -6614,7 +6555,7 @@ FF-09 O
 
 High O
 quality O
-kids O
+kids B-PRODUCT
 school O
 bags O
 with O
@@ -6639,7 +6580,6 @@ birr O
 በመጫን O
 ማዘዝ O
 ትችላላቹ O
-@sinasinaye O
 https://t.me/sinayelj2 O
 አድራሻ O
 ቁጥር O
@@ -6776,7 +6716,6 @@ design O
 በመጫን O
 ማዘዝ O
 ትችላላቹ O
-@sinasinaye O
 https://t.me/sinayelj2 O
 አድራሻ O
 ቁጥር O
@@ -6867,7 +6806,7 @@ FF-09 O
 
 5 I-PRICE
 pcs O
-baby O
+baby B-PRODUCT
 bath O
 set O
 7000 I-PRICE
@@ -6888,7 +6827,6 @@ delivery O
 በመጫን O
 ማዘዝ O
 ትችላላቹ O
-@sinasinaye O
 https://t.me/sinayelj2 O
 አድራሻ O
 ቁጥር O
@@ -7059,8 +6997,6 @@ FF-09 O
 በመጫን O
 ማዘዝ O
 ትችላላቹ O
-@sinasinaye O
-@sinayalj2 O
 አድራሻ O
 ቁጥር O
 ገርጂ I-LOC
@@ -7149,7 +7085,7 @@ FF-09 O
 እናበስራለን O
 
 LONDONY O
-BABY O
+BABY B-PRODUCT
 high O
 quality O
 7 I-PRICE
@@ -7172,7 +7108,6 @@ birr O
 በመጫን O
 ማዘዝ O
 ትችላላቹ O
-@sinasinaye O
 https://t.me/sinayelj2 O
 አድራሻ O
 ቁጥር O
@@ -7282,7 +7217,7 @@ FF-09 O
 ነው O
 
 Pretty O
-baby O
+baby B-PRODUCT
 pacifier O
 300 I-PRICE
 birr O
@@ -7296,8 +7231,6 @@ birr O
 በመጫን O
 ማዘዝ O
 ትችላላቹ O
-@sinasinaye O
-@sinayalj2 O
 አድራሻ O
 ቁጥር O
 ገርጂ I-LOC
@@ -7400,8 +7333,6 @@ birr O
 በመጫን O
 ማዘዝ O
 ትችላላቹ O
-@sinasinaye O
-@sinayalj2 O
 አድራሻ O
 ቁጥር O
 ገርጂ I-LOC
@@ -7503,8 +7434,6 @@ birr O
 በመጫን O
 ማዘዝ O
 ትችላላቹ O
-@sinasinaye O
-@sinayalj2 O
 አድራሻ O
 ቁጥር O
 ገርጂ I-LOC
@@ -7607,8 +7536,6 @@ birr O
 በመጫን O
 ማዘዝ O
 ትችላላቹ O
-@sinasinaye O
-@sinayalj2 O
 አድራሻ O
 ቁጥር O
 ገርጂ I-LOC
@@ -7697,7 +7624,7 @@ FF-09 O
 እናበስራለን O
 
 Silicone O
-baby O
+baby B-PRODUCT
 bibs O
 Available O
 on O
@@ -7715,8 +7642,6 @@ birr O
 በመጫን O
 ማዘዝ O
 ትችላላቹ O
-@sinasinaye O
-@sinayalj2 O
 አድራሻ O
 ቁጥር O
 ገርጂ I-LOC
@@ -7818,8 +7743,6 @@ birr O
 በመጫን O
 ማዘዝ O
 ትችላላቹ O
-@sinasinaye O
-@sinayalj2 O
 አድራሻ O
 ቁጥር O
 ገርጂ I-LOC
@@ -7949,8 +7872,6 @@ blankrt O
 በመጫን O
 ማዘዝ O
 ትችላላቹ O
-@sinasinaye O
-@sinayalj2 O
 አድራሻ O
 ቁጥር O
 ገርጂ I-LOC
@@ -8054,8 +7975,6 @@ FF-09 O
 በመጫን O
 ማዘዝ O
 ትችላላቹ O
-@sinasinaye O
-@sinayalj2 O
 አድራሻ O
 ቁጥር O
 ገርጂ I-LOC
@@ -8168,8 +8087,6 @@ FF-09 O
 በመጫን O
 ማዘዝ O
 ትችላላቹ O
-@sinasinaye O
-@sinayalj2 O
 አድራሻ O
 ቁጥር O
 ገርጂ I-LOC
@@ -8257,7 +8174,7 @@ FF-09 O
 ደስታ O
 እናበስራለን O
 
-baby O
+baby B-PRODUCT
 stroller O
 በጣም O
 ምቹ O
@@ -8278,7 +8195,7 @@ Free O
 delivery O
 0909003864 O
 0905707448 O
-baby O
+baby B-PRODUCT
 stroller O
 በጣም O
 ምቹ O
@@ -8314,7 +8231,6 @@ delivery O
 በመጫን O
 ማዘዝ O
 ትችላላቹ O
-@sinasinaye O
 https://t.me/sinayelj2 O
 አድራሻ O
 ቁጥር O
@@ -8403,11 +8319,11 @@ FF-09 O
 ደስታ O
 እናበስራለን O
 
-Baby O
+Baby B-PRODUCT
 5-in- O
 Pack O
 and O
-Play O
+Play B-PRODUCT
 with O
 Bassinet, O
 Bassinet O
@@ -8415,7 +8331,7 @@ Bedside O
 Sleeper O
 5 I-PRICE
 Functions, O
-Baby O
+Baby B-PRODUCT
 Crib O
 with O
 Mattress, O
@@ -8449,7 +8365,6 @@ delivery O
 በመጫን O
 ማዘዝ O
 ትችላላቹ O
-@sinasinaye O
 https://t.me/sinayelj2 O
 አድራሻ O
 ቁጥር O
@@ -8541,7 +8456,7 @@ FF-09 O
 0 I-PRICE
 pcs O
 የልጆች O
-መጫወቻ O
+መጫወቻ B-PRODUCT
 600 I-PRICE
 ብር I-PRICE
 0909003864 O
@@ -8560,7 +8475,6 @@ pcs O
 በመጫን O
 ማዘዝ O
 ትችላላቹ O
-@sinasinaye O
 https://t.me/sinayelj2 O
 አድራሻ O
 ቁጥር O
@@ -8692,8 +8606,6 @@ blener O
 በመጫን O
 ማዘዝ O
 ትችላላቹ O
-@sinasinaye O
-@sinayalj2 O
 አድራሻ O
 ቁጥር O
 ገርጂ I-LOC
@@ -8807,8 +8719,6 @@ FF-09 O
 በመጫን O
 ማዘዝ O
 ትችላላቹ O
-@sinasinaye O
-@sinayalj2 O
 አድራሻ O
 ቁጥር O
 ገርጂ I-LOC
@@ -8900,7 +8810,7 @@ FF-09 O
 pcs O
 slime O
 for O
-kids O
+kids B-PRODUCT
 400 I-PRICE
 birr O
 0909003864 O
@@ -8917,7 +8827,6 @@ birr O
 በመጫን O
 ማዘዝ O
 ትችላላቹ O
-@sinasinaye O
 https://t.me/sinayelj2 O
 አድራሻ O
 ቁጥር O
@@ -9045,7 +8954,6 @@ birr O
 በመጫን O
 ማዘዝ O
 ትችላላቹ O
-@sinasinaye O
 https://t.me/sinayelj2 O
 አድራሻ O
 ቁጥር O
@@ -9161,7 +9069,6 @@ birr O
 በመጫን O
 ማዘዝ O
 ትችላላቹ O
-@sinasinaye O
 https://t.me/sinayelj2 O
 አድራሻ O
 ቁጥር O
@@ -9252,7 +9159,7 @@ FF-09 O
 
 High O
 quality O
-baby O
+baby B-PRODUCT
 jumpsuit O
 2000 I-PRICE
 birr O
@@ -9270,7 +9177,6 @@ birr O
 በመጫን O
 ማዘዝ O
 ትችላላቹ O
-@sinasinaye O
 https://t.me/sinayelj2 O
 አድራሻ O
 ቁጥር O
@@ -9361,7 +9267,7 @@ FF-09 O
 
 Newborn O
 Lounger O
-Baby O
+Baby B-PRODUCT
 Sleeping O
 Pillow O
 Breathable O
@@ -9387,7 +9293,6 @@ birr O
 በመጫን O
 ማዘዝ O
 ትችላላቹ O
-@sinasinaye O
 https://t.me/sinayelj2 O
 አድራሻ O
 ቁጥር O
@@ -9492,7 +9397,6 @@ birr O
 በመጫን O
 ማዘዝ O
 ትችላላቹ O
-@sinasinaye O
 https://t.me/sinayelj2 O
 አድራሻ O
 ቁጥር O
@@ -9584,7 +9488,7 @@ FF-09 O
 High O
 quality O
 Disney O
-baby O
+baby B-PRODUCT
 jumpsuit O
 500 I-PRICE
 birr O
@@ -9602,7 +9506,6 @@ birr O
 በመጫን O
 ማዘዝ O
 ትችላላቹ O
-@sinasinaye O
 https://t.me/sinayelj2 O
 አድራሻ O
 ቁጥር O
@@ -9713,7 +9616,6 @@ birr O
 በመጫን O
 ማዘዝ O
 ትችላላቹ O
-@sinasinaye O
 https://t.me/sinayelj2 O
 አድራሻ O
 ቁጥር O
@@ -9817,10 +9719,10 @@ Full O
 Sleeves O
 Romper O
 | O
-Kids O
+Kids B-PRODUCT
 Jumpsuit O
 | O
-Kids O
+Kids B-PRODUCT
 One O
 Piece O
 Outfit O
@@ -9842,7 +9744,6 @@ birr O
 በመጫን O
 ማዘዝ O
 ትችላላቹ O
-@sinasinaye O
 https://t.me/sinayelj2 O
 አድራሻ O
 ቁጥር O
@@ -9931,7 +9832,7 @@ FF-09 O
 ደስታ O
 እናበስራለን O
 
-Kids O
+Kids B-PRODUCT
 fur O
 non-slip O
 boots O
@@ -9953,7 +9854,6 @@ birr O
 በመጫን O
 ማዘዝ O
 ትችላላቹ O
-@sinasinaye O
 https://t.me/sinayelj2 O
 አድራሻ O
 ቁጥር O
@@ -10052,7 +9952,7 @@ Lightweight O
 Rain O
 Boots O
 For O
-Children O
+Children B-PRODUCT
 Non-slip O
 Sole O
 Water O
@@ -10073,7 +9973,6 @@ birr O
 በመጫን O
 ማዘዝ O
 ትችላላቹ O
-@sinasinaye O
 https://t.me/sinayelj2 O
 አድራሻ O
 ቁጥር O
@@ -10184,7 +10083,6 @@ quality O
 በመጫን O
 ማዘዝ O
 ትችላላቹ O
-@sinasinaye O
 https://t.me/sinayelj2 O
 አድራሻ O
 ቁጥር O
@@ -10289,7 +10187,6 @@ birr O
 በመጫን O
 ማዘዝ O
 ትችላላቹ O
-@sinasinaye O
 https://t.me/sinayelj2 O
 አድራሻ O
 ቁጥር O
@@ -10398,7 +10295,7 @@ FF-09 O
 አክብሮት O
 ነው O
 
-Baby O
+Baby B-PRODUCT
 mosquito O
 net O
 450 I-PRICE
@@ -10413,7 +10310,6 @@ birr O
 በመጫን O
 ማዘዝ O
 ትችላላቹ O
-@sinasinaye O
 https://t.me/sinayelj2 O
 አድራሻ O
 ቁጥር O
@@ -10502,7 +10398,7 @@ FF-09 O
 ደስታ O
 እናበስራለን O
 
-Baby O
+Baby B-PRODUCT
 walker O
 and O
 push O
@@ -10582,7 +10478,6 @@ birr O
 በመጫን O
 ማዘዝ O
 ትችላላቹ O
-@sinasinaye O
 https://t.me/sinayelj2 O
 አድራሻ O
 ቁጥር O
@@ -10692,7 +10587,7 @@ FF-09 O
 ነው O
 
 Infantino O
-baby O
+baby B-PRODUCT
 carier O
 ባለ O
 ኮፉያ O
@@ -10721,7 +10616,6 @@ kg O
 በመጫን O
 ማዘዝ O
 ትችላላቹ O
-@sinasinaye O
 https://t.me/sinayelj2 O
 አድራሻ O
 ቁጥር O
@@ -10831,8 +10725,6 @@ FF-09 O
 በመጫን O
 ማዘዝ O
 ትችላላቹ O
-@sinasinaye O
-@sinayalj2 O
 አድራሻ O
 ቁጥር O
 ገርጂ I-LOC
@@ -10941,7 +10833,7 @@ FF-09 O
 ነው O
 
 Sky O
-Baby O
+Baby B-PRODUCT
 high O
 chair O
 ጥራቱ O
@@ -10987,8 +10879,6 @@ DELIVERY O
 በመጫን O
 ማዘዝ O
 ትችላላቹ O
-@sinasinaye O
-@sinayalj2 O
 አድራሻ O
 ቁጥር O
 ገርጂ I-LOC
@@ -11076,7 +10966,7 @@ FF-09 O
 ደስታ O
 እናበስራለን O
 
-Baby O
+Baby B-PRODUCT
 high O
 chair O
 ጥራቱ O
@@ -11122,8 +11012,6 @@ DELIVERY O
 በመጫን O
 ማዘዝ O
 ትችላላቹ O
-@sinasinaye O
-@sinayalj2 O
 አድራሻ O
 ቁጥር O
 ገርጂ I-LOC
@@ -11231,7 +11119,6 @@ birr O
 በመጫን O
 ማዘዝ O
 ትችላላቹ O
-@sinasinaye O
 https://t.me/sinayelj2 O
 አድራሻ O
 ቁጥር O
@@ -11340,7 +11227,6 @@ birr O
 በመጫን O
 ማዘዝ O
 ትችላላቹ O
-@sinasinaye O
 https://t.me/sinayelj2 O
 አድራሻ O
 ቁጥር O
@@ -11450,7 +11336,6 @@ delivery O
 በመጫን O
 ማዘዝ O
 ትችላላቹ O
-@sinasinaye O
 https://t.me/sinayelj2 O
 አድራሻ O
 ቁጥር O
@@ -11555,7 +11440,6 @@ birr O
 በመጫን O
 ማዘዝ O
 ትችላላቹ O
-@sinasinaye O
 https://t.me/sinayelj2 O
 አድራሻ O
 ቁጥር O
@@ -11587,8 +11471,6 @@ cap O
 በመጫን O
 ማዘዝ O
 ትችላላቹ O
-@sinasinaye O
-@sinayalj2 O
 አድራሻ O
 ቁጥር O
 ገርጂ I-LOC
@@ -11678,7 +11560,7 @@ FF-09 O
 
 Anti O
 slip O
-kids O
+kids B-PRODUCT
 shoes O
 700 I-PRICE
 birr O
@@ -11692,8 +11574,6 @@ birr O
 በመጫን O
 ማዘዝ O
 ትችላላቹ O
-@sinasinaye O
-@sinayalj2 O
 አድራሻ O
 ቁጥር O
 ገርጂ I-LOC
@@ -11812,7 +11692,6 @@ FF-09 O
 በመጫን O
 ማዘዝ O
 ትችላላቹ O
-@sinasinaye O
 https://t.me/sinayelj2 O
 አድራሻ O
 ቁጥር O
@@ -11926,7 +11805,7 @@ UK O
 Available O
 on O
 sina O
-kids O
+kids B-PRODUCT
 3300 I-PRICE
 birr O
 0909003864 O
@@ -11939,8 +11818,6 @@ birr O
 በመጫን O
 ማዘዝ O
 ትችላላቹ O
-@sinasinaye O
-@sinayalj2 O
 አድራሻ O
 ቁጥር O
 ገርጂ I-LOC
@@ -12004,28 +11881,27 @@ birr O
 ደስታ O
 እናበስራለን O
 
-❇ O
-Baby O
+Baby B-PRODUCT
 Kid O
 Electric O
 Hair O
 Trimmer O
 High O
 Quality O
-✔Suitable O
+Suitable O
 For O
-Kids O
-✔Safe O
+Kids B-PRODUCT
+Safe O
 Ceramic O
 Blade O
-✔Water O
+Water O
 Proof O
-✔USB O
+USB O
 charge O
-✔Easy O
+Easy O
 to O
 use O
-⚡Cut O
+Cut O
 your O
 hair O
 while O
@@ -12078,8 +11954,6 @@ delivery O
 በመጫን O
 ማዘዝ O
 ትችላላቹ O
-@sinasinaye O
-@sinayalj2 O
 አድራሻ O
 ቁጥር O
 ገርጂ I-LOC
@@ -12167,7 +12041,7 @@ FF-09 O
 ደስታ O
 እናበስራለን O
 
-Kids O
+Kids B-PRODUCT
 Scooter O
 ስኩተሩ O
 ቢፈጥን O
@@ -12193,8 +12067,6 @@ delivery O
 በመጫን O
 ማዘዝ O
 ትችላላቹ O
-@sinasinaye O
-@sinayalj2 O
 አድራሻ O
 ቁጥር O
 ገርጂ I-LOC
@@ -12359,8 +12231,6 @@ FF-09 O
 በመጫን O
 ማዘዝ O
 ትችላላቹ O
-@sinasinaye O
-@sinayalj2 O
 አድራሻ O
 ቁጥር O
 ገርጂ I-LOC
@@ -12495,8 +12365,6 @@ FF-09 O
 በመጫን O
 ማዘዝ O
 ትችላላቹ O
-@sinasinaye O
-@sinayalj2 O
 አድራሻ O
 ቁጥር O
 ገርጂ I-LOC
@@ -12605,12 +12473,12 @@ FF-09 O
 የሚሆን O
 የልብስ O
 ማስጫ O
-▶ለኮንዶሚኒየም O
+ለኮንዶሚኒየም O
 ገላግሌ O
-▶ለክረምት O
+ለክረምት O
 ቤትውስጥ O
 ለማስጣት O
-▶ባጠቃላይ O
+ባጠቃላይ O
 ጠባብ O
 ቤት O
 ላለው O
@@ -12645,8 +12513,6 @@ kg O
 በመጫን O
 ማዘዝ O
 ትችላላቹ O
-@sinasinaye O
-@sinayalj2 O
 አድራሻ O
 ቁጥር O
 ገርጂ I-LOC
@@ -12754,7 +12620,7 @@ FF-09 O
 አክብሮት O
 ነው O
 
-baby O
+baby B-PRODUCT
 travel O
 playpen O
 ከቤተስብ O
@@ -12821,7 +12687,6 @@ playpen O
 በመጫን O
 ማዘዝ O
 ትችላላቹ O
-@sinasinaye O
 https://t.me/sinayelj2 O
 አድራሻ O
 ቁጥር O
@@ -12963,7 +12828,6 @@ delivery O
 በመጫን O
 ማዘዝ O
 ትችላላቹ O
-@sinasinaye O
 https://t.me/sinayelj2 O
 አድራሻ O
 ቁጥር O
@@ -13071,7 +12935,6 @@ https://t.me/sinayelj O
 በመጫን O
 ማዘዝ O
 ትችላላቹ O
-@sinasinaye O
 https://t.me/sinayelj2 O
 አድራሻ O
 ቁጥር O
@@ -13159,7 +13022,6 @@ delivery O
 በመጫን O
 ማዘዝ O
 ትችላላቹ O
-@sinasinaye O
 https://t.me/sinayelj2 O
 አድራሻ O
 ቁጥር O
@@ -13176,7 +13038,7 @@ https://t.me/sinayelj2 O
 ያገኙናል O
 
 Chicco O
-baby O
+baby B-PRODUCT
 carry O
 cot O
 3500ብር I-PRICE
@@ -13198,7 +13060,6 @@ delivery O
 በመጫን O
 ማዘዝ O
 ትችላላቹ O
-@sinasinaye O
 https://t.me/sinayelj2 O
 አድራሻ O
 ቁጥር O
@@ -13288,7 +13149,7 @@ FF-09 O
 እናበስራለን O
 
 KIDILO O
-BABY O
+BABY B-PRODUCT
 CAR O
 SEAT O
 የልጆች O
@@ -13320,8 +13181,6 @@ delivery O
 በመጫን O
 ማዘዝ O
 ትችላላቹ O
-@sinasinaye O
-@sinayalj2 O
 አድራሻ O
 ቁጥር O
 ገርጂ I-LOC
@@ -13447,7 +13306,6 @@ pcs O
 በመጫን O
 ማዘዝ O
 ትችላላቹ O
-@sinasinaye O
 https://t.me/sinayelj2 O
 አድራሻ O
 ቁጥር O
@@ -13481,7 +13339,6 @@ pcs O
 በመጫን O
 ማዘዝ O
 ትችላላቹ O
-@sinasinaye O
 https://t.me/sinayelj2 O
 አድራሻ O
 ቁጥር O
@@ -13519,7 +13376,6 @@ birr O
 በመጫን O
 ማዘዝ O
 ትችላላቹ O
-@sinasinaye O
 https://t.me/sinayelj2 O
 አድራሻ O
 ቁጥር O
@@ -13536,12 +13392,12 @@ https://t.me/sinayelj2 O
 ያገኙናል O
 
 HUDSON O
-BABY O
+BABY B-PRODUCT
 & O
 LITTLE O
 TREASURE O
 Hudson O
-Baby O
+Baby B-PRODUCT
 3 I-PRICE
 Piece O
 Layette O
@@ -13562,7 +13418,6 @@ birr O
 በመጫን O
 ማዘዝ O
 ትችላላቹ O
-@sinasinaye O
 https://t.me/sinayelj2 O
 አድራሻ O
 ቁጥር O
@@ -13598,7 +13453,6 @@ birr O
 በመጫን O
 ማዘዝ O
 ትችላላቹ O
-@sinasinaye O
 https://t.me/sinayelj2 O
 አድራሻ O
 ቁጥር O
@@ -13614,8 +13468,8 @@ https://t.me/sinayelj2 O
 እንደገቡ O
 ያገኙናል O
 
-Toddler O
-Baby O
+Toddler B-PRODUCT
+Baby B-PRODUCT
 Girl O
 Sleeveless O
 Plush O
@@ -13644,7 +13498,6 @@ birr O
 በመጫን O
 ማዘዝ O
 ትችላላቹ O
-@sinasinaye O
 https://t.me/sinayelj2 O
 አድራሻ O
 ቁጥር O
@@ -13660,7 +13513,7 @@ https://t.me/sinayelj2 O
 እንደገቡ O
 ያገኙናል O
 
-Baby O
+Baby B-PRODUCT
 girl O
 high O
 quality O
@@ -13681,7 +13534,6 @@ birr O
 በመጫን O
 ማዘዝ O
 ትችላላቹ O
-@sinasinaye O
 https://t.me/sinayelj2 O
 አድራሻ O
 ቁጥር O
@@ -13697,7 +13549,7 @@ https://t.me/sinayelj2 O
 እንደገቡ O
 ያገኙናል O
 
-Baby O
+Baby B-PRODUCT
 girl O
 3 I-PRICE
 pcs O
@@ -13722,7 +13574,6 @@ birr O
 በመጫን O
 ማዘዝ O
 ትችላላቹ O
-@sinasinaye O
 https://t.me/sinayelj2 O
 አድራሻ O
 ቁጥር O
@@ -13817,8 +13668,6 @@ station O
 በመጫን O
 ማዘዝ O
 ትችላላቹ O
-@sinasinaye O
-@sinayalj2 O
 አድራሻ O
 ቁጥር O
 ገርጂ I-LOC
@@ -13909,23 +13758,23 @@ FF-09 O
 Quality O
 new O
 model O
-baby O
+baby B-PRODUCT
 walker O
 በሁለት O
 መልኩ O
 እንዲራመዱ O
 የሚረዳቸው O
-✔ኛ O
+ኛ O
 ውስጡ O
 ገብተው O
 እንዲራመዱ O
 ጄሪሎ O
 የሚሆን O
-✔2ኛ O
+2ኛ O
 እንደዎከር O
 ይዘውት O
 የሚራመዱበት O
-✔3ኛ O
+3ኛ O
 ቁጭ O
 ብለው O
 እንደ O
@@ -13934,7 +13783,7 @@ walker O
 ሙዚቃ O
 ስላለው O
 የሚፈነድቁበት O
-✔4ኛ O
+4ኛ O
 መመገቢ O
 የሚሆን O
 አድራሻ O
@@ -14016,7 +13865,7 @@ delivery O
 0909003864 O
 0905707448 O
 
-Baby O
+Baby B-PRODUCT
 walker O
 and O
 push O
@@ -14096,7 +13945,6 @@ birr O
 በመጫን O
 ማዘዝ O
 ትችላላቹ O
-@sinasinaye O
 https://t.me/sinayelj2 O
 አድራሻ O
 ቁጥር O
@@ -14231,8 +14079,6 @@ FF-09 O
 በመጫን O
 ማዘዝ O
 ትችላላቹ O
-@sinasinaye O
-@sinayalj2 O
 አድራሻ O
 ቁጥር O
 ገርጂ I-LOC
@@ -14320,7 +14166,7 @@ FF-09 O
 ደስታ O
 እናበስራለን O
 
-Kids O
+Kids B-PRODUCT
 Electric O
 Piano O
 የራሱ O
@@ -14349,8 +14195,6 @@ delivery O
 በመጫን O
 ማዘዝ O
 ትችላላቹ O
-@sinasinaye O
-@sinayalj2 O
 አድራሻ O
 ቁጥር O
 ገርጂ I-LOC
@@ -14460,7 +14304,7 @@ FF-09 O
 
 3 I-PRICE
 pec O
-baby O
+baby B-PRODUCT
 care O
 kit O
 የራሱ O
@@ -14481,8 +14325,6 @@ birr O
 በመጫን O
 ማዘዝ O
 ትችላላቹ O
-@sinasinaye O
-@sinayalj2 O
 አድራሻ O
 ቁጥር O
 ገርጂ I-LOC
@@ -14587,7 +14429,6 @@ cup O
 በመጫን O
 ማዘዝ O
 ትችላላቹ O
-@sinasinaye O
 https://t.me/sinayelj2 O
 አድራሻ O
 ቁጥር O
@@ -14701,7 +14542,6 @@ pcs O
 በመጫን O
 ማዘዝ O
 ትችላላቹ O
-@sinasinaye O
 https://t.me/sinayelj2 O
 አድራሻ O
 ቁጥር O
@@ -14809,7 +14649,6 @@ birr O
 በመጫን O
 ማዘዝ O
 ትችላላቹ O
-@sinasinaye O
 https://t.me/sinayelj2 O
 አድራሻ O
 ቁጥር O
@@ -14898,7 +14737,7 @@ FF-09 O
 ደስታ O
 እናበስራለን O
 
-Kids O
+Kids B-PRODUCT
 mat O
 400 I-PRICE
 ብር I-PRICE
@@ -14916,8 +14755,6 @@ delivery O
 በመጫን O
 ማዘዝ O
 ትችላላቹ O
-@sinasinaye O
-@sinayalj2 O
 አድራሻ O
 ቁጥር O
 ገርጂ I-LOC
@@ -15007,7 +14844,7 @@ FF-09 O
 
 infant O
 to O
-toddler O
+toddler B-PRODUCT
 roker O
 8ኪሎ O
 ድረስ O
@@ -15029,8 +14866,6 @@ delivery O
 በመጫን O
 ማዘዝ O
 ትችላላቹ O
-@sinasinaye O
-@sinayalj2 O
 አድራሻ O
 ቁጥር O
 ገርጂ I-LOC
@@ -15214,8 +15049,6 @@ delivery O
 በመጫን O
 ማዘዝ O
 ትችላላቹ O
-@sinasinaye O
-@sinayalj2 O
 አድራሻ O
 ቁጥር O
 ገርጂ I-LOC
@@ -15303,7 +15136,7 @@ FF-09 O
 ደስታ O
 እናበስራለን O
 
-Baby O
+Baby B-PRODUCT
 car O
 seat O
 and O
@@ -15320,8 +15153,6 @@ birr O
 በመጫን O
 ማዘዝ O
 ትችላላቹ O
-@sinasinaye O
-@sinayalj2 O
 አድራሻ O
 ቁጥር O
 ገርጂ I-LOC
@@ -15443,7 +15274,7 @@ FF-09 O
 ለትንሳኤ O
 በዓልበሠላም O
 አደረሳችሁ O
-አደረሠን❤ O
+አደረሠን O
 መልካም O
 የትንሳኤ O
 በዓል። O
@@ -15469,7 +15300,7 @@ FF-09 O
 ቀን O
 እንሰጣለን O
 
-baby O
+baby B-PRODUCT
 bather O
 900birr O
 Free O
@@ -15492,8 +15323,6 @@ color O
 በመጫን O
 ማዘዝ O
 ትችላላቹ O
-@sinasinaye O
-@sinayalj2 O
 አድራሻ O
 ቁጥር O
 ገርጂ I-LOC
@@ -15582,7 +15411,7 @@ FF-09 O
 እናበስራለን O
 
 Burbay O
-baby O
+baby B-PRODUCT
 travel O
 playpen O
 ከቤተስብ O
@@ -15649,7 +15478,6 @@ playpen O
 በመጫን O
 ማዘዝ O
 ትችላላቹ O
-@sinasinaye O
 https://t.me/sinayelj2 O
 አድራሻ O
 ቁጥር O
@@ -15797,8 +15625,6 @@ delivery O
 በመጫን O
 ማዘዝ O
 ትችላላቹ O
-@sinasinaye O
-@sinayalj2 O
 አድራሻ O
 ቁጥር O
 ገርጂ I-LOC
@@ -15892,7 +15718,7 @@ VERY O
 HIGH O
 QUALITY O
 KDD O
-baby O
+baby B-PRODUCT
 travel O
 playpen O
 ከቤተስብ O
@@ -15981,8 +15807,6 @@ playpen O
 በመጫን O
 ማዘዝ O
 ትችላላቹ O
-@sinasinaye O
-@sinayalj2 O
 አድራሻ O
 ቁጥር O
 ገርጂ I-LOC
@@ -16043,7 +15867,7 @@ playpen O
 
 Dr O
 Gym O
-baby O
+baby B-PRODUCT
 bottle O
 steam O
 sterillizer O
@@ -16065,8 +15889,6 @@ delivery O
 በመጫን O
 ማዘዝ O
 ትችላላቹ O
-@sinasinaye O
-@sinayalj2 O
 አድራሻ O
 ቁጥር O
 ገርጂ I-LOC
@@ -16154,28 +15976,27 @@ FF-09 O
 ደስታ O
 እናበስራለን O
 
-❇ O
-Baby O
+Baby B-PRODUCT
 Kid O
 Electric O
 Hair O
 Trimmer O
 High O
 Quality O
-✔Suitable O
+Suitable O
 For O
-Kids O
-✔Safe O
+Kids B-PRODUCT
+Safe O
 Ceramic O
 Blade O
-✔Water O
+Water O
 Proof O
-✔USB O
+USB O
 charge O
-✔Easy O
+Easy O
 to O
 use O
-⚡Cut O
+Cut O
 your O
 hair O
 while O
@@ -16228,8 +16049,6 @@ delivery O
 በመጫን O
 ማዘዝ O
 ትችላላቹ O
-@sinasinaye O
-@sinayalj2 O
 አድራሻ O
 ቁጥር O
 ገርጂ I-LOC
@@ -16333,7 +16152,6 @@ bank O
 በመጫን O
 ማዘዝ O
 ትችላላቹ O
-@sinasinaye O
 https://t.me/sinayelj2 O
 አድራሻ O
 ቁጥር O
@@ -16440,7 +16258,6 @@ birr O
 በመጫን O
 ማዘዝ O
 ትችላላቹ O
-@sinasinaye O
 https://t.me/sinayelj2 O
 አድራሻ O
 ቁጥር O
@@ -16530,7 +16347,7 @@ FF-09 O
 እናበስራለን O
 
 Only O
-baby O
+baby B-PRODUCT
 double O
 bottle O
 milk O
@@ -16567,7 +16384,6 @@ birr O
 በመጫን O
 ማዘዝ O
 ትችላላቹ O
-@sinasinaye O
 https://t.me/sinayelj2 O
 አድራሻ O
 ቁጥር O
@@ -16656,7 +16472,7 @@ FF-09 O
 ደስታ O
 እናበስራለን O
 
-Kids O
+Kids B-PRODUCT
 Scooter O
 መንዳት O
 እስኪለምዱ O
@@ -16694,8 +16510,6 @@ delivery O
 በመጫን O
 ማዘዝ O
 ትችላላቹ O
-@sinasinaye O
-@sinayalj2 O
 አድራሻ O
 ቁጥር O
 ገርጂ I-LOC
@@ -16786,19 +16600,19 @@ FF-09 O
 Spider O
 Man O
 Superman O
-🦇Batman O
+Batman O
 3800 I-PRICE
 birr O
-🦸‍♂ሙሉውን O
+‍ሙሉውን O
 ትጥቅ O
 ያሟላ O
-🦸‍♂ፊት O
+‍ፊት O
 መሸፈኛ O
 መነፅር O
 መሳይ O
 ጭንብል O
 ያለው O
-🦸‍♂ O
+‍ O
 ለልጆች O
 ተስማሚ O
 እንዲሆን O
@@ -16822,8 +16636,6 @@ years O
 በመጫን O
 ማዘዝ O
 ትችላላቹ O
-@sinasinaye O
-@sinayalj2 O
 አድራሻ O
 ቁጥር O
 ገርጂ I-LOC
@@ -16919,7 +16731,7 @@ and O
 3 I-PRICE
 years O
 old) O
-kids O
+kids B-PRODUCT
 275 I-PRICE
 g O
 for O
@@ -17022,7 +16834,7 @@ to O
 Breast O
 Milk, O
 Non-GMO, O
-Baby O
+Baby B-PRODUCT
 Formula O
 Powder, O
 30.8-oz O
@@ -17046,8 +16858,6 @@ birr O
 በመጫን O
 ማዘዝ O
 ትችላላቹ O
-@sinasinaye O
-@sinayalj2 O
 አድራሻ O
 ቁጥር O
 ገርጂ I-LOC
@@ -17178,7 +16988,6 @@ available O
 በመጫን O
 ማዘዝ O
 ትችላላቹ O
-@sinasinaye O
 https://t.me/sinayelj2 O
 አድራሻ O
 ቁጥር O
@@ -17293,7 +17102,6 @@ pcs O
 በመጫን O
 ማዘዝ O
 ትችላላቹ O
-@sinasinaye O
 https://t.me/sinayelj2 O
 አድራሻ O
 ቁጥር O
@@ -17403,7 +17211,6 @@ birr O
 በመጫን O
 ማዘዝ O
 ትችላላቹ O
-@sinasinaye O
 https://t.me/sinayelj2 O
 አድራሻ O
 ቁጥር O
@@ -17563,7 +17370,6 @@ birr O
 በመጫን O
 ማዘዝ O
 ትችላላቹ O
-@sinasinaye O
 https://t.me/sinayelj2 O
 አድራሻ O
 ቁጥር O
@@ -17695,8 +17501,6 @@ blener O
 በመጫን O
 ማዘዝ O
 ትችላላቹ O
-@sinasinaye O
-@sinayalj2 O
 አድራሻ O
 ቁጥር O
 ገርጂ I-LOC
@@ -17835,7 +17639,6 @@ FF-09 O
 በመጫን O
 ማዘዝ O
 ትችላላቹ O
-@sinasinaye O
 https://t.me/sinayelj2 O
 አድራሻ O
 ቁጥር O
@@ -17984,7 +17787,6 @@ FF-09 O
 በመጫን O
 ማዘዝ O
 ትችላላቹ O
-@sinasinaye O
 https://t.me/sinayelj2 O
 አድራሻ O
 ቁጥር O
@@ -18073,7 +17875,7 @@ FF-09 O
 ደስታ O
 እናበስራለን O
 
-baby O
+baby B-PRODUCT
 babi O
 የልጆችን O
 ቀልብ O
@@ -18100,8 +17902,6 @@ babi O
 በመጫን O
 ማዘዝ O
 ትችላላቹ O
-@sinasinaye O
-@sinayalj2 O
 አድራሻ O
 ቁጥር O
 ገርጂ I-LOC
@@ -18192,7 +17992,7 @@ FF-09 O
 Windproof O
 And O
 Warm O
-Baby O
+Baby B-PRODUCT
 Sleeping O
 Bag O
 blue O
@@ -18213,7 +18013,6 @@ available O
 በመጫን O
 ማዘዝ O
 ትችላላቹ O
-@sinasinaye O
 https://t.me/sinayelj2 O
 አድራሻ O
 ቁጥር O
@@ -18306,7 +18105,7 @@ High O
 quality O
 3 I-PRICE
 pcs O
-baby O
+baby B-PRODUCT
 jumpsuit O
 2600 I-PRICE
 birr O
@@ -18324,7 +18123,6 @@ birr O
 በመጫን O
 ማዘዝ O
 ትችላላቹ O
-@sinasinaye O
 https://t.me/sinayelj2 O
 አድራሻ O
 ቁጥር O
@@ -18415,7 +18213,7 @@ FF-09 O
 
 2 I-PRICE
 in O
-baby O
+baby B-PRODUCT
 girl O
 dress O
 2600 I-PRICE
@@ -18434,7 +18232,6 @@ birr O
 በመጫን O
 ማዘዝ O
 ትችላላቹ O
-@sinasinaye O
 https://t.me/sinayelj2 O
 አድራሻ O
 ቁጥር O
@@ -18525,7 +18322,7 @@ FF-09 O
 
 2 I-PRICE
 in O
-baby O
+baby B-PRODUCT
 girl O
 dress O
 2200 I-PRICE
@@ -18544,7 +18341,6 @@ birr O
 በመጫን O
 ማዘዝ O
 ትችላላቹ O
-@sinasinaye O
 https://t.me/sinayelj2 O
 አድራሻ O
 ቁጥር O
@@ -18635,7 +18431,7 @@ FF-09 O
 
 2 I-PRICE
 in O
-baby O
+baby B-PRODUCT
 girl O
 dress O
 2200 I-PRICE
@@ -18654,7 +18450,6 @@ birr O
 በመጫን O
 ማዘዝ O
 ትችላላቹ O
-@sinasinaye O
 https://t.me/sinayelj2 O
 አድራሻ O
 ቁጥር O
@@ -18745,7 +18540,7 @@ FF-09 O
 
 2 I-PRICE
 in O
-baby O
+baby B-PRODUCT
 girl O
 dress O
 2200 I-PRICE
@@ -18764,7 +18559,6 @@ birr O
 በመጫን O
 ማዘዝ O
 ትችላላቹ O
-@sinasinaye O
 https://t.me/sinayelj2 O
 አድራሻ O
 ቁጥር O
@@ -18855,7 +18649,7 @@ FF-09 O
 
 2 I-PRICE
 in O
-baby O
+baby B-PRODUCT
 girl O
 dress O
 2200 I-PRICE
@@ -18874,7 +18668,6 @@ birr O
 በመጫን O
 ማዘዝ O
 ትችላላቹ O
-@sinasinaye O
 https://t.me/sinayelj2 O
 አድራሻ O
 ቁጥር O
@@ -18965,7 +18758,7 @@ FF-09 O
 
 2 I-PRICE
 in O
-baby O
+baby B-PRODUCT
 girl O
 dress O
 2200 I-PRICE
@@ -18984,7 +18777,6 @@ birr O
 በመጫን O
 ማዘዝ O
 ትችላላቹ O
-@sinasinaye O
 https://t.me/sinayelj2 O
 አድራሻ O
 ቁጥር O
@@ -19075,7 +18867,7 @@ FF-09 O
 
 2 I-PRICE
 in O
-baby O
+baby B-PRODUCT
 girl O
 dress O
 2200 I-PRICE
@@ -19094,7 +18886,6 @@ birr O
 በመጫን O
 ማዘዝ O
 ትችላላቹ O
-@sinasinaye O
 https://t.me/sinayelj2 O
 አድራሻ O
 ቁጥር O
@@ -19185,7 +18976,7 @@ FF-09 O
 
 2 I-PRICE
 in O
-baby O
+baby B-PRODUCT
 girl O
 dress O
 2200 I-PRICE
@@ -19204,7 +18995,6 @@ birr O
 በመጫን O
 ማዘዝ O
 ትችላላቹ O
-@sinasinaye O
 https://t.me/sinayelj2 O
 አድራሻ O
 ቁጥር O
@@ -19295,7 +19085,7 @@ FF-09 O
 
 High O
 quality O
-baby O
+baby B-PRODUCT
 jump O
 suit O
 500 I-PRICE
@@ -19314,7 +19104,6 @@ birr O
 በመጫን O
 ማዘዝ O
 ትችላላቹ O
-@sinasinaye O
 https://t.me/sinayelj2 O
 አድራሻ O
 ቁጥር O
@@ -19405,7 +19194,7 @@ FF-09 O
 
 High O
 quality O
-baby O
+baby B-PRODUCT
 jump O
 suit O
 900 I-PRICE
@@ -19424,7 +19213,6 @@ birr O
 በመጫን O
 ማዘዝ O
 ትችላላቹ O
-@sinasinaye O
 https://t.me/sinayelj2 O
 አድራሻ O
 ቁጥር O
@@ -19531,7 +19319,6 @@ gown O
 በመጫን O
 ማዘዝ O
 ትችላላቹ O
-@sinasinaye O
 https://t.me/sinayelj2 O
 አድራሻ O
 ቁጥር O
@@ -19624,7 +19411,7 @@ High O
 quality O
 3 I-PRICE
 pcs O
-baby O
+baby B-PRODUCT
 clothes O
 900 I-PRICE
 birr O
@@ -19642,7 +19429,6 @@ birr O
 በመጫን O
 ማዘዝ O
 ትችላላቹ O
-@sinasinaye O
 https://t.me/sinayelj2 O
 አድራሻ O
 ቁጥር O
@@ -19735,7 +19521,7 @@ High O
 quality O
 3 I-PRICE
 pcs O
-baby O
+baby B-PRODUCT
 clothes O
 250 I-PRICE
 birr O
@@ -19753,7 +19539,6 @@ birr O
 በመጫን O
 ማዘዝ O
 ትችላላቹ O
-@sinasinaye O
 https://t.me/sinayelj2 O
 አድራሻ O
 ቁጥር O
@@ -19861,7 +19646,6 @@ birr O
 በመጫን O
 ማዘዝ O
 ትችላላቹ O
-@sinasinaye O
 https://t.me/sinayelj2 O
 አድራሻ O
 ቁጥር O
@@ -19954,7 +19738,7 @@ High O
 quality O
 2 I-PRICE
 in O
-baby O
+baby B-PRODUCT
 jump O
 suit O
 250 I-PRICE
@@ -19973,7 +19757,6 @@ birr O
 በመጫን O
 ማዘዝ O
 ትችላላቹ O
-@sinasinaye O
 https://t.me/sinayelj2 O
 አድራሻ O
 ቁጥር O
@@ -20083,7 +19866,6 @@ birr O
 በመጫን O
 ማዘዝ O
 ትችላላቹ O
-@sinasinaye O
 https://t.me/sinayelj2 O
 አድራሻ O
 ቁጥር O
@@ -20190,7 +19972,6 @@ pcs O
 በመጫን O
 ማዘዝ O
 ትችላላቹ O
-@sinasinaye O
 https://t.me/sinayelj2 O
 አድራሻ O
 ቁጥር O
@@ -20315,7 +20096,6 @@ birr O
 በመጫን O
 ማዘዝ O
 ትችላላቹ O
-@sinasinaye O
 https://t.me/sinayelj2 O
 አድራሻ O
 ቁጥር O
@@ -20431,7 +20211,6 @@ stoking O
 በመጫን O
 ማዘዝ O
 ትችላላቹ O
-@sinasinaye O
 https://t.me/sinayelj2 O
 አድራሻ O
 ቁጥር O
@@ -20544,7 +20323,6 @@ FF-09 O
 በመጫን O
 ማዘዝ O
 ትችላላቹ O
-@sinasinaye O
 https://t.me/sinayelj2 O
 አድራሻ O
 ቁጥር O
@@ -20656,7 +20434,6 @@ FF-09 O
 በመጫን O
 ማዘዝ O
 ትችላላቹ O
-@sinasinaye O
 https://t.me/sinayelj2 O
 አድራሻ O
 ቁጥር O
@@ -20747,22 +20524,22 @@ FF-09 O
 
 6 I-PRICE
 pcs O
-Baby O
+Baby B-PRODUCT
 Feeding O
 Set O
 of O
 6, O
 Suction O
-Baby O
+Baby B-PRODUCT
 Plates O
 and O
 Bowls O
 Sets, O
-Baby O
+Baby B-PRODUCT
 Led O
 Weaning O
 Supplies, O
-Toddler O
+Toddler B-PRODUCT
 Fork O
 Spoon O
 Utensils, O
@@ -20779,8 +20556,6 @@ birr O
 በመጫን O
 ማዘዝ O
 ትችላላቹ O
-@sinasinaye O
-@sinayalj2 O
 አድራሻ O
 ቁጥር O
 ገርጂ I-LOC
@@ -20956,8 +20731,6 @@ delivery O
 በመጫን O
 ማዘዝ O
 ትችላላቹ O
-@sinasinaye O
-@sinayalj2 O
 አድራሻ O
 ቁጥር O
 ገርጂ I-LOC
@@ -21055,7 +20828,7 @@ Ball O
 Double O
 Finger O
 Shooting O
-Toy O
+Toy B-PRODUCT
 Set O
 Funny O
 Pinball O
@@ -21063,7 +20836,7 @@ Interactive O
 Board O
 Game O
 for O
-Kids O
+Kids B-PRODUCT
 Family O
 500 I-PRICE
 birr O
@@ -21081,7 +20854,6 @@ birr O
 በመጫን O
 ማዘዝ O
 ትችላላቹ O
-@sinasinaye O
 https://t.me/sinayelj2 O
 አድራሻ O
 ቁጥር O
@@ -21171,7 +20943,7 @@ FF-09 O
 እናበስራለን O
 
 Basketball O
-Play O
+Play B-PRODUCT
 Set O
 450 I-PRICE
 birr O
@@ -21185,8 +20957,6 @@ birr O
 በመጫን O
 ማዘዝ O
 ትችላላቹ O
-@sinasinaye O
-@sinayalj2 O
 አድራሻ O
 ቁጥር O
 ገርጂ I-LOC
@@ -21274,12 +21044,12 @@ FF-09 O
 ደስታ O
 እናበስራለን O
 
-Baby O
+Baby B-PRODUCT
 Montessori O
 Education O
 Toys O
 for O
-Children O
+Children B-PRODUCT
 Throw O
 the O
 Snares O
@@ -21303,7 +21073,6 @@ birr O
 በመጫን O
 ማዘዝ O
 ትችላላቹ O
-@sinasinaye O
 https://t.me/sinayelj2 O
 አድራሻ O
 ቁጥር O
@@ -21420,8 +21189,6 @@ net O
 በመጫን O
 ማዘዝ O
 ትችላላቹ O
-@sinasinaye O
-@sinayalj2 O
 አድራሻ O
 ቁጥር O
 ገርጂ I-LOC
@@ -21538,8 +21305,6 @@ delivery O
 በመጫን O
 ማዘዝ O
 ትችላላቹ O
-@sinasinaye O
-@sinayalj2 O
 አድራሻ O
 ቁጥር O
 ገርጂ I-LOC
@@ -21649,7 +21414,7 @@ FF-09 O
 
 Newborn O
 Lounger O
-Baby O
+Baby B-PRODUCT
 Sleeping O
 Pillow O
 Breathable O
@@ -21675,7 +21440,6 @@ birr O
 በመጫን O
 ማዘዝ O
 ትችላላቹ O
-@sinasinaye O
 https://t.me/sinayelj2 O
 አድራሻ O
 ቁጥር O
@@ -21764,7 +21528,7 @@ FF-09 O
 ደስታ O
 እናበስራለን O
 
-Baby O
+Baby B-PRODUCT
 sleeping O
 bag O
 700 I-PRICE
@@ -21779,8 +21543,6 @@ birr O
 በመጫን O
 ማዘዝ O
 ትችላላቹ O
-@sinasinaye O
-@sinayalj2 O
 አድራሻ O
 ቁጥር O
 ገርጂ I-LOC
@@ -21905,7 +21667,6 @@ https://t.me/sinayelj O
 በመጫን O
 ማዘዝ O
 ትችላላቹ O
-@sinasinaye O
 https://t.me/sinayelj2 O
 አድራሻ O
 ቁጥር O
@@ -21995,7 +21756,7 @@ FF-09 O
 እናበስራለን O
 
 Magic O
-Play O
+Play B-PRODUCT
 Sand O
 with O
 moulds O
@@ -22012,7 +21773,6 @@ https://t.me/sinayelj O
 በመጫን O
 ማዘዝ O
 ትችላላቹ O
-@sinasinaye O
 https://t.me/sinayelj2 O
 አድራሻ O
 ቁጥር O
@@ -22136,7 +21896,6 @@ https://t.me/sinayelj O
 በመጫን O
 ማዘዝ O
 ትችላላቹ O
-@sinasinaye O
 https://t.me/sinayelj2 O
 አድራሻ O
 ቁጥር O
@@ -22227,7 +21986,7 @@ FF-09 O
 
 3 I-PRICE
 pec O
-baby O
+baby B-PRODUCT
 care O
 kit O
 የራሱ O
@@ -22248,8 +22007,6 @@ birr O
 በመጫን O
 ማዘዝ O
 ትችላላቹ O
-@sinasinaye O
-@sinayalj2 O
 አድራሻ O
 ቁጥር O
 ገርጂ I-LOC
@@ -22353,8 +22110,6 @@ FF-09 O
 በመጫን O
 ማዘዝ O
 ትችላላቹ O
-@sinasinaye O
-@sinayalj2 O
 አድራሻ O
 ቁጥር O
 ገርጂ I-LOC
@@ -22442,7 +22197,7 @@ FF-09 O
 ደስታ O
 እናበስራለን O
 
-Baby O
+Baby B-PRODUCT
 bath O
 mat O
 850 I-PRICE
@@ -22457,8 +22212,6 @@ birr O
 በመጫን O
 ማዘዝ O
 ትችላላቹ O
-@sinasinaye O
-@sinayalj2 O
 አድራሻ O
 ቁጥር O
 ገርጂ I-LOC
@@ -22558,8 +22311,6 @@ birr O
 በመጫን O
 ማዘዝ O
 ትችላላቹ O
-@sinasinaye O
-@sinayalj2 O
 አድራሻ O
 ቁጥር O
 ገርጂ I-LOC
@@ -22668,8 +22419,6 @@ FF-09 O
 በመጫን O
 ማዘዝ O
 ትችላላቹ O
-@sinasinaye O
-@sinayalj2 O
 አድራሻ O
 ቁጥር O
 ገርጂ I-LOC
@@ -22757,14 +22506,14 @@ FF-09 O
 ደስታ O
 እናበስራለን O
 
-Baby O
+Baby B-PRODUCT
 Portable O
 Detachable O
 Feeding O
 Pillows O
 Self-Feeding O
 Support O
-Baby O
+Baby B-PRODUCT
 Cushion O
 Pillow O
 ለጡጦ O
@@ -22776,7 +22525,6 @@ Pillow O
 ለመተኛ O
 ትራስነት O
 የሚሆን O
-✅ O
 700 I-PRICE
 ብር I-PRICE
 0909003864 O
@@ -22789,8 +22537,6 @@ Pillow O
 በመጫን O
 ማዘዝ O
 ትችላላቹ O
-@sinasinaye O
-@sinayalj2 O
 አድራሻ O
 ቁጥር O
 ገርጂ I-LOC
@@ -22898,8 +22644,6 @@ birr O
 በመጫን O
 ማዘዝ O
 ትችላላቹ O
-@sinasinaye O
-@sinayalj2 O
 አድራሻ O
 ቁጥር O
 ገርጂ I-LOC
@@ -22987,7 +22731,7 @@ FF-09 O
 ደስታ O
 እናበስራለን O
 
-baby O
+baby B-PRODUCT
 head O
 protector O
 ሙሉ O
@@ -23010,8 +22754,6 @@ protector O
 በመጫን O
 ማዘዝ O
 ትችላላቹ O
-@sinasinaye O
-@sinayalj2 O
 አድራሻ O
 ቁጥር O
 ገርጂ I-LOC
@@ -23114,8 +22856,6 @@ pcs O
 በመጫን O
 ማዘዝ O
 ትችላላቹ O
-@sinasinaye O
-@sinayalj2 O
 አድራሻ O
 ቁጥር O
 ገርጂ I-LOC
@@ -23220,8 +22960,6 @@ birr O
 በመጫን O
 ማዘዝ O
 ትችላላቹ O
-@sinasinaye O
-@sinayalj2 O
 አድራሻ O
 ቁጥር O
 ገርጂ I-LOC
@@ -23321,8 +23059,6 @@ birr O
 በመጫን O
 ማዘዝ O
 ትችላላቹ O
-@sinasinaye O
-@sinayalj2 O
 አድራሻ O
 ቁጥር O
 ገርጂ I-LOC
@@ -23422,8 +23158,6 @@ birr O
 በመጫን O
 ማዘዝ O
 ትችላላቹ O
-@sinasinaye O
-@sinayalj2 O
 አድራሻ O
 ቁጥር O
 ገርጂ I-LOC
@@ -23523,8 +23257,6 @@ FF-09 O
 በመጫን O
 ማዘዝ O
 ትችላላቹ O
-@sinasinaye O
-@sinayalj2 O
 አድራሻ O
 ቁጥር O
 ገርጂ I-LOC
@@ -23624,8 +23356,6 @@ FF-09 O
 በመጫን O
 ማዘዝ O
 ትችላላቹ O
-@sinasinaye O
-@sinayalj2 O
 አድራሻ O
 ቁጥር O
 ገርጂ I-LOC
@@ -23727,8 +23457,6 @@ FF-09 O
 በመጫን O
 ማዘዝ O
 ትችላላቹ O
-@sinasinaye O
-@sinayalj2 O
 አድራሻ O
 ቁጥር O
 ገርጂ I-LOC
@@ -23828,8 +23556,6 @@ birr O
 በመጫን O
 ማዘዝ O
 ትችላላቹ O
-@sinasinaye O
-@sinayalj2 O
 አድራሻ O
 ቁጥር O
 ገርጂ I-LOC
@@ -23933,8 +23659,6 @@ cap O
 በመጫን O
 ማዘዝ O
 ትችላላቹ O
-@sinasinaye O
-@sinayalj2 O
 አድራሻ O
 ቁጥር O
 ገርጂ I-LOC
@@ -24022,7 +23746,7 @@ FF-09 O
 ደስታ O
 እናበስራለን O
 
-Baby O
+Baby B-PRODUCT
 Hat O
 miiten O
 and O
@@ -24040,8 +23764,6 @@ birr O
 በመጫን O
 ማዘዝ O
 ትችላላቹ O
-@sinasinaye O
-@sinayalj2 O
 አድራሻ O
 ቁጥር O
 ገርጂ I-LOC
@@ -24176,8 +23898,6 @@ delivery O
 በመጫን O
 ማዘዝ O
 ትችላላቹ O
-@sinasinaye O
-@sinayalj2 O
 አድራሻ O
 ቁጥር O
 ገርጂ I-LOC
@@ -24265,7 +23985,7 @@ FF-09 O
 ደስታ O
 እናበስራለን O
 
-Baby O
+Baby B-PRODUCT
 bath O
 toys O
 200 I-PRICE
@@ -24280,8 +24000,6 @@ birr O
 በመጫን O
 ማዘዝ O
 ትችላላቹ O
-@sinasinaye O
-@sinayalj2 O
 አድራሻ O
 ቁጥር O
 ገርጂ I-LOC
@@ -24376,7 +24094,6 @@ FF-09 O
 ካፕ O
 600 I-PRICE
 ብር I-PRICE
-@sinayalj2 O
 0909003864 O
 0905707448 O
 እቃ O
@@ -24387,8 +24104,6 @@ FF-09 O
 በመጫን O
 ማዘዝ O
 ትችላላቹ O
-@sinasinaye O
-@sinayalj2 O
 አድራሻ O
 ቁጥር O
 ገርጂ I-LOC
@@ -24488,8 +24203,6 @@ birr O
 በመጫን O
 ማዘዝ O
 ትችላላቹ O
-@sinasinaye O
-@sinayalj2 O
 አድራሻ O
 ቁጥር O
 ገርጂ I-LOC
@@ -24594,8 +24307,6 @@ FF-09 O
 በመጫን O
 ማዘዝ O
 ትችላላቹ O
-@sinasinaye O
-@sinayalj2 O
 አድራሻ O
 ቁጥር O
 ገርጂ I-LOC
@@ -24692,7 +24403,7 @@ Kids,-28×55 O
 INCH O
 Large O
 Size O
-Kids O
+Kids B-PRODUCT
 Bath O
 Towel,Ultra O
 Soft O
@@ -24722,8 +24433,6 @@ birr O
 በመጫን O
 ማዘዝ O
 ትችላላቹ O
-@sinasinaye O
-@sinayalj2 O
 አድራሻ O
 ቁጥር O
 ገርጂ I-LOC
@@ -24815,9 +24524,9 @@ Spill-Proof O
 Magic O
 Bowl O
 for O
-Baby O
+Baby B-PRODUCT
 Toddlers O
-Kids O
+Kids B-PRODUCT
 800 I-PRICE
 birr O
 0909003864 O
@@ -24830,8 +24539,6 @@ birr O
 በመጫን O
 ማዘዝ O
 ትችላላቹ O
-@sinasinaye O
-@sinayalj2 O
 አድራሻ O
 ቁጥር O
 ገርጂ I-LOC
@@ -24938,7 +24645,6 @@ https://t.me/sinayelj O
 በመጫን O
 ማዘዝ O
 ትችላላቹ O
-@sinasinaye O
 https://t.me/sinayelj2 O
 አድራሻ O
 ቁጥር O
@@ -25021,7 +24727,6 @@ https://t.me/sinayelj O
 በመጫን O
 ማዘዝ O
 ትችላላቹ O
-@sinasinaye O
 https://t.me/sinayelj2 O
 አድራሻ O
 ቁጥር O
@@ -25087,7 +24792,7 @@ https://t.me/sinayelj2 O
 
 2 I-PRICE
 in O
-baby O
+baby B-PRODUCT
 stroller O
 ከመንገድ O
 ጋሪነት O
@@ -25127,7 +24832,6 @@ delivery O
 በመጫን O
 ማዘዝ O
 ትችላላቹ O
-@sinasinaye O
 https://t.me/sinayelj2 O
 አድራሻ O
 ቁጥር O
@@ -25220,7 +24924,7 @@ Multi O
 functional O
 2 I-PRICE
 in O
-baby O
+baby B-PRODUCT
 walker O
 6000 I-PRICE
 birr O
@@ -25234,7 +24938,6 @@ birr O
 በመጫን O
 ማዘዝ O
 ትችላላቹ O
-@sinasinaye O
 https://t.me/sinayelj2 O
 አድራሻ O
 ቁጥር O
@@ -25323,7 +25026,7 @@ FF-09 O
 ደስታ O
 እናበስራለን O
 
-Kids O
+Kids B-PRODUCT
 potty O
 2900 I-PRICE
 birr O
@@ -25337,7 +25040,6 @@ birr O
 በመጫን O
 ማዘዝ O
 ትችላላቹ O
-@sinasinaye O
 https://t.me/sinayelj2 O
 አድራሻ O
 ቁጥር O
@@ -25428,7 +25130,7 @@ FF-09 O
 
 Anti O
 slip O
-kids O
+kids B-PRODUCT
 shoes O
 680 I-PRICE
 birr O
@@ -25442,8 +25144,6 @@ birr O
 በመጫን O
 ማዘዝ O
 ትችላላቹ O
-@sinasinaye O
-@sinayalj2 O
 አድራሻ O
 ቁጥር O
 ገርጂ I-LOC
@@ -25533,7 +25233,7 @@ FF-09 O
 
 Anti O
 slip O
-kids O
+kids B-PRODUCT
 shoes O
 700 I-PRICE
 birr O
@@ -25547,8 +25247,6 @@ birr O
 በመጫን O
 ማዘዝ O
 ትችላላቹ O
-@sinasinaye O
-@sinayalj2 O
 አድራሻ O
 ቁጥር O
 ገርጂ I-LOC
@@ -25638,7 +25336,7 @@ FF-09 O
 
 Anti O
 slip O
-kids O
+kids B-PRODUCT
 shoes O
 700 I-PRICE
 birr O
@@ -25652,8 +25350,6 @@ birr O
 በመጫን O
 ማዘዝ O
 ትችላላቹ O
-@sinasinaye O
-@sinayalj2 O
 አድራሻ O
 ቁጥር O
 ገርጂ I-LOC
@@ -25757,13 +25453,13 @@ Operated O
 Parakeet O
 Parrot O
 Cage O
-Toy O
+Toy B-PRODUCT
 Electric O
 Voice O
 Control O
 Bird O
 Figure O
-Toy O
+Toy B-PRODUCT
 950 I-PRICE
 birr O
 0909003864 O
@@ -25776,8 +25472,6 @@ birr O
 በመጫን O
 ማዘዝ O
 ትችላላቹ O
-@sinasinaye O
-@sinayalj2 O
 አድራሻ O
 ቁጥር O
 ገርጂ I-LOC
@@ -25890,7 +25584,7 @@ UK O
 Available O
 on O
 sina O
-kids O
+kids B-PRODUCT
 3300 I-PRICE
 birr O
 0909003864 O
@@ -25903,8 +25597,6 @@ birr O
 በመጫን O
 ማዘዝ O
 ትችላላቹ O
-@sinasinaye O
-@sinayalj2 O
 አድራሻ O
 ቁጥር O
 ገርጂ I-LOC
@@ -25985,7 +25677,7 @@ to O
 Breast O
 Milk, O
 Non-GMO, O
-Baby O
+Baby B-PRODUCT
 Formula O
 Powder, O
 30.8-oz O
@@ -25995,7 +25687,7 @@ of O
 6) O
 For O
 premature O
-kids O
+kids B-PRODUCT
 7000 I-PRICE
 birr O
 0909003864 O
@@ -26008,8 +25700,6 @@ birr O
 በመጫን O
 ማዘዝ O
 ትችላላቹ O
-@sinasinaye O
-@sinayalj2 O
 አድራሻ O
 ቁጥር O
 ገርጂ I-LOC
@@ -26106,9 +25796,9 @@ by O
 Learn O
 Laugh O
 Love O
-Kids O
+Kids B-PRODUCT
 - O
-Toddler O
+Toddler B-PRODUCT
 Toilet O
 Seat O
 for O
@@ -26128,7 +25818,7 @@ Portable O
 Potty O
 Seat O
 for O
-Toddler O
+Toddler B-PRODUCT
 - O
 Easy O
 & O
@@ -26147,8 +25837,6 @@ birr O
 በመጫን O
 ማዘዝ O
 ትችላላቹ O
-@sinasinaye O
-@sinayalj2 O
 0909003864 O
 0905707448 O
 እቃ O
@@ -26159,8 +25847,6 @@ birr O
 በመጫን O
 ማዘዝ O
 ትችላላቹ O
-@sinasinaye O
-@sinayalj2 O
 አድራሻ O
 ቁጥር O
 ገርጂ I-LOC
@@ -26257,9 +25943,9 @@ by O
 Learn O
 Laugh O
 Love O
-Kids O
+Kids B-PRODUCT
 - O
-Toddler O
+Toddler B-PRODUCT
 Toilet O
 Seat O
 for O
@@ -26279,7 +25965,7 @@ Portable O
 Potty O
 Seat O
 for O
-Toddler O
+Toddler B-PRODUCT
 - O
 Easy O
 & O
@@ -26298,8 +25984,6 @@ birr O
 በመጫን O
 ማዘዝ O
 ትችላላቹ O
-@sinasinaye O
-@sinayalj2 O
 0909003864 O
 0905707448 O
 እቃ O
@@ -26310,8 +25994,6 @@ birr O
 በመጫን O
 ማዘዝ O
 ትችላላቹ O
-@sinasinaye O
-@sinayalj2 O
 አድራሻ O
 ቁጥር O
 ገርጂ I-LOC
@@ -26433,7 +26115,6 @@ birr O
 በመጫን O
 ማዘዝ O
 ትችላላቹ O
-@sinasinaye O
 https://t.me/sinayelj2 O
 አድራሻ O
 ቁጥር O
@@ -26522,7 +26203,7 @@ FF-09 O
 ደስታ O
 እናበስራለን O
 
-Baby O
+Baby B-PRODUCT
 mosquito O
 net O
 400 I-PRICE
@@ -26537,7 +26218,6 @@ birr O
 በመጫን O
 ማዘዝ O
 ትችላላቹ O
-@sinasinaye O
 https://t.me/sinayelj2 O
 አድራሻ O
 ቁጥር O
@@ -26645,7 +26325,6 @@ aspirator O
 በመጫን O
 ማዘዝ O
 ትችላላቹ O
-@sinasinaye O
 https://t.me/sinayelj2 O
 አድራሻ O
 ቁጥር O
@@ -26735,7 +26414,7 @@ FF-09 O
 እናበስራለን O
 
 C8 O
-baby O
+baby B-PRODUCT
 travel O
 bed O
 በቀላሉ O
@@ -26760,8 +26439,6 @@ bed O
 በመጫን O
 ማዘዝ O
 ትችላላቹ O
-@sinasinaye O
-@sinayalj2 O
 አድራሻ O
 ቁጥር O
 ገርጂ I-LOC
@@ -26864,8 +26541,6 @@ birr O
 በመጫን O
 ማዘዝ O
 ትችላላቹ O
-@sinasinaye O
-@sinayalj2 O
 አድራሻ O
 ቁጥር O
 ገርጂ I-LOC
@@ -26993,8 +26668,6 @@ birr O
 በመጫን O
 ማዘዝ O
 ትችላላቹ O
-@sinasinaye O
-@sinayalj2 O
 አድራሻ O
 ቁጥር O
 ገርጂ I-LOC
@@ -27083,7 +26756,7 @@ FF-09 O
 እናበስራለን O
 
 Basketball O
-Play O
+Play B-PRODUCT
 Set O
 with O
 2 I-PRICE
@@ -27101,8 +26774,6 @@ delivery O
 በመጫን O
 ማዘዝ O
 ትችላላቹ O
-@sinasinaye O
-@sinayalj2 O
 አድራሻ O
 ቁጥር O
 ገርጂ I-LOC
@@ -27229,7 +26900,6 @@ FF-09 O
 ኩራት O
 ነው O
 ። O
-❤ O
 ሱቃችን O
 ሙሉ O
 ቀን O
@@ -27273,8 +26943,6 @@ delivery O
 በመጫን O
 ማዘዝ O
 ትችላላቹ O
-@sinasinaye O
-@sinayalj2 O
 አድራሻ O
 ቁጥር O
 ገርጂ I-LOC
@@ -27364,22 +27032,22 @@ FF-09 O
 
 COTTONBEBE O
 Silicone O
-Baby O
+Baby B-PRODUCT
 Feeding O
 Set O
 of O
 6, O
 Suction O
-Baby O
+Baby B-PRODUCT
 Plates O
 and O
 Bowls O
 Sets, O
-Baby O
+Baby B-PRODUCT
 Led O
 Weaning O
 Supplies, O
-Toddler O
+Toddler B-PRODUCT
 Fork O
 Spoon O
 Utensils, O
@@ -27398,8 +27066,6 @@ Pink O
 በመጫን O
 ማዘዝ O
 ትችላላቹ O
-@sinasinaye O
-@sinayalj2 O
 አድራሻ O
 ቁጥር O
 ገርጂ I-LOC
@@ -27489,11 +27155,11 @@ FF-09 O
 
 Parking O
 Lot O
-Play O
+Play B-PRODUCT
 Set O
 For O
-Kids O
-Toy O
+Kids B-PRODUCT
+Toy B-PRODUCT
 Parking O
 27pcs O
 set O
@@ -27509,8 +27175,6 @@ birr O
 በመጫን O
 ማዘዝ O
 ትችላላቹ O
-@sinasinaye O
-@sinayalj2 O
 አድራሻ O
 ቁጥር O
 ገርጂ I-LOC
@@ -27602,11 +27266,11 @@ Racing O
 Car O
 Parking O
 Lot O
-Play O
+Play B-PRODUCT
 Set O
 For O
-Kids O
-Toy O
+Kids B-PRODUCT
+Toy B-PRODUCT
 Parking O
 Garage O
 Set O
@@ -27627,8 +27291,6 @@ birr O
 በመጫን O
 ማዘዝ O
 ትችላላቹ O
-@sinasinaye O
-@sinayalj2 O
 አድራሻ O
 ቁጥር O
 ገርጂ I-LOC
@@ -27721,7 +27383,7 @@ UK O
 Available O
 on O
 sina O
-kids O
+kids B-PRODUCT
 3300 I-PRICE
 birr O
 0909003864 O
@@ -27734,8 +27396,6 @@ birr O
 በመጫን O
 ማዘዝ O
 ትችላላቹ O
-@sinasinaye O
-@sinayalj2 O
 አድራሻ O
 ቁጥር O
 ገርጂ I-LOC
@@ -27881,8 +27541,6 @@ delivery O
 በመጫን O
 ማዘዝ O
 ትችላላቹ O
-@sinasinaye O
-@sinayalj2 O
 አድራሻ O
 ቁጥር O
 ገርጂ I-LOC
@@ -27971,7 +27629,7 @@ FF-09 O
 እናበስራለን O
 
 Only O
-Baby O
+Baby B-PRODUCT
 Natural O
 manual O
 breast O
@@ -27995,8 +27653,6 @@ pump O
 በመጫን O
 ማዘዝ O
 ትችላላቹ O
-@sinasinaye O
-@sinayalj2 O
 አድራሻ O
 ቁጥር O
 ገርጂ I-LOC
@@ -28126,8 +27782,6 @@ blener O
 በመጫን O
 ማዘዝ O
 ትችላላቹ O
-@sinasinaye O
-@sinayalj2 O
 አድራሻ O
 ቁጥር O
 ገርጂ I-LOC
@@ -28227,8 +27881,6 @@ birr O
 በመጫን O
 ማዘዝ O
 ትችላላቹ O
-@sinasinaye O
-@sinayalj2 O
 አድራሻ O
 ቁጥር O
 ገርጂ I-LOC
@@ -28323,14 +27975,14 @@ FF-09 O
 መጨነቅ O
 ቀረ O
 የሕጻናት O
-አጫዋች❤ O
+አጫዋች O
 በቻርጅ O
 የሚሰራ O
 ድምጽ O
 / O
 ሙዚቃ O
 ሲከፈት O
-የሚደንስ🥳 O
+የሚደንስ O
 የልጆችን O
 ትኩረት O
 የሚስብ O
@@ -28349,7 +28001,7 @@ birr O
 
 6 I-PRICE
 pcs O
-baby O
+baby B-PRODUCT
 food O
 feeder O
 set O
@@ -28382,8 +28034,6 @@ set O
 በመጫን O
 ማዘዝ O
 ትችላላቹ O
-@sinasinaye O
-@sinayalj2 O
 አድራሻ O
 ቁጥር O
 ገርጂ I-LOC
@@ -28493,8 +28143,6 @@ cotton O
 በመጫን O
 ማዘዝ O
 ትችላላቹ O
-@sinasinaye O
-@sinayalj2 O
 አድራሻ O
 ቁጥር O
 ገርጂ I-LOC
@@ -28597,8 +28245,6 @@ FF-09 O
 በመጫን O
 ማዘዝ O
 ትችላላቹ O
-@sinasinaye O
-@sinayalj2 O
 አድራሻ O
 ቁጥር O
 ገርጂ I-LOC
@@ -28698,8 +28344,6 @@ birr O
 በመጫን O
 ማዘዝ O
 ትችላላቹ O
-@sinasinaye O
-@sinayalj2 O
 አድራሻ O
 ቁጥር O
 ገርጂ I-LOC
@@ -28807,7 +28451,7 @@ FF-09 O
 አክብሮት O
 ነው O
 
-Kids O
+Kids B-PRODUCT
 sofa O
 መታጠፍ O
 መዘርጋት O
@@ -28841,8 +28485,6 @@ delivery O
 በመጫን O
 ማዘዝ O
 ትችላላቹ O
-@sinasinaye O
-@sinayalj2 O
 አድራሻ O
 ቁጥር O
 ገርጂ I-LOC
@@ -28930,7 +28572,7 @@ FF-09 O
 ደስታ O
 እናበስራለን O
 
-Kids O
+Kids B-PRODUCT
 sofa O
 4400 I-PRICE
 birr O
@@ -28946,8 +28588,6 @@ delivery O
 በመጫን O
 ማዘዝ O
 ትችላላቹ O
-@sinasinaye O
-@sinayalj2 O
 አድራሻ O
 ቁጥር O
 ገርጂ I-LOC
@@ -29035,7 +28675,7 @@ FF-09 O
 ደስታ O
 እናበስራለን O
 
-Kids O
+Kids B-PRODUCT
 sofa O
 4000 I-PRICE
 birr O
@@ -29051,8 +28691,6 @@ delivery O
 በመጫን O
 ማዘዝ O
 ትችላላቹ O
-@sinasinaye O
-@sinayalj2 O
 አድራሻ O
 ቁጥር O
 ገርጂ I-LOC
@@ -29140,7 +28778,7 @@ FF-09 O
 ደስታ O
 እናበስራለን O
 
-Kids O
+Kids B-PRODUCT
 Scooter O
 ስኩተሩ O
 ቢፈጥን O
@@ -29166,8 +28804,6 @@ delivery O
 በመጫን O
 ማዘዝ O
 ትችላላቹ O
-@sinasinaye O
-@sinayalj2 O
 አድራሻ O
 ቁጥር O
 ገርጂ I-LOC
@@ -29255,7 +28891,7 @@ FF-09 O
 ደስታ O
 እናበስራለን O
 
-Kids O
+Kids B-PRODUCT
 Electric O
 Piano O
 የራሱ O
@@ -29284,8 +28920,6 @@ delivery O
 በመጫን O
 ማዘዝ O
 ትችላላቹ O
-@sinasinaye O
-@sinayalj2 O
 አድራሻ O
 ቁጥር O
 ገርጂ I-LOC
@@ -29421,8 +29055,6 @@ DELIVERY O
 በመጫን O
 ማዘዝ O
 ትችላላቹ O
-@sinasinaye O
-@sinayalj2 O
 አድራሻ O
 ቁጥር O
 ገርጂ I-LOC
@@ -29510,7 +29142,7 @@ FF-09 O
 ደስታ O
 እናበስራለን O
 
-Baby O
+Baby B-PRODUCT
 bed O
 bell O
 የአልጋ O
@@ -29529,8 +29161,6 @@ delivery O
 በመጫን O
 ማዘዝ O
 ትችላላቹ O
-@sinasinaye O
-@sinayalj2 O
 አድራሻ O
 ቁጥር O
 ገርጂ I-LOC
@@ -29620,7 +29250,7 @@ FF-09 O
 
 infant O
 to O
-toddler O
+toddler B-PRODUCT
 roker O
 8ኪሎ O
 ድረስ O
@@ -29642,8 +29272,6 @@ delivery O
 በመጫን O
 ማዘዝ O
 ትችላላቹ O
-@sinasinaye O
-@sinayalj2 O
 አድራሻ O
 ቁጥር O
 ገርጂ I-LOC
@@ -29731,7 +29359,7 @@ FF-09 O
 ደስታ O
 እናበስራለን O
 
-Baby O
+Baby B-PRODUCT
 jump O
 suit O
 እግሩ O
@@ -29749,8 +29377,6 @@ suit O
 በመጫን O
 ማዘዝ O
 ትችላላቹ O
-@sinasinaye O
-@sinayalj2 O
 አድራሻ O
 ቁጥር O
 ገርጂ I-LOC
@@ -29822,7 +29448,7 @@ suit O
 ደስታ O
 እናበስራለን O
 
-Baby O
+Baby B-PRODUCT
 romper O
 ከላዩ O
 ፈር O
@@ -29843,8 +29469,6 @@ delivery O
 በመጫን O
 ማዘዝ O
 ትችላላቹ O
-@sinasinaye O
-@sinayalj2 O
 አድራሻ O
 ቁጥር O
 ገርጂ I-LOC
@@ -29941,7 +29565,7 @@ in O
 
 New O
 born O
-baby O
+baby B-PRODUCT
 sleeping O
 bag O
 ቁልፎቹ O
@@ -29960,8 +29584,6 @@ delivery O
 በመጫን O
 ማዘዝ O
 ትችላላቹ O
-@sinasinaye O
-@sinayalj2 O
 አድራሻ O
 ቁጥር O
 ገርጂ I-LOC
@@ -30066,8 +29688,6 @@ FF-09 O
 በመጫን O
 ማዘዝ O
 ትችላላቹ O
-@sinasinaye O
-@sinayalj2 O
 አድራሻ O
 ቁጥር O
 ገርጂ I-LOC
@@ -30211,7 +29831,6 @@ in O
 ወንበርም O
 መሆን O
 ይችላል O
-✅ O
 የራሱ O
 ጥላ O
 ስላለው O
@@ -30219,20 +29838,18 @@ in O
 ውስጥም O
 መጠቀም O
 ይችላል O
-✅ O
 በአራት O
 የከለር O
 አማራጮች O
 የቀረበ O
-✅ O
 ብሉ O
 ብላክ O
 በነጭ O
-✅ፒንክ O
+ፒንክ O
 በነጭ O
-✅ፐርፕል O
+ፐርፕል O
 በነጭ O
-✅ላይት O
+ላይት O
 ብሉ O
 በነጭ7800ብር I-PRICE
 Free O
@@ -30247,8 +29864,6 @@ delivery O
 በመጫን O
 ማዘዝ O
 ትችላላቹ O
-@sinasinaye O
-@sinayalj2 O
 አድራሻ O
 ቁጥር O
 ገርጂ I-LOC
@@ -30357,8 +29972,6 @@ delivery O
 በመጫን O
 ማዘዝ O
 ትችላላቹ O
-@sinasinaye O
-@sinayalj2 O
 አድራሻ O
 ቁጥር O
 ገርጂ I-LOC
@@ -30447,7 +30060,7 @@ FF-09 O
 እናበስራለን O
 
 Mini O
-baby O
+baby B-PRODUCT
 4D O
 style O
 4 I-PRICE
@@ -30499,8 +30112,6 @@ delivery O
 በመጫን O
 ማዘዝ O
 ትችላላቹ O
-@sinasinaye O
-@sinayalj2 O
 አድራሻ O
 ቁጥር O
 ገርጂ I-LOC
@@ -30589,7 +30200,7 @@ FF-09 O
 እናበስራለን O
 
 2in O
-Baby O
+Baby B-PRODUCT
 high O
 chair O
 በጣም O
@@ -30644,8 +30255,6 @@ delivery O
 በመጫን O
 ማዘዝ O
 ትችላላቹ O
-@sinasinaye O
-@sinayalj2 O
 አድራሻ O
 ቁጥር O
 ገርጂ I-LOC
@@ -30854,8 +30463,6 @@ delivery O
 በመጫን O
 ማዘዝ O
 ትችላላቹ O
-@sinasinaye O
-@sinayalj2 O
 አድራሻ O
 ቁጥር O
 ገርጂ I-LOC
@@ -30943,7 +30550,7 @@ FF-09 O
 ደስታ O
 እናበስራለን O
 
-Baby O
+Baby B-PRODUCT
 stroller O
 ቦታ O
 የማይዝ O
@@ -30981,8 +30588,6 @@ stroller O
 በመጫን O
 ማዘዝ O
 ትችላላቹ O
-@sinasinaye O
-@sinayalj2 O
 አድራሻ O
 ቁጥር O
 ገርጂ I-LOC
@@ -31095,7 +30700,7 @@ UK O
 Available O
 on O
 sina O
-kids O
+kids B-PRODUCT
 3300 I-PRICE
 birr O
 0909003864 O
@@ -31108,8 +30713,6 @@ birr O
 በመጫን O
 ማዘዝ O
 ትችላላቹ O
-@sinasinaye O
-@sinayalj2 O
 አድራሻ O
 ቁጥር O
 ገርጂ I-LOC
@@ -31197,7 +30800,7 @@ FF-09 O
 ደስታ O
 እናበስራለን O
 
-Kids O
+Kids B-PRODUCT
 mat O
 በሁለት O
 ሳይዝ O
@@ -31220,8 +30823,6 @@ delivery O
 በመጫን O
 ማዘዝ O
 ትችላላቹ O
-@sinasinaye O
-@sinayalj2 O
 አድራሻ O
 ቁጥር O
 ገርጂ I-LOC
@@ -31316,7 +30917,7 @@ FF-09 O
 መጨነቅ O
 ቀረ O
 የሕጻናት O
-አጫዋች❤ O
+አጫዋች O
 በባትሪ O
 የሚሰራ O
 የልጆችን O
@@ -31339,8 +30940,6 @@ birr O
 በመጫን O
 ማዘዝ O
 ትችላላቹ O
-@sinasinaye O
-@sinayalj2 O
 አድራሻ O
 ቁጥር O
 ገርጂ I-LOC
@@ -31444,8 +31043,6 @@ birr O
 በመጫን O
 ማዘዝ O
 ትችላላቹ O
-@sinasinaye O
-@sinayalj2 O
 አድራሻ O
 ቁጥር O
 ገርጂ I-LOC
@@ -31549,8 +31146,6 @@ birr O
 በመጫን O
 ማዘዝ O
 ትችላላቹ O
-@sinasinaye O
-@sinayalj2 O
 አድራሻ O
 ቁጥር O
 ገርጂ I-LOC
@@ -31639,7 +31234,7 @@ FF-09 O
 እናበስራለን O
 
 Basketball O
-Play O
+Play B-PRODUCT
 Set O
 400 I-PRICE
 birr O
@@ -31653,8 +31248,6 @@ birr O
 በመጫን O
 ማዘዝ O
 ትችላላቹ O
-@sinasinaye O
-@sinayalj2 O
 አድራሻ O
 ቁጥር O
 ገርጂ I-LOC
@@ -31744,8 +31337,8 @@ FF-09 O
 
 trolly O
 suitcase O
-Kids O
-toy O
+Kids B-PRODUCT
+toy B-PRODUCT
 800 I-PRICE
 birr O
 0909003864 O
@@ -31758,8 +31351,6 @@ birr O
 በመጫን O
 ማዘዝ O
 ትችላላቹ O
-@sinasinaye O
-@sinayalj2 O
 አድራሻ O
 ቁጥር O
 ገርጂ I-LOC
@@ -31872,8 +31463,6 @@ FF-09 O
 በመጫን O
 ማዘዝ O
 ትችላላቹ O
-@sinasinaye O
-@sinayalj2 O
 አድራሻ O
 ቁጥር O
 ገርጂ I-LOC
@@ -32033,8 +31622,6 @@ DELIVERY O
 በመጫን O
 ማዘዝ O
 ትችላላቹ O
-@sinasinaye O
-@sinayalj2 O
 አድራሻ O
 ቁጥር O
 ገርጂ I-LOC
@@ -32134,8 +31721,6 @@ birr O
 በመጫን O
 ማዘዝ O
 ትችላላቹ O
-@sinasinaye O
-@sinayalj2 O
 አድራሻ O
 ቁጥር O
 ገርጂ I-LOC
@@ -32256,8 +31841,6 @@ FF-09 O
 በመጫን O
 ማዘዝ O
 ትችላላቹ O
-@sinasinaye O
-@sinayalj2 O
 አድራሻ O
 ቁጥር O
 ገርጂ I-LOC
@@ -32371,7 +31954,7 @@ FF-09 O
 መልካም O
 በዓል!!! O
 
-Baby O
+Baby B-PRODUCT
 car O
 seat O
 and O
@@ -32388,8 +31971,6 @@ birr O
 በመጫን O
 ማዘዝ O
 ትችላላቹ O
-@sinasinaye O
-@sinayalj2 O
 አድራሻ O
 ቁጥር O
 ገርጂ I-LOC
@@ -32481,7 +32062,7 @@ FF-09 O
 ቅናሽ O
 (big O
 sale) O
-BABY O
+BABY B-PRODUCT
 CAR O
 SEAT O
 የልጆች O
@@ -32525,8 +32106,6 @@ delivery O
 በመጫን O
 ማዘዝ O
 ትችላላቹ O
-@sinasinaye O
-@sinayalj2 O
 አድራሻ O
 ቁጥር O
 ገርጂ I-LOC
@@ -32616,22 +32195,22 @@ FF-09 O
 
 COTTONBEBE O
 Silicone O
-Baby O
+Baby B-PRODUCT
 Feeding O
 Set O
 of O
 6, O
 Suction O
-Baby O
+Baby B-PRODUCT
 Plates O
 and O
 Bowls O
 Sets, O
-Baby O
+Baby B-PRODUCT
 Led O
 Weaning O
 Supplies, O
-Toddler O
+Toddler B-PRODUCT
 Fork O
 Spoon O
 Utensils, O
@@ -32650,8 +32229,6 @@ Pink O
 በመጫን O
 ማዘዝ O
 ትችላላቹ O
-@sinasinaye O
-@sinayalj2 O
 አድራሻ O
 ቁጥር O
 ገርጂ I-LOC
@@ -32783,8 +32360,6 @@ delivery O
 በመጫን O
 ማዘዝ O
 ትችላላቹ O
-@sinasinaye O
-@sinayalj2 O
 አድራሻ O
 ቁጥር O
 ገርጂ I-LOC
@@ -32872,7 +32447,7 @@ FF-09 O
 ደስታ O
 እናበስራለን O
 
-Baby O
+Baby B-PRODUCT
 girl O
 beauty O
 Long O
@@ -32891,8 +32466,6 @@ birr O
 በመጫን O
 ማዘዝ O
 ትችላላቹ O
-@sinasinaye O
-@sinayalj2 O
 አድራሻ O
 ቁጥር O
 ገርጂ I-LOC
@@ -32981,7 +32554,7 @@ FF-09 O
 እናበስራለን O
 
 Cool O
-baby O
+baby B-PRODUCT
 travel O
 playpen O
 በቀላሉ O
@@ -33032,8 +32605,6 @@ playpen O
 በመጫን O
 ማዘዝ O
 ትችላላቹ O
-@sinasinaye O
-@sinayalj2 O
 አድራሻ O
 ቁጥር O
 ገርጂ I-LOC
@@ -33173,8 +32744,6 @@ playpen O
 በመጫን O
 ማዘዝ O
 ትችላላቹ O
-@sinasinaye O
-@sinayalj2 O
 አድራሻ O
 ቁጥር O
 ገርጂ I-LOC
@@ -33352,14 +32921,14 @@ FF-09 O
 መጨነቅ O
 ቀረ O
 የሕጻናት O
-አጫዋች❤ O
+አጫዋች O
 በቻርጅ O
 የሚሰራ O
 ድምጽ O
 / O
 ሙዚቃ O
 ሲከፈት O
-የሚደንስ🥳 O
+የሚደንስ O
 የልጆችን O
 ትኩረት O
 የሚስብ O
@@ -33380,8 +32949,6 @@ birr O
 በመጫን O
 ማዘዝ O
 ትችላላቹ O
-@sinasinaye O
-@sinayalj2 O
 አድራሻ O
 ቁጥር O
 ገርጂ I-LOC
@@ -33487,8 +33054,6 @@ birr O
 በመጫን O
 ማዘዝ O
 ትችላላቹ O
-@sinasinaye O
-@sinayalj2 O
 አድራሻ O
 ቁጥር O
 ገርጂ I-LOC
@@ -33623,8 +33188,6 @@ FF-09 O
 በመጫን O
 ማዘዝ O
 ትችላላቹ O
-@sinasinaye O
-@sinayalj2 O
 አድራሻ O
 ቁጥር O
 ገርጂ I-LOC
@@ -33730,8 +33293,6 @@ FF-09 O
 በመጫን O
 ማዘዝ O
 ትችላላቹ O
-@sinasinaye O
-@sinayalj2 O
 አድራሻ O
 ቁጥር O
 ገርጂ I-LOC
@@ -33826,14 +33387,14 @@ FF-09 O
 መጨነቅ O
 ቀረ O
 የሕጻናት O
-አጫዋች❤ O
+አጫዋች O
 በቻርጅ O
 የሚሰራ O
 ድምጽ O
 / O
 ሙዚቃ O
 ሲከፈት O
-የሚደንስ🥳 O
+የሚደንስ O
 የልጆችን O
 ትኩረት O
 የሚስብ O
@@ -33854,8 +33415,6 @@ birr O
 በመጫን O
 ማዘዝ O
 ትችላላቹ O
-@sinasinaye O
-@sinayalj2 O
 አድራሻ O
 ቁጥር O
 ገርጂ I-LOC
@@ -33945,7 +33504,7 @@ FF-09 O
 0905707448 O
 0909003864 O
 
-Baby O
+Baby B-PRODUCT
 stroller O
 ቦታ O
 የማይዝ O
@@ -33989,8 +33548,6 @@ stroller O
 በመጫን O
 ማዘዝ O
 ትችላላቹ O
-@sinasinaye O
-@sinayalj2 O
 አድራሻ O
 ቁጥር O
 ገርጂ I-LOC
@@ -34166,8 +33723,6 @@ delivery O
 በመጫን O
 ማዘዝ O
 ትችላላቹ O
-@sinasinaye O
-@sinayalj2 O
 አድራሻ O
 ቁጥር O
 ገርጂ I-LOC
@@ -34258,7 +33813,7 @@ FF-09 O
 በጣም O
 ኮምፎርተብል O
 ምቹ O
-baby O
+baby B-PRODUCT
 swing O
 በባትሪ O
 እና O
@@ -34295,8 +33850,6 @@ delivery O
 በመጫን O
 ማዘዝ O
 ትችላላቹ O
-@sinasinaye O
-@sinayalj2 O
 አድራሻ O
 ቁጥር O
 ገርጂ I-LOC
@@ -34396,8 +33949,6 @@ birr O
 በመጫን O
 ማዘዝ O
 ትችላላቹ O
-@sinasinaye O
-@sinayalj2 O
 አድራሻ O
 ቁጥር O
 ገርጂ I-LOC
@@ -34506,8 +34057,6 @@ FF-09 O
 በመጫን O
 ማዘዝ O
 ትችላላቹ O
-@sinasinaye O
-@sinayalj2 O
 አድራሻ O
 ቁጥር O
 ገርጂ I-LOC
@@ -34648,8 +34197,6 @@ gun O
 በመጫን O
 ማዘዝ O
 ትችላላቹ O
-@sinasinaye O
-@sinayalj2 O
 አድራሻ O
 ቁጥር O
 ገርጂ I-LOC
@@ -34758,8 +34305,6 @@ FF-09 O
 በመጫን O
 ማዘዝ O
 ትችላላቹ O
-@sinasinaye O
-@sinayalj2 O
 አድራሻ O
 ቁጥር O
 ገርጂ I-LOC
@@ -34850,7 +34395,7 @@ FF-09 O
 Parking O
 lot O
 blocking O
-games O
+games B-PRODUCT
 2000 I-PRICE
 birr O
 0909003864 O
@@ -34863,8 +34408,6 @@ birr O
 በመጫን O
 ማዘዝ O
 ትችላላቹ O
-@sinasinaye O
-@sinayalj2 O
 አድራሻ O
 ቁጥር O
 ገርጂ I-LOC
@@ -34969,8 +34512,6 @@ FF-09 O
 በመጫን O
 ማዘዝ O
 ትችላላቹ O
-@sinasinaye O
-@sinayalj2 O
 አድራሻ O
 ቁጥር O
 ገርጂ I-LOC
@@ -35074,8 +34615,6 @@ birr O
 በመጫን O
 ማዘዝ O
 ትችላላቹ O
-@sinasinaye O
-@sinayalj2 O
 አድራሻ O
 ቁጥር O
 ገርጂ I-LOC
@@ -35168,7 +34707,7 @@ B O
 C O
 multi O
 functional O
-baby O
+baby B-PRODUCT
 walker O
 ህፃናቱ O
 ልክ O
@@ -35227,8 +34766,6 @@ walker O
 በመጫን O
 ማዘዝ O
 ትችላላቹ O
-@sinasinaye O
-@sinayalj2 O
 አድራሻ O
 ቁጥር O
 ገርጂ I-LOC
@@ -35321,7 +34858,7 @@ UK O
 Available O
 on O
 sina O
-kids O
+kids B-PRODUCT
 3300 I-PRICE
 birr O
 0909003864 O
@@ -35334,8 +34871,6 @@ birr O
 በመጫን O
 ማዘዝ O
 ትችላላቹ O
-@sinasinaye O
-@sinayalj2 O
 አድራሻ O
 ቁጥር O
 ገርጂ I-LOC
@@ -35447,7 +34982,7 @@ New O
 Arrivals O
 3in O
 Multifunctional O
-Baby O
+Baby B-PRODUCT
 Walker/Table O
 4500 I-PRICE
 birr O
@@ -35461,8 +34996,6 @@ birr O
 በመጫን O
 ማዘዝ O
 ትችላላቹ O
-@sinasinaye O
-@sinayalj2 O
 አድራሻ O
 ቁጥር O
 ገርጂ I-LOC
@@ -35606,8 +35139,6 @@ FF-09 O
 በመጫን O
 ማዘዝ O
 ትችላላቹ O
-@sinasinaye O
-@sinayalj2 O
 አድራሻ O
 ቁጥር O
 ገርጂ I-LOC
@@ -35723,8 +35254,6 @@ FF-09 O
 በመጫን O
 ማዘዝ O
 ትችላላቹ O
-@sinasinaye O
-@sinayalj2 O
 አድራሻ O
 ቁጥር O
 ገርጂ I-LOC
@@ -35873,7 +35402,6 @@ in O
 ወንበርም O
 መሆን O
 ይችላል O
-✅ O
 የራሱ O
 ጥላ O
 ስላለው O
@@ -35895,8 +35423,6 @@ delivery O
 በመጫን O
 ማዘዝ O
 ትችላላቹ O
-@sinasinaye O
-@sinayalj2 O
 አድራሻ O
 ቁጥር O
 ገርጂ I-LOC
@@ -36050,8 +35576,6 @@ FF-09 O
 በመጫን O
 ማዘዝ O
 ትችላላቹ O
-@sinasinaye O
-@sinayalj2 O
 አድራሻ O
 ቁጥር O
 ገርጂ I-LOC
@@ -36139,7 +35663,7 @@ FF-09 O
 ደስታ O
 እናበስራለን O
 
-Kids O
+Kids B-PRODUCT
 hair O
 towel O
 450 I-PRICE
@@ -36154,8 +35678,6 @@ birr O
 በመጫን O
 ማዘዝ O
 ትችላላቹ O
-@sinasinaye O
-@sinayalj2 O
 አድራሻ O
 ቁጥር O
 ገርጂ I-LOC
@@ -36280,8 +35802,6 @@ birr O
 በመጫን O
 ማዘዝ O
 ትችላላቹ O
-@sinasinaye O
-@sinayalj2 O
 አድራሻ O
 ቁጥር O
 ገርጂ I-LOC
@@ -36381,8 +35901,6 @@ birr O
 በመጫን O
 ማዘዝ O
 ትችላላቹ O
-@sinasinaye O
-@sinayalj2 O
 አድራሻ O
 ቁጥር O
 ገርጂ I-LOC
@@ -36470,7 +35988,7 @@ FF-09 O
 ደስታ O
 እናበስራለን O
 
-Baby O
+Baby B-PRODUCT
 walking O
 shoes O
 800 I-PRICE
@@ -36485,8 +36003,6 @@ birr O
 በመጫን O
 ማዘዝ O
 ትችላላቹ O
-@sinasinaye O
-@sinayalj2 O
 አድራሻ O
 ቁጥር O
 ገርጂ I-LOC
@@ -36575,7 +36091,7 @@ FF-09 O
 እናበስራለን O
 
 Plastic O
-kids O
+kids B-PRODUCT
 drower O
 Available O
 on O
@@ -36595,8 +36111,6 @@ birr O
 በመጫን O
 ማዘዝ O
 ትችላላቹ O
-@sinasinaye O
-@sinayalj2 O
 አድራሻ O
 ቁጥር O
 ገርጂ I-LOC
@@ -36686,7 +36200,7 @@ FF-09 O
 
 Dr O
 Gym O
-baby O
+baby B-PRODUCT
 bottle O
 steam O
 sterillizer O
@@ -36708,8 +36222,6 @@ delivery O
 በመጫን O
 ማዘዝ O
 ትችላላቹ O
-@sinasinaye O
-@sinayalj2 O
 አድራሻ O
 ቁጥር O
 ገርጂ I-LOC
@@ -36835,8 +36347,6 @@ birr O
 በመጫን O
 ማዘዝ O
 ትችላላቹ O
-@sinasinaye O
-@sinayalj2 O
 አድራሻ O
 ቁጥር O
 ገርጂ I-LOC
@@ -36926,7 +36436,7 @@ FF-09 O
 
 Anti O
 slip O
-kids O
+kids B-PRODUCT
 shoes O
 700 I-PRICE
 birr O
@@ -36940,8 +36450,6 @@ birr O
 በመጫን O
 ማዘዝ O
 ትችላላቹ O
-@sinasinaye O
-@sinayalj2 O
 አድራሻ O
 ቁጥር O
 ገርጂ I-LOC
@@ -37059,8 +36567,6 @@ USA O
 በመጫን O
 ማዘዝ O
 ትችላላቹ O
-@sinasinaye O
-@sinayalj2 O
 አድራሻ O
 ቁጥር O
 ገርጂ I-LOC
@@ -37160,8 +36666,6 @@ birr O
 በመጫን O
 ማዘዝ O
 ትችላላቹ O
-@sinasinaye O
-@sinayalj2 O
 አድራሻ O
 ቁጥር O
 ገርጂ I-LOC
@@ -37280,8 +36784,6 @@ FF-09 O
 በመጫን O
 ማዘዝ O
 ትችላላቹ O
-@sinasinaye O
-@sinayalj2 O
 አድራሻ O
 ቁጥር O
 ገርጂ I-LOC
@@ -37369,14 +36871,14 @@ FF-09 O
 ደስታ O
 እናበስራለን O
 
-Baby O
+Baby B-PRODUCT
 Soft O
 Plush O
-Toy O
+Toy B-PRODUCT
 Soft O
 Pull O
 Shock O
-Toy O
+Toy B-PRODUCT
 650 I-PRICE
 birr O
 0909003864 O
@@ -37389,8 +36891,6 @@ birr O
 በመጫን O
 ማዘዝ O
 ትችላላቹ O
-@sinasinaye O
-@sinayalj2 O
 አድራሻ O
 ቁጥር O
 ገርጂ I-LOC
@@ -37482,9 +36982,9 @@ Spill-Proof O
 Magic O
 Bowl O
 for O
-Baby O
+Baby B-PRODUCT
 Toddlers O
-Kids O
+Kids B-PRODUCT
 800 I-PRICE
 birr O
 0909003864 O
@@ -37497,8 +36997,6 @@ birr O
 በመጫን O
 ማዘዝ O
 ትችላላቹ O
-@sinasinaye O
-@sinayalj2 O
 አድራሻ O
 ቁጥር O
 ገርጂ I-LOC
@@ -37587,7 +37085,7 @@ FF-09 O
 እናበስራለን O
 
 Rattle O
-baby O
+baby B-PRODUCT
 toys O
 200 I-PRICE
 birr O
@@ -37601,8 +37099,6 @@ birr O
 በመጫን O
 ማዘዝ O
 ትችላላቹ O
-@sinasinaye O
-@sinayalj2 O
 አድራሻ O
 ቁጥር O
 ገርጂ I-LOC
@@ -37702,8 +37198,6 @@ birr O
 በመጫን O
 ማዘዝ O
 ትችላላቹ O
-@sinasinaye O
-@sinayalj2 O
 አድራሻ O
 ቁጥር O
 ገርጂ I-LOC
@@ -37791,7 +37285,7 @@ FF-09 O
 ደስታ O
 እናበስራለን O
 
-Kids O
+Kids B-PRODUCT
 sofa O
 2650 I-PRICE
 birr O
@@ -37807,8 +37301,6 @@ delivery O
 በመጫን O
 ማዘዝ O
 ትችላላቹ O
-@sinasinaye O
-@sinayalj2 O
 አድራሻ O
 ቁጥር O
 ገርጂ I-LOC
@@ -37946,8 +37438,6 @@ FF-09 O
 በመጫን O
 ማዘዝ O
 ትችላላቹ O
-@sinasinaye O
-@sinayalj2 O
 አድራሻ O
 ቁጥር O
 ገርጂ I-LOC
@@ -38049,8 +37539,6 @@ birr O
 በመጫን O
 ማዘዝ O
 ትችላላቹ O
-@sinasinaye O
-@sinayalj2 O
 አድራሻ O
 ቁጥር O
 ገርጂ I-LOC
@@ -38154,8 +37642,6 @@ birr O
 በመጫን O
 ማዘዝ O
 ትችላላቹ O
-@sinasinaye O
-@sinayalj2 O
 አድራሻ O
 ቁጥር O
 ገርጂ I-LOC
@@ -38279,8 +37765,6 @@ pcs O
 በመጫን O
 ማዘዝ O
 ትችላላቹ O
-@sinasinaye O
-@sinayalj2 O
 አድራሻ O
 ቁጥር O
 ገርጂ I-LOC
@@ -38369,7 +37853,7 @@ FF-09 O
 እናበስራለን O
 
 2m O
-baby O
+baby B-PRODUCT
 safety O
 corner O
 protection O
@@ -38385,8 +37869,6 @@ birr O
 በመጫን O
 ማዘዝ O
 ትችላላቹ O
-@sinasinaye O
-@sinayalj2 O
 አድራሻ O
 ቁጥር O
 ገርጂ I-LOC
@@ -38476,7 +37958,7 @@ FF-09 O
 
 City O
 station O
-toy O
+toy B-PRODUCT
 850 I-PRICE
 birr O
 0909003864 O
@@ -38489,8 +37971,6 @@ birr O
 በመጫን O
 ማዘዝ O
 ትችላላቹ O
-@sinasinaye O
-@sinayalj2 O
 አድራሻ O
 ቁጥር O
 ገርጂ I-LOC
@@ -38590,8 +38070,6 @@ birr O
 በመጫን O
 ማዘዝ O
 ትችላላቹ O
-@sinasinaye O
-@sinayalj2 O
 አድራሻ O
 ቁጥር O
 ገርጂ I-LOC
@@ -38687,8 +38165,8 @@ RING O
 BLOCKS O
 TOWER O
 SENSORY O
-EDUCATIONAL O
-TOY O
+EDUCATIONAL B-PRODUCT
+TOY B-PRODUCT
 950 I-PRICE
 birr O
 0909003864 O
@@ -38701,8 +38179,6 @@ birr O
 በመጫን O
 ማዘዝ O
 ትችላላቹ O
-@sinasinaye O
-@sinayalj2 O
 አድራሻ O
 ቁጥር O
 ገርጂ I-LOC
@@ -38790,7 +38266,7 @@ FF-09 O
 ደስታ O
 እናበስራለን O
 
-Baby O
+Baby B-PRODUCT
 girl O
 turban O
 400 I-PRICE
@@ -38805,8 +38281,6 @@ birr O
 በመጫን O
 ማዘዝ O
 ትችላላቹ O
-@sinasinaye O
-@sinayalj2 O
 አድራሻ O
 0909003864 O
 0905707448 O
@@ -38818,8 +38292,6 @@ birr O
 በመጫን O
 ማዘዝ O
 ትችላላቹ O
-@sinasinaye O
-@sinayalj2 O
 አድራሻ O
 ቁጥር O
 ገርጂ I-LOC
@@ -38914,7 +38386,6 @@ FF-09 O
 ካፕ O
 600 I-PRICE
 ብር I-PRICE
-@sinayalj2 O
 0909003864 O
 0905707448 O
 እቃ O
@@ -38925,8 +38396,6 @@ FF-09 O
 በመጫን O
 ማዘዝ O
 ትችላላቹ O
-@sinasinaye O
-@sinayalj2 O
 አድራሻ O
 ቁጥር O
 ገርጂ I-LOC
@@ -39019,7 +38488,7 @@ FF-09 O
 (big O
 sale) O
 KIDILO O
-BABY O
+BABY B-PRODUCT
 CAR O
 SEAT O
 የልጆች O
@@ -39051,8 +38520,6 @@ delivery O
 በመጫን O
 ማዘዝ O
 ትችላላቹ O
-@sinasinaye O
-@sinayalj2 O
 አድራሻ O
 ቁጥር O
 ገርጂ I-LOC
@@ -39154,8 +38621,6 @@ birr O
 በመጫን O
 ማዘዝ O
 ትችላላቹ O
-@sinasinaye O
-@sinayalj2 O
 አድራሻ O
 ቁጥር O
 ገርጂ I-LOC
@@ -39260,8 +38725,6 @@ shield O
 በመጫን O
 ማዘዝ O
 ትችላላቹ O
-@sinasinaye O
-@sinayalj2 O
 አድራሻ O
 ቁጥር O
 ገርጂ I-LOC
@@ -39349,28 +38812,27 @@ FF-09 O
 ደስታ O
 እናበስራለን O
 
-❇ O
-Baby O
+Baby B-PRODUCT
 Kid O
 Electric O
 Hair O
 Trimmer O
 High O
 Quality O
-✔Suitable O
+Suitable O
 For O
-Kids O
-✔Safe O
+Kids B-PRODUCT
+Safe O
 Ceramic O
 Blade O
-✔Water O
+Water O
 Proof O
-✔USB O
+USB O
 charge O
-✔Easy O
+Easy O
 to O
 use O
-⚡Cut O
+Cut O
 your O
 hair O
 while O
@@ -39423,8 +38885,6 @@ delivery O
 በመጫን O
 ማዘዝ O
 ትችላላቹ O
-@sinasinaye O
-@sinayalj2 O
 አድራሻ O
 ቁጥር O
 ገርጂ I-LOC
@@ -39515,7 +38975,7 @@ FF-09 O
 Mesh O
 cloth O
 and O
-toy O
+toy B-PRODUCT
 HAMPER O
 የልጆች O
 ልብስ O
@@ -39540,8 +39000,6 @@ HAMPER O
 በመጫን O
 ማዘዝ O
 ትችላላቹ O
-@sinasinaye O
-@sinayalj2 O
 አድራሻ O
 ቁጥር O
 ገርጂ I-LOC
@@ -39631,7 +39089,7 @@ FF-09 O
 
 4 I-PRICE
 pcs O
-baby O
+baby B-PRODUCT
 rattle O
 set O
 and O
@@ -39648,8 +39106,6 @@ birr O
 በመጫን O
 ማዘዝ O
 ትችላላቹ O
-@sinasinaye O
-@sinayalj2 O
 አድራሻ O
 ቁጥር O
 ገርጂ I-LOC
@@ -39753,8 +39209,6 @@ birr O
 በመጫን O
 ማዘዝ O
 ትችላላቹ O
-@sinasinaye O
-@sinayalj2 O
 አድራሻ O
 ቁጥር O
 ገርጂ I-LOC
@@ -39860,8 +39314,6 @@ FF-09 O
 በመጫን O
 ማዘዝ O
 ትችላላቹ O
-@sinasinaye O
-@sinayalj2 O
 አድራሻ O
 ቁጥር O
 ገርጂ I-LOC
@@ -39964,8 +39416,6 @@ birr O
 በመጫን O
 ማዘዝ O
 ትችላላቹ O
-@sinasinaye O
-@sinayalj2 O
 አድራሻ O
 ቁጥር O
 ገርጂ I-LOC
@@ -40053,7 +39503,7 @@ FF-09 O
 ደስታ O
 እናበስራለን O
 
-Baby O
+Baby B-PRODUCT
 toys O
 6m+ O
 550birr O
@@ -40067,8 +39517,6 @@ toys O
 በመጫን O
 ማዘዝ O
 ትችላላቹ O
-@sinasinaye O
-@sinayalj2 O
 አድራሻ O
 ቁጥር O
 ገርጂ I-LOC
@@ -40156,7 +39604,7 @@ FF-09 O
 ደስታ O
 እናበስራለን O
 
-Baby O
+Baby B-PRODUCT
 bed O
 bell O
 200 I-PRICE
@@ -40171,8 +39619,6 @@ birr O
 በመጫን O
 ማዘዝ O
 ትችላላቹ O
-@sinasinaye O
-@sinayalj2 O
 አድራሻ O
 ቁጥር O
 ገርጂ I-LOC
@@ -40260,7 +39706,7 @@ FF-09 O
 ደስታ O
 እናበስራለን O
 
-Baby O
+Baby B-PRODUCT
 bath O
 toys O
 200 I-PRICE
@@ -40275,8 +39721,6 @@ birr O
 በመጫን O
 ማዘዝ O
 ትችላላቹ O
-@sinasinaye O
-@sinayalj2 O
 አድራሻ O
 ቁጥር O
 ገርጂ I-LOC
@@ -40399,8 +39843,8 @@ FF-09 O
 
 5 I-PRICE
 in O
-baby O
-play O
+baby B-PRODUCT
+play B-PRODUCT
 gym O
 mat O
 ብዙ O
@@ -40489,8 +39933,6 @@ delivery O
 በመጫን O
 ማዘዝ O
 ትችላላቹ O
-@sinasinaye O
-@sinayalj2 O
 አድራሻ O
 ቁጥር O
 ገርጂ I-LOC
@@ -40594,8 +40036,6 @@ birr O
 በመጫን O
 ማዘዝ O
 ትችላላቹ O
-@sinasinaye O
-@sinayalj2 O
 አድራሻ O
 ቁጥር O
 ገርጂ I-LOC
@@ -40683,16 +40123,16 @@ FF-09 O
 ደስታ O
 እናበስራለን O
 
-Baby O
+Baby B-PRODUCT
 Carrier, O
-Baby O
+Baby B-PRODUCT
 Cross O
 Carrier, O
 Adjustable O
 Breathable O
 3D O
 Mesh O
-Baby O
+Baby B-PRODUCT
 Carrier O
 for O
 Newborn O
@@ -40710,8 +40150,6 @@ birr O
 በመጫን O
 ማዘዝ O
 ትችላላቹ O
-@sinasinaye O
-@sinayalj2 O
 አድራሻ O
 ቁጥር O
 ገርጂ I-LOC
@@ -40854,8 +40292,6 @@ t.me/sinayelj O
 በመጫን O
 ማዘዝ O
 ትችላላቹ O
-@sinasinaye O
-@sinayalj2 O
 አድራሻ O
 ቁጥር O
 ገርጂ I-LOC
@@ -40995,8 +40431,6 @@ t.me/sinayelj O
 በመጫን O
 ማዘዝ O
 ትችላላቹ O
-@sinasinaye O
-@sinayalj2 O
 አድራሻ O
 ቁጥር O
 ገርጂ I-LOC
@@ -41125,8 +40559,6 @@ birr O
 በመጫን O
 ማዘዝ O
 ትችላላቹ O
-@sinasinaye O
-@sinayalj2 O
 አድራሻ O
 ቁጥር O
 ገርጂ I-LOC
@@ -41245,8 +40677,6 @@ birr O
 በመጫን O
 ማዘዝ O
 ትችላላቹ O
-@sinasinaye O
-@sinayalj2 O
 አድራሻ O
 ቁጥር O
 ገርጂ I-LOC
@@ -41335,7 +40765,7 @@ FF-09 O
 እናበስራለን O
 
 2m O
-baby O
+baby B-PRODUCT
 safety O
 corner O
 protection O
@@ -41351,8 +40781,6 @@ birr O
 በመጫን O
 ማዘዝ O
 ትችላላቹ O
-@sinasinaye O
-@sinayalj2 O
 አድራሻ O
 ቁጥር O
 ገርጂ I-LOC
@@ -41459,8 +40887,6 @@ birr O
 በመጫን O
 ማዘዝ O
 ትችላላቹ O
-@sinasinaye O
-@sinayalj2 O
 አድራሻ O
 ቁጥር O
 ገርጂ I-LOC
@@ -41552,7 +40978,7 @@ Comfort O
 harmony O
 infant O
 to O
-toddler O
+toddler B-PRODUCT
 roker O
 8ኪሎ O
 ድረስ O
@@ -41582,8 +41008,6 @@ delivery O
 በመጫን O
 ማዘዝ O
 ትችላላቹ O
-@sinasinaye O
-@sinayalj2 O
 አድራሻ O
 ቁጥር O
 ገርጂ I-LOC
@@ -41695,8 +41119,6 @@ birr O
 በመጫን O
 ማዘዝ O
 ትችላላቹ O
-@sinasinaye O
-@sinayalj2 O
 አድራሻ O
 ቁጥር O
 ገርጂ I-LOC
@@ -41831,8 +41253,6 @@ delivery O
 በመጫን O
 ማዘዝ O
 ትችላላቹ O
-@sinasinaye O
-@sinayalj2 O
 አድራሻ O
 ቁጥር O
 ገርጂ I-LOC
@@ -41920,7 +41340,7 @@ FF-09 O
 ደስታ O
 እናበስራለን O
 
-Kids O
+Kids B-PRODUCT
 animals O
 costumes O
 cosplay O
@@ -41937,8 +41357,6 @@ birr O
 በመጫን O
 ማዘዝ O
 ትችላላቹ O
-@sinasinaye O
-@sinayalj2 O
 አድራሻ O
 ቁጥር O
 ገርጂ I-LOC
@@ -42040,8 +41458,6 @@ birr O
 በመጫን O
 ማዘዝ O
 ትችላላቹ O
-@sinasinaye O
-@sinayalj2 O
 አድራሻ O
 ቁጥር O
 ገርጂ I-LOC
@@ -42143,8 +41559,6 @@ birr O
 በመጫን O
 ማዘዝ O
 ትችላላቹ O
-@sinasinaye O
-@sinayalj2 O
 አድራሻ O
 ቁጥር O
 ገርጂ I-LOC
@@ -42246,8 +41660,6 @@ birr O
 በመጫን O
 ማዘዝ O
 ትችላላቹ O
-@sinasinaye O
-@sinayalj2 O
 አድራሻ O
 ቁጥር O
 ገርጂ I-LOC
@@ -42350,8 +41762,6 @@ birr O
 በመጫን O
 ማዘዝ O
 ትችላላቹ O
-@sinasinaye O
-@sinayalj2 O
 አድራሻ O
 ቁጥር O
 ገርጂ I-LOC
@@ -42461,8 +41871,6 @@ cup O
 በመጫን O
 ማዘዝ O
 ትችላላቹ O
-@sinasinaye O
-@sinayalj2 O
 አድራሻ O
 ቁጥር O
 ገርጂ I-LOC
@@ -42562,8 +41970,6 @@ birr O
 በመጫን O
 ማዘዝ O
 ትችላላቹ O
-@sinasinaye O
-@sinayalj2 O
 አድራሻ O
 ቁጥር O
 ገርጂ I-LOC
@@ -42663,8 +42069,6 @@ birr O
 በመጫን O
 ማዘዝ O
 ትችላላቹ O
-@sinasinaye O
-@sinayalj2 O
 አድራሻ O
 ቁጥር O
 ገርጂ I-LOC
@@ -42775,8 +42179,6 @@ set O
 በመጫን O
 ማዘዝ O
 ትችላላቹ O
-@sinasinaye O
-@sinayalj2 O
 አድራሻ O
 ቁጥር O
 ገርጂ I-LOC
@@ -42880,13 +42282,13 @@ Operated O
 Parakeet O
 Parrot O
 Cage O
-Toy O
+Toy B-PRODUCT
 Electric O
 Voice O
 Control O
 Bird O
 Figure O
-Toy O
+Toy B-PRODUCT
 950 I-PRICE
 birr O
 0909003864 O
@@ -42899,8 +42301,6 @@ birr O
 በመጫን O
 ማዘዝ O
 ትችላላቹ O
-@sinasinaye O
-@sinayalj2 O
 አድራሻ O
 ቁጥር O
 ገርጂ I-LOC
@@ -42989,7 +42389,7 @@ FF-09 O
 እናበስራለን O
 
 Playkidz O
-Toy O
+Toy B-PRODUCT
 Shopping O
 Cart O
 Playset, O
@@ -42997,7 +42397,7 @@ Plastic O
 Food O
 Toys, O
 Interactive O
-Play O
+Play B-PRODUCT
 Set, O
 Learning O
 Resources O
@@ -43016,8 +42416,6 @@ birr O
 በመጫን O
 ማዘዝ O
 ትችላላቹ O
-@sinasinaye O
-@sinayalj2 O
 አድራሻ O
 ቁጥር O
 ገርጂ I-LOC
@@ -43108,7 +42506,7 @@ FF-09 O
 Junyeh O
 Love O
 Smile O
-Baby O
+Baby B-PRODUCT
 Bucket O
 Hat O
 Cute O
@@ -43120,7 +42518,7 @@ Adjustable O
 Sun O
 Hat O
 For O
-Kids O
+Kids B-PRODUCT
 500 I-PRICE
 birr O
 0909003864 O
@@ -43133,8 +42531,6 @@ birr O
 በመጫን O
 ማዘዝ O
 ትችላላቹ O
-@sinasinaye O
-@sinayalj2 O
 አድራሻ O
 ቁጥር O
 ገርጂ I-LOC
@@ -43222,7 +42618,7 @@ FF-09 O
 ደስታ O
 እናበስራለን O
 
-baby O
+baby B-PRODUCT
 babi O
 የልጆችን O
 ቀልብ O
@@ -43249,8 +42645,6 @@ babi O
 በመጫን O
 ማዘዝ O
 ትችላላቹ O
-@sinasinaye O
-@sinayalj2 O
 አድራሻ O
 ቁጥር O
 ገርጂ I-LOC
@@ -43338,7 +42732,7 @@ FF-09 O
 ደስታ O
 እናበስራለን O
 
-baby O
+baby B-PRODUCT
 babi O
 የልጆችን O
 ቀልብ O
@@ -43365,8 +42759,6 @@ babi O
 በመጫን O
 ማዘዝ O
 ትችላላቹ O
-@sinasinaye O
-@sinayalj2 O
 አድራሻ O
 ቁጥር O
 ገርጂ I-LOC
@@ -43466,8 +42858,6 @@ birr O
 በመጫን O
 ማዘዝ O
 ትችላላቹ O
-@sinasinaye O
-@sinayalj2 O
 አድራሻ O
 ቁጥር O
 ገርጂ I-LOC
@@ -43556,7 +42946,7 @@ FF-09 O
 እናበስራለን O
 
 Super O
-baby O
+baby B-PRODUCT
 double O
 bottle O
 milk O
@@ -43592,8 +42982,6 @@ delivery O
 በመጫን O
 ማዘዝ O
 ትችላላቹ O
-@sinasinaye O
-@sinayalj2 O
 አድራሻ O
 ቁጥር O
 ገርጂ I-LOC
@@ -43682,9 +43070,9 @@ FF-09 O
 እናበስራለን O
 
 Super O
-baby O
+baby B-PRODUCT
 natural O
-baby O
+baby B-PRODUCT
 feeder O
 ጫፉ O
 የእናት O
@@ -43718,8 +43106,6 @@ feeder O
 በመጫን O
 ማዘዝ O
 ትችላላቹ O
-@sinasinaye O
-@sinayalj2 O
 አድራሻ O
 ቁጥር O
 ገርጂ I-LOC
@@ -43819,8 +43205,6 @@ birr O
 በመጫን O
 ማዘዝ O
 ትችላላቹ O
-@sinasinaye O
-@sinayalj2 O
 አድራሻ O
 ቁጥር O
 ገርጂ I-LOC
@@ -43963,8 +43347,6 @@ FF-09 O
 በመጫን O
 ማዘዝ O
 ትችላላቹ O
-@sinasinaye O
-@sinayalj2 O
 አድራሻ O
 ቁጥር O
 ገርጂ I-LOC
@@ -44053,7 +43435,7 @@ FF-09 O
 እናበስራለን O
 
 Lucky O
-baby O
+baby B-PRODUCT
 very O
 soft O
 blanket O
@@ -44069,8 +43451,6 @@ birr O
 በመጫን O
 ማዘዝ O
 ትችላላቹ O
-@sinasinaye O
-@sinayalj2 O
 አድራሻ O
 ቁጥር O
 ገርጂ I-LOC
@@ -44170,8 +43550,6 @@ birr O
 በመጫን O
 ማዘዝ O
 ትችላላቹ O
-@sinasinaye O
-@sinayalj2 O
 አድራሻ O
 ቁጥር O
 ገርጂ I-LOC
@@ -44273,8 +43651,6 @@ birr O
 በመጫን O
 ማዘዝ O
 ትችላላቹ O
-@sinasinaye O
-@sinayalj2 O
 አድራሻ O
 ቁጥር O
 ገርጂ I-LOC
@@ -44395,7 +43771,7 @@ FF-09 O
 አክብሮት O
 ነው O
 
-Baby O
+Baby B-PRODUCT
 bath O
 mat O
 850 I-PRICE
@@ -44410,8 +43786,6 @@ birr O
 በመጫን O
 ማዘዝ O
 ትችላላቹ O
-@sinasinaye O
-@sinayalj2 O
 አድራሻ O
 ቁጥር O
 ገርጂ I-LOC
@@ -44511,8 +43885,6 @@ birr O
 በመጫን O
 ማዘዝ O
 ትችላላቹ O
-@sinasinaye O
-@sinayalj2 O
 አድራሻ O
 ቁጥር O
 ገርጂ I-LOC
@@ -44621,8 +43993,6 @@ FF-09 O
 በመጫን O
 ማዘዝ O
 ትችላላቹ O
-@sinasinaye O
-@sinayalj2 O
 አድራሻ O
 ቁጥር O
 ገርጂ I-LOC
@@ -44710,7 +44080,7 @@ FF-09 O
 ደስታ O
 እናበስራለን O
 
-Baby O
+Baby B-PRODUCT
 teether O
 300 I-PRICE
 birr O
@@ -44724,8 +44094,6 @@ birr O
 በመጫን O
 ማዘዝ O
 ትችላላቹ O
-@sinasinaye O
-@sinayalj2 O
 አድራሻ O
 ቁጥር O
 ገርጂ I-LOC
@@ -44813,14 +44181,14 @@ FF-09 O
 ደስታ O
 እናበስራለን O
 
-Baby O
+Baby B-PRODUCT
 Portable O
 Detachable O
 Feeding O
 Pillows O
 Self-Feeding O
 Support O
-Baby O
+Baby B-PRODUCT
 Cushion O
 Pillow O
 ለጡጦ O
@@ -44832,7 +44200,6 @@ Pillow O
 ለመተኛ O
 ትራስነት O
 የሚሆን O
-✅ O
 700 I-PRICE
 ብር I-PRICE
 0909003864 O
@@ -44845,8 +44212,6 @@ Pillow O
 በመጫን O
 ማዘዝ O
 ትችላላቹ O
-@sinasinaye O
-@sinayalj2 O
 አድራሻ O
 ቁጥር O
 ገርጂ I-LOC
@@ -44954,8 +44319,6 @@ birr O
 በመጫን O
 ማዘዝ O
 ትችላላቹ O
-@sinasinaye O
-@sinayalj2 O
 አድራሻ O
 ቁጥር O
 ገርጂ I-LOC
@@ -45043,7 +44406,7 @@ FF-09 O
 ደስታ O
 እናበስራለን O
 
-baby O
+baby B-PRODUCT
 head O
 protector O
 ሙሉ O
@@ -45066,8 +44429,6 @@ protector O
 በመጫን O
 ማዘዝ O
 ትችላላቹ O
-@sinasinaye O
-@sinayalj2 O
 አድራሻ O
 ቁጥር O
 ገርጂ I-LOC
@@ -45170,8 +44531,6 @@ pcs O
 በመጫን O
 ማዘዝ O
 ትችላላቹ O
-@sinasinaye O
-@sinayalj2 O
 አድራሻ O
 ቁጥር O
 ገርጂ I-LOC
@@ -45276,8 +44635,6 @@ birr O
 በመጫን O
 ማዘዝ O
 ትችላላቹ O
-@sinasinaye O
-@sinayalj2 O
 አድራሻ O
 ቁጥር O
 ገርጂ I-LOC
@@ -45377,8 +44734,6 @@ birr O
 በመጫን O
 ማዘዝ O
 ትችላላቹ O
-@sinasinaye O
-@sinayalj2 O
 አድራሻ O
 ቁጥር O
 ገርጂ I-LOC
@@ -45478,8 +44833,6 @@ birr O
 በመጫን O
 ማዘዝ O
 ትችላላቹ O
-@sinasinaye O
-@sinayalj2 O
 አድራሻ O
 ቁጥር O
 ገርጂ I-LOC
@@ -45579,8 +44932,6 @@ FF-09 O
 በመጫን O
 ማዘዝ O
 ትችላላቹ O
-@sinasinaye O
-@sinayalj2 O
 አድራሻ O
 ቁጥር O
 ገርጂ I-LOC
@@ -45680,8 +45031,6 @@ FF-09 O
 በመጫን O
 ማዘዝ O
 ትችላላቹ O
-@sinasinaye O
-@sinayalj2 O
 አድራሻ O
 ቁጥር O
 ገርጂ I-LOC
@@ -45781,8 +45130,6 @@ FF-09 O
 በመጫን O
 ማዘዝ O
 ትችላላቹ O
-@sinasinaye O
-@sinayalj2 O
 አድራሻ O
 ቁጥር O
 ገርጂ I-LOC
@@ -45884,8 +45231,6 @@ FF-09 O
 በመጫን O
 ማዘዝ O
 ትችላላቹ O
-@sinasinaye O
-@sinayalj2 O
 አድራሻ O
 ቁጥር O
 ገርጂ I-LOC
@@ -45985,8 +45330,6 @@ birr O
 በመጫን O
 ማዘዝ O
 ትችላላቹ O
-@sinasinaye O
-@sinayalj2 O
 አድራሻ O
 ቁጥር O
 ገርጂ I-LOC
@@ -46090,8 +45433,6 @@ cap O
 በመጫን O
 ማዘዝ O
 ትችላላቹ O
-@sinasinaye O
-@sinayalj2 O
 አድራሻ O
 ቁጥር O
 ገርጂ I-LOC
@@ -46179,7 +45520,7 @@ FF-09 O
 ደስታ O
 እናበስራለን O
 
-Baby O
+Baby B-PRODUCT
 nail O
 trimmer O
 Including O
@@ -46195,7 +45536,7 @@ mom O
 cushioned O
 pads O
 for O
-baby O
+baby B-PRODUCT
 storage O
 and O
 travel O
@@ -46203,7 +45544,7 @@ case O
 Call O
 as O
 Electric O
-baby O
+baby B-PRODUCT
 nail O
 trimmer O
 0-6 O
@@ -46234,8 +45575,6 @@ trimmer O
 በመጫን O
 ማዘዝ O
 ትችላላቹ O
-@sinasinaye O
-@sinayalj2 O
 አድራሻ O
 ቁጥር O
 ገርጂ I-LOC
@@ -46323,7 +45662,7 @@ FF-09 O
 ደስታ O
 እናበስራለን O
 
-Baby O
+Baby B-PRODUCT
 Hat O
 miiten O
 and O
@@ -46341,8 +45680,6 @@ birr O
 በመጫን O
 ማዘዝ O
 ትችላላቹ O
-@sinasinaye O
-@sinayalj2 O
 አድራሻ O
 ቁጥር O
 ገርጂ I-LOC
@@ -46431,7 +45768,7 @@ FF-09 O
 እናበስራለን O
 
 finest O
-baby O
+baby B-PRODUCT
 30 I-PRICE
 pcs O
 Breast O
@@ -46449,8 +45786,6 @@ bag O
 በመጫን O
 ማዘዝ O
 ትችላላቹ O
-@sinasinaye O
-@sinayalj2 O
 አድራሻ O
 ቁጥር O
 ገርጂ I-LOC
@@ -46555,8 +45890,6 @@ shield O
 በመጫን O
 ማዘዝ O
 ትችላላቹ O
-@sinasinaye O
-@sinayalj2 O
 አድራሻ O
 ቁጥር O
 ገርጂ I-LOC
@@ -46644,7 +45977,7 @@ FF-09 O
 ደስታ O
 እናበስራለን O
 
-Baby O
+Baby B-PRODUCT
 bottle O
 food O
 feeder O
@@ -46666,8 +45999,6 @@ as O
 በመጫን O
 ማዘዝ O
 ትችላላቹ O
-@sinasinaye O
-@sinayalj2 O
 አድራሻ O
 ቁጥር O
 ገርጂ I-LOC
@@ -46767,8 +46098,6 @@ birr O
 በመጫን O
 ማዘዝ O
 ትችላላቹ O
-@sinasinaye O
-@sinayalj2 O
 አድራሻ O
 ቁጥር O
 ገርጂ I-LOC
@@ -46856,7 +46185,7 @@ FF-09 O
 ደስታ O
 እናበስራለን O
 
-✅የመታጠቢያ O
+የመታጠቢያ O
 ቡርሽ O
 ለስላሳና O
 የአጠቃቀም O
@@ -46882,8 +46211,6 @@ FF-09 O
 በመጫን O
 ማዘዝ O
 ትችላላቹ O
-@sinasinaye O
-@sinayalj2 O
 አድራሻ O
 ቁጥር O
 ገርጂ I-LOC
@@ -46990,8 +46317,6 @@ birr O
 በመጫን O
 ማዘዝ O
 ትችላላቹ O
-@sinasinaye O
-@sinayalj2 O
 አድራሻ O
 ቁጥር O
 ገርጂ I-LOC
@@ -47081,7 +46406,7 @@ FF-09 O
 
 6 I-PRICE
 in O
-baby O
+baby B-PRODUCT
 feeding O
 materials O
 800 I-PRICE
@@ -47096,8 +46421,6 @@ birr O
 በመጫን O
 ማዘዝ O
 ትችላላቹ O
-@sinasinaye O
-@sinayalj2 O
 አድራሻ O
 ቁጥር O
 ገርጂ I-LOC
@@ -47202,8 +46525,6 @@ cover O
 በመጫን O
 ማዘዝ O
 ትችላላቹ O
-@sinasinaye O
-@sinayalj2 O
 አድራሻ O
 ቁጥር O
 ገርጂ I-LOC
@@ -47292,7 +46613,7 @@ FF-09 O
 እናበስራለን O
 
 Pretty O
-baby O
+baby B-PRODUCT
 pacifier O
 300 I-PRICE
 birr O
@@ -47306,8 +46627,6 @@ birr O
 በመጫን O
 ማዘዝ O
 ትችላላቹ O
-@sinasinaye O
-@sinayalj2 O
 አድራሻ O
 ቁጥር O
 ገርጂ I-LOC
@@ -47410,8 +46729,6 @@ birr O
 በመጫን O
 ማዘዝ O
 ትችላላቹ O
-@sinasinaye O
-@sinayalj2 O
 አድራሻ O
 ቁጥር O
 ገርጂ I-LOC
@@ -47513,8 +46830,6 @@ birr O
 በመጫን O
 ማዘዝ O
 ትችላላቹ O
-@sinasinaye O
-@sinayalj2 O
 አድራሻ O
 ቁጥር O
 ገርጂ I-LOC
@@ -47617,8 +46932,6 @@ birr O
 በመጫን O
 ማዘዝ O
 ትችላላቹ O
-@sinasinaye O
-@sinayalj2 O
 አድራሻ O
 ቁጥር O
 ገርጂ I-LOC
@@ -47707,7 +47020,7 @@ FF-09 O
 እናበስራለን O
 
 Silicone O
-baby O
+baby B-PRODUCT
 bibs O
 Available O
 on O
@@ -47725,8 +47038,6 @@ birr O
 በመጫን O
 ማዘዝ O
 ትችላላቹ O
-@sinasinaye O
-@sinayalj2 O
 አድራሻ O
 ቁጥር O
 ገርጂ I-LOC
@@ -47828,8 +47139,6 @@ birr O
 በመጫን O
 ማዘዝ O
 ትችላላቹ O
-@sinasinaye O
-@sinayalj2 O
 አድራሻ O
 ቁጥር O
 ገርጂ I-LOC
@@ -47932,7 +47241,7 @@ feeder O
 300 I-PRICE
 birr O
 
-Baby O
+Baby B-PRODUCT
 banana O
 teether O
 300 I-PRICE
@@ -47947,8 +47256,6 @@ birr O
 በመጫን O
 ማዘዝ O
 ትችላላቹ O
-@sinasinaye O
-@sinayalj2 O
 አድራሻ O
 ቁጥር O
 ገርጂ I-LOC
@@ -48052,8 +47359,6 @@ kit O
 በመጫን O
 ማዘዝ O
 ትችላላቹ O
-@sinasinaye O
-@sinayalj2 O
 አድራሻ O
 ቁጥር O
 ገርጂ I-LOC
@@ -48156,8 +47461,6 @@ birr O
 በመጫን O
 ማዘዝ O
 ትችላላቹ O
-@sinasinaye O
-@sinayalj2 O
 አድራሻ O
 ቁጥር O
 ገርጂ I-LOC
@@ -48246,7 +47549,7 @@ FF-09 O
 እናበስራለን O
 
 Only O
-baby O
+baby B-PRODUCT
 Rattle O
 teether O
 300 I-PRICE
@@ -48261,8 +47564,6 @@ birr O
 በመጫን O
 ማዘዝ O
 ትችላላቹ O
-@sinasinaye O
-@sinayalj2 O
 አድራሻ O
 ቁጥር O
 ገርጂ I-LOC
@@ -48364,8 +47665,6 @@ birr O
 በመጫን O
 ማዘዝ O
 ትችላላቹ O
-@sinasinaye O
-@sinayalj2 O
 አድራሻ O
 ቁጥር O
 ገርጂ I-LOC
@@ -48462,7 +47761,7 @@ FF-09 O
 
 3 I-PRICE
 pec O
-baby O
+baby B-PRODUCT
 care O
 kit O
 የራሱ O
@@ -48483,8 +47782,6 @@ birr O
 በመጫን O
 ማዘዝ O
 ትችላላቹ O
-@sinasinaye O
-@sinayalj2 O
 አድራሻ O
 ቁጥር O
 ገርጂ I-LOC
@@ -48592,8 +47889,6 @@ blankrt O
 በመጫን O
 ማዘዝ O
 ትችላላቹ O
-@sinasinaye O
-@sinayalj2 O
 አድራሻ O
 ቁጥር O
 ገርጂ I-LOC
@@ -48697,8 +47992,6 @@ FF-09 O
 በመጫን O
 ማዘዝ O
 ትችላላቹ O
-@sinasinaye O
-@sinayalj2 O
 አድራሻ O
 ቁጥር O
 ገርጂ I-LOC
@@ -48811,8 +48104,6 @@ FF-09 O
 በመጫን O
 ማዘዝ O
 ትችላላቹ O
-@sinasinaye O
-@sinayalj2 O
 አድራሻ O
 ቁጥር O
 ገርጂ I-LOC
@@ -48914,8 +48205,6 @@ birr O
 በመጫን O
 ማዘዝ O
 ትችላላቹ O
-@sinasinaye O
-@sinayalj2 O
 አድራሻ O
 ቁጥር O
 ገርጂ I-LOC
@@ -49035,8 +48324,6 @@ FF-09 O
 በመጫን O
 ማዘዝ O
 ትችላላቹ O
-@sinasinaye O
-@sinayalj2 O
 አድራሻ O
 ቁጥር O
 ገርጂ I-LOC
@@ -49147,8 +48434,6 @@ FF-09 O
 በመጫን O
 ማዘዝ O
 ትችላላቹ O
-@sinasinaye O
-@sinayalj2 O
 አድራሻ O
 ቁጥር O
 ገርጂ I-LOC
@@ -49265,8 +48550,6 @@ FF-09 O
 በመጫን O
 ማዘዝ O
 ትችላላቹ O
-@sinasinaye O
-@sinayalj2 O
 አድራሻ O
 ቁጥር O
 ገርጂ I-LOC
@@ -49355,7 +48638,7 @@ FF-09 O
 እናበስራለን O
 
 Newborn O
-baby O
+baby B-PRODUCT
 bath O
 support O
 net O
@@ -49368,7 +48651,7 @@ green O
 Price: O
 650 I-PRICE
 Newborn O
-baby O
+baby B-PRODUCT
 bath O
 support O
 net O
@@ -49454,7 +48737,6 @@ Price: O
 Duck’s O
 bath O
 toys O
-🧸 O
 650 I-PRICE
 birr O
 0909003864 O
@@ -49467,8 +48749,6 @@ birr O
 በመጫን O
 ማዘዝ O
 ትችላላቹ O
-@sinasinaye O
-@sinayalj2 O
 አድራሻ O
 ቁጥር O
 ገርጂ I-LOC
@@ -49574,8 +48854,6 @@ FF-09 O
 በመጫን O
 ማዘዝ O
 ትችላላቹ O
-@sinasinaye O
-@sinayalj2 O
 አድራሻ O
 ቁጥር O
 ገርጂ I-LOC
@@ -49712,8 +48990,6 @@ birr O
 በመጫን O
 ማዘዝ O
 ትችላላቹ O
-@sinasinaye O
-@sinayalj2 O
 አድራሻ O
 ቁጥር O
 ገርጂ I-LOC
@@ -49803,7 +49079,7 @@ FF-09 O
 
 Enfagrow O
 PREMIUM O
-Toddler O
+Toddler B-PRODUCT
 Nutritional O
 Drink, O
 Omega-3 O
@@ -49837,8 +49113,6 @@ birr O
 በመጫን O
 ማዘዝ O
 ትችላላቹ O
-@sinasinaye O
-@sinayalj2 O
 አድራሻ O
 ቁጥር O
 ገርጂ I-LOC
@@ -49931,7 +49205,7 @@ UK O
 Available O
 on O
 sina O
-kids O
+kids B-PRODUCT
 3200 I-PRICE
 birr O
 0909003864 O
@@ -49944,8 +49218,6 @@ birr O
 በመጫን O
 ማዘዝ O
 ትችላላቹ O
-@sinasinaye O
-@sinayalj2 O
 አድራሻ O
 ቁጥር O
 ገርጂ I-LOC
@@ -50038,7 +49310,7 @@ UK O
 Available O
 on O
 sina O
-kids O
+kids B-PRODUCT
 3200 I-PRICE
 birr O
 0909003864 O
@@ -50051,8 +49323,6 @@ birr O
 በመጫን O
 ማዘዝ O
 ትችላላቹ O
-@sinasinaye O
-@sinayalj2 O
 አድራሻ O
 ቁጥር O
 ገርጂ I-LOC
@@ -50157,8 +49427,6 @@ birr O
 በመጫን O
 ማዘዝ O
 ትችላላቹ O
-@sinasinaye O
-@sinayalj2 O
 አድራሻ O
 ቁጥር O
 ገርጂ I-LOC
@@ -50267,8 +49535,6 @@ pillows O
 በመጫን O
 ማዘዝ O
 ትችላላቹ O
-@sinasinaye O
-@sinayalj2 O
 አድራሻ O
 ቁጥር O
 ገርጂ I-LOC
@@ -50356,7 +49622,7 @@ FF-09 O
 ደስታ O
 እናበስራለን O
 
-Kids O
+Kids B-PRODUCT
 lunch O
 box O
 with O
@@ -50374,8 +49640,6 @@ birr O
 በመጫን O
 ማዘዝ O
 ትችላላቹ O
-@sinasinaye O
-@sinayalj2 O
 አድራሻ O
 ቁጥር O
 ገርጂ I-LOC
@@ -50542,8 +49806,6 @@ station O
 በመጫን O
 ማዘዝ O
 ትችላላቹ O
-@sinasinaye O
-@sinayalj2 O
 አድራሻ O
 ቁጥር O
 ገርጂ I-LOC
@@ -50653,8 +49915,6 @@ FF-09 O
 በመጫን O
 ማዘዝ O
 ትችላላቹ O
-@sinasinaye O
-@sinayalj2 O
 አድራሻ O
 ቁጥር O
 ገርጂ I-LOC
@@ -50772,8 +50032,6 @@ birr O
 በመጫን O
 ማዘዝ O
 ትችላላቹ O
-@sinasinaye O
-@sinayalj2 O
 አድራሻ O
 ቁጥር O
 ገርጂ I-LOC
@@ -50863,7 +50121,7 @@ FF-09 O
 
 2 I-PRICE
 Pairs O
-Baby O
+Baby B-PRODUCT
 Anti O
 Scratching O
 Soft O
@@ -50888,8 +50146,6 @@ pcs O
 በመጫን O
 ማዘዝ O
 ትችላላቹ O
-@sinasinaye O
-@sinayalj2 O
 አድራሻ O
 ቁጥር O
 ገርጂ I-LOC
@@ -50997,8 +50253,6 @@ birr O
 በመጫን O
 ማዘዝ O
 ትችላላቹ O
-@sinasinaye O
-@sinayalj2 O
 አድራሻ O
 ቁጥር O
 ገርጂ I-LOC
@@ -51103,8 +50357,6 @@ birr O
 በመጫን O
 ማዘዝ O
 ትችላላቹ O
-@sinasinaye O
-@sinayalj2 O
 አድራሻ O
 ቁጥር O
 ገርጂ I-LOC
@@ -51220,8 +50472,6 @@ Women O
 በመጫን O
 ማዘዝ O
 ትችላላቹ O
-@sinasinaye O
-@sinayalj2 O
 አድራሻ O
 ቁጥር O
 ገርጂ I-LOC
@@ -51311,16 +50561,16 @@ FF-09 O
 
 Handheld O
 Game O
-Toy O
+Toy B-PRODUCT
 for O
-Kids O
+Kids B-PRODUCT
 Age O
 6-2, O
 Sensory O
 Fidget O
 Toys O
 for O
-Kids O
+Kids B-PRODUCT
 8-2, O
 Birthday O
 Gifts O
@@ -51350,8 +50600,6 @@ birr O
 በመጫን O
 ማዘዝ O
 ትችላላቹ O
-@sinasinaye O
-@sinayalj2 O
 አድራሻ O
 ቁጥር O
 ገርጂ I-LOC
@@ -51454,8 +50702,6 @@ FF-09 O
 በመጫን O
 ማዘዝ O
 ትችላላቹ O
-@sinasinaye O
-@sinayalj2 O
 አድራሻ O
 ቁጥር O
 ገርጂ I-LOC
@@ -51579,7 +50825,7 @@ FF-09 O
 3 I-PRICE
 in O
 Bellababy O
-baby O
+baby B-PRODUCT
 walker O
 እግራቸውን O
 እንዳይቀዘቅዛቸው O
@@ -51613,8 +50859,6 @@ walker O
 በመጫን O
 ማዘዝ O
 ትችላላቹ O
-@sinasinaye O
-@sinayalj2 O
 አድራሻ O
 ቁጥር O
 ገርጂ I-LOC
@@ -51734,8 +50978,6 @@ in O
 በመጫን O
 ማዘዝ O
 ትችላላቹ O
-@sinasinaye O
-@sinayalj2 O
 አድራሻ O
 ቁጥር O
 ገርጂ I-LOC
@@ -51850,8 +51092,6 @@ in O
 በመጫን O
 ማዘዝ O
 ትችላላቹ O
-@sinasinaye O
-@sinayalj2 O
 አድራሻ O
 ቁጥር O
 ገርጂ I-LOC
@@ -52023,7 +51263,7 @@ FF-09 O
 ነው O
 
 Only O
-baby O
+baby B-PRODUCT
 feeding O
 bottle O
 60 I-PRICE
@@ -52168,28 +51408,27 @@ delivery O
 ደስታ O
 እናበስራለን O
 
-❇ O
-Baby O
+Baby B-PRODUCT
 Kid O
 Electric O
 Hair O
 Trimmer O
 High O
 Quality O
-✔Suitable O
+Suitable O
 For O
-Kids O
-✔Safe O
+Kids B-PRODUCT
+Safe O
 Ceramic O
 Blade O
-✔Water O
+Water O
 Proof O
-✔USB O
+USB O
 charge O
-✔Easy O
+Easy O
 to O
 use O
-⚡Cut O
+Cut O
 your O
 hair O
 while O
@@ -52432,8 +51671,6 @@ delivery O
 በመጫን O
 ማዘዝ O
 ትችላላቹ O
-@sinasinaye O
-@sinayalj2 O
 አድራሻ O
 ቁጥር O
 ገርጂ I-LOC
@@ -52505,7 +51742,7 @@ delivery O
 ደስታ O
 እናበስራለን O
 
-baby O
+baby B-PRODUCT
 babi O
 የልጆችን O
 ቀልብ O
@@ -52600,7 +51837,6 @@ Back O
 scrubber O
 500 I-PRICE
 birr O
-@sinayalj2 O
 አድራሻ O
 ቁጥር O
 ገርጂ I-LOC
@@ -52684,8 +51920,6 @@ birr O
 በመጫን O
 ማዘዝ O
 ትችላላቹ O
-@sinasinaye O
-@sinayalj2 O
 አድራሻ O
 ቁጥር O
 ገርጂ I-LOC
@@ -52761,7 +51995,6 @@ Hula O
 hoops O
 750 I-PRICE
 birr O
-@sinayalj2 O
 አድራሻ O
 ቁጥር O
 ገርጂ I-LOC
@@ -52939,7 +52172,7 @@ birr O
 ደስታ O
 እናበስራለን O
 
-baby O
+baby B-PRODUCT
 babi O
 የልጆችን O
 ቀልብ O
@@ -53045,8 +52278,6 @@ birr O
 በመጫን O
 ማዘዝ O
 ትችላላቹ O
-@sinasinaye O
-@sinayalj2 O
 አድራሻ O
 ቁጥር O
 ገርጂ I-LOC
@@ -53197,22 +52428,22 @@ birr O
 
 COTTONBEBE O
 Silicone O
-Baby O
+Baby B-PRODUCT
 Feeding O
 Set O
 of O
 6, O
 Suction O
-Baby O
+Baby B-PRODUCT
 Plates O
 and O
 Bowls O
 Sets, O
-Baby O
+Baby B-PRODUCT
 Led O
 Weaning O
 Supplies, O
-Toddler O
+Toddler B-PRODUCT
 Fork O
 Spoon O
 Utensils, O
@@ -53294,7 +52525,7 @@ Pink O
 ደስታ O
 እናበስራለን O
 
-baby O
+baby B-PRODUCT
 babi O
 የልጆችን O
 ቀልብ O
@@ -53401,8 +52632,6 @@ birr O
 በመጫን O
 ማዘዝ O
 ትችላላቹ O
-@sinasinaye O
-@sinayalj2 O
 አድራሻ O
 ቁጥር O
 ገርጂ I-LOC
@@ -53492,8 +52721,6 @@ birr O
 በመጫን O
 ማዘዝ O
 ትችላላቹ O
-@sinasinaye O
-@sinayalj2 O
 አድራሻ O
 ቁጥር O
 ገርጂ I-LOC
@@ -53623,8 +52850,6 @@ birr O
 በመጫን O
 ማዘዝ O
 ትችላላቹ O
-@sinasinaye O
-@sinayalj2 O
 አድራሻ O
 ቁጥር O
 ገርጂ I-LOC
@@ -53714,8 +52939,6 @@ birr O
 በመጫን O
 ማዘዝ O
 ትችላላቹ O
-@sinasinaye O
-@sinayalj2 O
 አድራሻ O
 ቁጥር O
 ገርጂ I-LOC
@@ -53788,7 +53011,7 @@ birr O
 እናበስራለን O
 
 Magic O
-Play O
+Play B-PRODUCT
 Sand O
 with O
 moulds O
@@ -53804,8 +53027,6 @@ moulds O
 በመጫን O
 ማዘዝ O
 ትችላላቹ O
-@sinasinaye O
-@sinayalj2 O
 አድራሻ O
 ቁጥር O
 ገርጂ I-LOC
@@ -53968,8 +53189,6 @@ birr O
 በመጫን O
 ማዘዝ O
 ትችላላቹ O
-@sinasinaye O
-@sinayalj2 O
 አድራሻ O
 ቁጥር O
 ገርጂ I-LOC
@@ -54136,8 +53355,6 @@ birr O
 በመጫን O
 ማዘዝ O
 ትችላላቹ O
-@sinasinaye O
-@sinayalj2 O
 አድራሻ O
 ቁጥር O
 ገርጂ I-LOC
@@ -54225,8 +53442,6 @@ birr O
 በመጫን O
 ማዘዝ O
 ትችላላቹ O
-@sinasinaye O
-@sinayalj2 O
 አድራሻ O
 ቁጥር O
 ገርጂ I-LOC
@@ -54299,10 +53514,10 @@ birr O
 እናበስራለን O
 
 Cartoon O
-baby O
+baby B-PRODUCT
 teether O
 and O
-toy O
+toy B-PRODUCT
 350 I-PRICE
 birr O
 0909003864 O
@@ -54315,8 +53530,6 @@ birr O
 በመጫን O
 ማዘዝ O
 ትችላላቹ O
-@sinasinaye O
-@sinayalj2 O
 አድራሻ O
 ቁጥር O
 ገርጂ I-LOC
@@ -54500,8 +53713,6 @@ birr O
 በመጫን O
 ማዘዝ O
 ትችላላቹ O
-@sinasinaye O
-@sinayalj2 O
 አድራሻ O
 ቁጥር O
 ገርጂ I-LOC
@@ -54573,7 +53784,7 @@ birr O
 ደስታ O
 እናበስራለን O
 
-Baby O
+Baby B-PRODUCT
 jump O
 suit O
 እግሩ O
@@ -54591,8 +53802,6 @@ suit O
 በመጫን O
 ማዘዝ O
 ትችላላቹ O
-@sinasinaye O
-@sinayalj2 O
 አድራሻ O
 ቁጥር O
 ገርጂ I-LOC
@@ -55163,7 +54372,7 @@ birr O
 ነው O
 
 Infantino O
-baby O
+baby B-PRODUCT
 carier O
 በ O
 4 I-PRICE
@@ -55255,7 +54464,7 @@ and O
 3 I-PRICE
 years O
 old) O
-kids O
+kids B-PRODUCT
 275 I-PRICE
 g O
 for O
@@ -55467,8 +54676,6 @@ birr O
 በመጫን O
 ማዘዝ O
 ትችላላቹ O
-@sinasinaye O
-@sinayalj2 O
 አድራሻ O
 ቁጥር O
 ገርጂ I-LOC
@@ -55623,7 +54830,7 @@ Beads O
 box O
 kit O
 for O
-Children O
+Children B-PRODUCT
 ልጆች O
 የተለያዩ O
 ጌጣጌጦች O
@@ -55647,8 +54854,6 @@ Children O
 በመጫን O
 ማዘዝ O
 ትችላላቹ O
-@sinasinaye O
-@sinayalj2 O
 አድራሻ O
 ቁጥር O
 ገርጂ I-LOC
@@ -55732,8 +54937,6 @@ birr O
 በመጫን O
 ማዘዝ O
 ትችላላቹ O
-@sinasinaye O
-@sinayalj2 O
 አድራሻ O
 ቁጥር O
 ገርጂ I-LOC
@@ -55838,8 +55041,6 @@ birr O
 በመጫን O
 ማዘዝ O
 ትችላላቹ O
-@sinasinaye O
-@sinayalj2 O
 አድራሻ O
 ቁጥር O
 ገርጂ I-LOC
@@ -55928,8 +55129,6 @@ birr O
 በመጫን O
 ማዘዝ O
 ትችላላቹ O
-@sinasinaye O
-@sinayalj2 O
 አድራሻ O
 ቁጥር O
 ገርጂ I-LOC
@@ -56115,8 +55314,6 @@ box O
 በመጫን O
 ማዘዝ O
 ትችላላቹ O
-@sinasinaye O
-@sinayalj2 O
 አድራሻ O
 ቁጥር O
 ገርጂ I-LOC
@@ -56206,8 +55403,6 @@ birr O
 በመጫን O
 ማዘዝ O
 ትችላላቹ O
-@sinasinaye O
-@sinayalj2 O
 አድራሻ O
 ቁጥር O
 ገርጂ I-LOC
@@ -56298,8 +55493,6 @@ birr O
 በመጫን O
 ማዘዝ O
 ትችላላቹ O
-@sinasinaye O
-@sinayalj2 O
 አድራሻ O
 ቁጥር O
 ገርጂ I-LOC
@@ -56390,8 +55583,6 @@ turkey O
 በመጫን O
 ማዘዝ O
 ትችላላቹ O
-@sinasinaye O
-@sinayalj2 O
 አድራሻ O
 ቁጥር O
 ገርጂ I-LOC
@@ -56486,8 +55677,6 @@ turkey O
 በመጫን O
 ማዘዝ O
 ትችላላቹ O
-@sinasinaye O
-@sinayalj2 O
 አድራሻ O
 ቁጥር O
 ገርጂ I-LOC
@@ -56583,8 +55772,6 @@ box O
 በመጫን O
 ማዘዝ O
 ትችላላቹ O
-@sinasinaye O
-@sinayalj2 O
 አድራሻ O
 ቁጥር O
 ገርጂ I-LOC
@@ -56656,7 +55843,7 @@ box O
 ደስታ O
 እናበስራለን O
 
-baby O
+baby B-PRODUCT
 brand O
 high O
 chair O
@@ -56703,8 +55890,6 @@ DELIVERY O
 በመጫን O
 ማዘዝ O
 ትችላላቹ O
-@sinasinaye O
-@sinayalj2 O
 አድራሻ O
 ቁጥር O
 ገርጂ I-LOC
@@ -56817,8 +56002,6 @@ delivery O
 በመጫን O
 ማዘዝ O
 ትችላላቹ O
-@sinasinaye O
-@sinayalj2 O
 አድራሻ O
 ቁጥር O
 ገርጂ I-LOC
@@ -56914,8 +56097,6 @@ box O
 በመጫን O
 ማዘዝ O
 ትችላላቹ O
-@sinasinaye O
-@sinayalj2 O
 አድራሻ O
 ቁጥር O
 ገርጂ I-LOC
@@ -57011,8 +56192,6 @@ box O
 በመጫን O
 ማዘዝ O
 ትችላላቹ O
-@sinasinaye O
-@sinayalj2 O
 አድራሻ O
 ቁጥር O
 ገርጂ I-LOC
@@ -57138,7 +56317,6 @@ in O
 ወንበርም O
 መሆን O
 ይችላል O
-✅ O
 የራሱ O
 ጥላ O
 ስላለው O
@@ -57263,8 +56441,6 @@ delivery O
 በመጫን O
 ማዘዝ O
 ትችላላቹ O
-@sinasinaye O
-@sinayalj2 O
 አድራሻ O
 ቁጥር O
 ገርጂ I-LOC
@@ -57368,7 +56544,6 @@ delivery O
 ብር I-PRICE
 Free O
 delivery O
-@sinayalj2 O
 አድራሻ O
 ቁጥር O
 ገርጂ I-LOC
@@ -57463,8 +56638,6 @@ set O
 በመጫን O
 ማዘዝ O
 ትችላላቹ O
-@sinasinaye O
-@sinayalj2 O
 አድራሻ O
 ቁጥር O
 ገርጂ I-LOC
@@ -57558,8 +56731,6 @@ cotton O
 በመጫን O
 ማዘዝ O
 ትችላላቹ O
-@sinasinaye O
-@sinayalj2 O
 አድራሻ O
 ቁጥር O
 ገርጂ I-LOC
@@ -57647,7 +56818,7 @@ FF-09 O
 ደስታ O
 እናበስራለን O
 
-Kids O
+Kids B-PRODUCT
 rain O
 coat O
 050 I-PRICE
@@ -57662,8 +56833,6 @@ birr O
 በመጫን O
 ማዘዝ O
 ትችላላቹ O
-@sinasinaye O
-@sinayalj2 O
 አድራሻ O
 ቁጥር O
 ገርጂ I-LOC
@@ -57750,8 +56919,6 @@ birr O
 በመጫን O
 ማዘዝ O
 ትችላላቹ O
-@sinasinaye O
-@sinayalj2 O
 አድራሻ O
 ቁጥር O
 ገርጂ I-LOC
@@ -57858,8 +57025,6 @@ bottle O
 በመጫን O
 ማዘዝ O
 ትችላላቹ O
-@sinasinaye O
-@sinayalj2 O
 አድራሻ O
 ቁጥር O
 ገርጂ I-LOC
@@ -57932,7 +57097,7 @@ bottle O
 እናበስራለን O
 
 Infant O
-Kids O
+Kids B-PRODUCT
 pillow O
 የአራስ O
 ልጆችን O
@@ -58020,7 +57185,7 @@ UK O
 Available O
 on O
 sina O
-kids O
+kids B-PRODUCT
 3000 I-PRICE
 birr O
 0909003864 O
@@ -58118,8 +57283,6 @@ birr O
 በመጫን O
 ማዘዝ O
 ትችላላቹ O
-@sinasinaye O
-@sinayalj2 O
 አድራሻ O
 ቁጥር O
 ገርጂ I-LOC
@@ -58191,7 +57354,7 @@ birr O
 ደስታ O
 እናበስራለን O
 
-Baby O
+Baby B-PRODUCT
 swaddle O
 Quality O
 material O
@@ -58207,8 +57370,6 @@ birr O
 በመጫን O
 ማዘዝ O
 ትችላላቹ O
-@sinasinaye O
-@sinayalj2 O
 አድራሻ O
 ቁጥር O
 ገርጂ I-LOC
@@ -58295,8 +57456,6 @@ birr O
 በመጫን O
 ማዘዝ O
 ትችላላቹ O
-@sinasinaye O
-@sinayalj2 O
 አድራሻ O
 ቁጥር O
 ገርጂ I-LOC
@@ -58424,8 +57583,6 @@ birr O
 በመጫን O
 ማዘዝ O
 ትችላላቹ O
-@sinasinaye O
-@sinayalj2 O
 አድራሻ O
 ቁጥር O
 ገርጂ I-LOC
@@ -58730,7 +57887,6 @@ birr O
 በመጫን O
 ማዘዝ O
 ትችላላቹ O
-@sinasinaye O
 https://t.me/sinayelj2 O
 አድራሻ O
 ቁጥር O
@@ -58820,7 +57976,7 @@ FF-09 O
 እናበስራለን O
 
 INFANT O
-BABY O
+BABY B-PRODUCT
 CAR O
 SEAT O
 የልጆች O
@@ -58934,8 +58090,6 @@ delivery O
 በመጫን O
 ማዘዝ O
 ትችላላቹ O
-@sinasinaye O
-@sinayalj2 O
 አድራሻ O
 ቁጥር O
 ገርጂ I-LOC
@@ -59021,8 +58175,6 @@ delivery O
 በመጫን O
 ማዘዝ O
 ትችላላቹ O
-@sinasinaye O
-@sinayalj2 O
 አድራሻ O
 ቁጥር O
 ገርጂ I-LOC
@@ -59110,8 +58262,6 @@ delivery O
 በመጫን O
 ማዘዝ O
 ትችላላቹ O
-@sinasinaye O
-@sinayalj2 O
 አድራሻ O
 ቁጥር O
 ገርጂ I-LOC
@@ -59202,8 +58352,6 @@ delivery O
 በመጫን O
 ማዘዝ O
 ትችላላቹ O
-@sinasinaye O
-@sinayalj2 O
 አድራሻ O
 ቁጥር O
 ገርጂ I-LOC
@@ -59293,8 +58441,6 @@ delivery O
 በመጫን O
 ማዘዝ O
 ትችላላቹ O
-@sinasinaye O
-@sinayalj2 O
 አድራሻ O
 ቁጥር O
 ገርጂ I-LOC
@@ -59385,8 +58531,6 @@ delivery O
 በመጫን O
 ማዘዝ O
 ትችላላቹ O
-@sinasinaye O
-@sinayalj2 O
 አድራሻ O
 ቁጥር O
 ገርጂ I-LOC
@@ -59474,8 +58618,6 @@ delivery O
 በመጫን O
 ማዘዝ O
 ትችላላቹ O
-@sinasinaye O
-@sinayalj2 O
 አድራሻ O
 ቁጥር O
 ገርጂ I-LOC
@@ -59559,8 +58701,6 @@ delivery O
 በመጫን O
 ማዘዝ O
 ትችላላቹ O
-@sinasinaye O
-@sinayalj2 O
 አድራሻ O
 ቁጥር O
 ገርጂ I-LOC
@@ -59644,8 +58784,6 @@ delivery O
 በመጫን O
 ማዘዝ O
 ትችላላቹ O
-@sinasinaye O
-@sinayalj2 O
 አድራሻ O
 ቁጥር O
 ገርጂ I-LOC
@@ -59729,8 +58867,6 @@ delivery O
 በመጫን O
 ማዘዝ O
 ትችላላቹ O
-@sinasinaye O
-@sinayalj2 O
 አድራሻ O
 ቁጥር O
 ገርጂ I-LOC
@@ -59814,8 +58950,6 @@ delivery O
 በመጫን O
 ማዘዝ O
 ትችላላቹ O
-@sinasinaye O
-@sinayalj2 O
 አድራሻ O
 ቁጥር O
 ገርጂ I-LOC
@@ -59899,8 +59033,6 @@ delivery O
 በመጫን O
 ማዘዝ O
 ትችላላቹ O
-@sinasinaye O
-@sinayalj2 O
 አድራሻ O
 ቁጥር O
 ገርጂ I-LOC
@@ -59990,8 +59122,6 @@ delivery O
 በመጫን O
 ማዘዝ O
 ትችላላቹ O
-@sinasinaye O
-@sinayalj2 O
 አድራሻ O
 ቁጥር O
 ገርጂ I-LOC
@@ -60082,8 +59212,6 @@ delivery O
 በመጫን O
 ማዘዝ O
 ትችላላቹ O
-@sinasinaye O
-@sinayalj2 O
 አድራሻ O
 ቁጥር O
 ገርጂ I-LOC
@@ -60167,8 +59295,6 @@ delivery O
 በመጫን O
 ማዘዝ O
 ትችላላቹ O
-@sinasinaye O
-@sinayalj2 O
 አድራሻ O
 ቁጥር O
 ገርጂ I-LOC
@@ -60252,8 +59378,6 @@ delivery O
 በመጫን O
 ማዘዝ O
 ትችላላቹ O
-@sinasinaye O
-@sinayalj2 O
 አድራሻ O
 ቁጥር O
 ገርጂ I-LOC
@@ -60344,8 +59468,6 @@ delivery O
 በመጫን O
 ማዘዝ O
 ትችላላቹ O
-@sinasinaye O
-@sinayalj2 O
 አድራሻ O
 ቁጥር O
 ገርጂ I-LOC
@@ -60441,8 +59563,6 @@ delivery O
 በመጫን O
 ማዘዝ O
 ትችላላቹ O
-@sinasinaye O
-@sinayalj2 O
 አድራሻ O
 ቁጥር O
 ገርጂ I-LOC
@@ -60533,8 +59653,6 @@ delivery O
 በመጫን O
 ማዘዝ O
 ትችላላቹ O
-@sinasinaye O
-@sinayalj2 O
 አድራሻ O
 ቁጥር O
 ገርጂ I-LOC
@@ -60636,8 +59754,6 @@ delivery O
 በመጫን O
 ማዘዝ O
 ትችላላቹ O
-@sinasinaye O
-@sinayalj2 O
 አድራሻ O
 ቁጥር O
 ገርጂ I-LOC
@@ -60722,8 +59838,6 @@ delivery O
 በመጫን O
 ማዘዝ O
 ትችላላቹ O
-@sinasinaye O
-@sinayalj2 O
 አድራሻ O
 ቁጥር O
 ገርጂ I-LOC
@@ -60811,8 +59925,6 @@ brand O
 በመጫን O
 ማዘዝ O
 ትችላላቹ O
-@sinasinaye O
-@sinayalj2 O
 አድራሻ O
 ቁጥር O
 ገርጂ I-LOC
@@ -60902,8 +60014,6 @@ birr O
 በመጫን O
 ማዘዝ O
 ትችላላቹ O
-@sinasinaye O
-@sinayalj2 O
 አድራሻ O
 ቁጥር O
 ገርጂ I-LOC
@@ -60991,8 +60101,6 @@ birr O
 በመጫን O
 ማዘዝ O
 ትችላላቹ O
-@sinasinaye O
-@sinayalj2 O
 አድራሻ O
 ቁጥር O
 ገርጂ I-LOC
@@ -61084,8 +60192,6 @@ birr O
 በመጫን O
 ማዘዝ O
 ትችላላቹ O
-@sinasinaye O
-@sinayalj2 O
 አድራሻ O
 ቁጥር O
 ገርጂ I-LOC
@@ -61190,8 +60296,6 @@ birr O
 በመጫን O
 ማዘዝ O
 ትችላላቹ O
-@sinasinaye O
-@sinayalj2 O
 አድራሻ O
 ቁጥር O
 ገርጂ I-LOC
@@ -61276,8 +60380,6 @@ birr O
 በመጫን O
 ማዘዝ O
 ትችላላቹ O
-@sinasinaye O
-@sinayalj2 O
 አድራሻ O
 ቁጥር O
 ገርጂ I-LOC
@@ -61380,8 +60482,6 @@ birr O
 በመጫን O
 ማዘዝ O
 ትችላላቹ O
-@sinasinaye O
-@sinayalj2 O
 አድራሻ O
 ቁጥር O
 ገርጂ I-LOC
@@ -61480,7 +60580,6 @@ stoking O
 በመጫን O
 ማዘዝ O
 ትችላላቹ O
-@sinasinaye O
 https://t.me/sinayelj2 O
 አድራሻ O
 ቁጥር O
@@ -61581,8 +60680,6 @@ FF-09 O
 በመጫን O
 ማዘዝ O
 ትችላላቹ O
-@sinasinaye O
-@sinayalj2 O
 አድራሻ O
 ቁጥር O
 ገርጂ I-LOC
@@ -61840,8 +60937,6 @@ stoking O
 በመጫን O
 ማዘዝ O
 ትችላላቹ O
-@sinasinaye O
-@sinayalj2 O
 አድራሻ O
 ቁጥር O
 ገርጂ I-LOC
@@ -62010,8 +61105,6 @@ birr O
 በመጫን O
 ማዘዝ O
 ትችላላቹ O
-@sinasinaye O
-@sinayalj2 O
 አድራሻ O
 ቁጥር O
 ገርጂ I-LOC
@@ -62116,8 +61209,6 @@ birr O
 በመጫን O
 ማዘዝ O
 ትችላላቹ O
-@sinasinaye O
-@sinayalj2 O
 አድራሻ O
 ቁጥር O
 ገርጂ I-LOC
@@ -62220,8 +61311,6 @@ birr O
 በመጫን O
 ማዘዝ O
 ትችላላቹ O
-@sinasinaye O
-@sinayalj2 O
 አድራሻ O
 ቁጥር O
 ገርጂ I-LOC
@@ -62324,8 +61413,6 @@ birr O
 በመጫን O
 ማዘዝ O
 ትችላላቹ O
-@sinasinaye O
-@sinayalj2 O
 አድራሻ O
 ቁጥር O
 ገርጂ I-LOC
@@ -62431,8 +61518,6 @@ birr O
 በመጫን O
 ማዘዝ O
 ትችላላቹ O
-@sinasinaye O
-@sinayalj2 O
 አድራሻ O
 ቁጥር O
 ገርጂ I-LOC
@@ -62625,8 +61710,6 @@ bag O
 በመጫን O
 ማዘዝ O
 ትችላላቹ O
-@sinasinaye O
-@sinayalj2 O
 አድራሻ O
 ቁጥር O
 ገርጂ I-LOC
@@ -62699,7 +61782,7 @@ bag O
 እናበስራለን O
 
 HUDSON O
-BABY O
+BABY B-PRODUCT
 ኳሊቲ O
 እጅጌ O
 ሙሉ O
@@ -62789,7 +61872,7 @@ polyester O
 0945097042 O
 
 Fox O
-baby O
+baby B-PRODUCT
 shower O
 towel O
 Made O
@@ -62812,8 +61895,6 @@ turkey O
 በመጫን O
 ማዘዝ O
 ትችላላቹ O
-@sinasinaye O
-@sinayalj2 O
 አድራሻ O
 ቁጥር O
 ገርጂ I-LOC
@@ -62886,7 +61967,7 @@ turkey O
 እናበስራለን O
 
 Cute O
-baby O
+baby B-PRODUCT
 እጅጌ O
 ሙሉ O
 ጃም O
@@ -63055,7 +62136,7 @@ baby O
 0905707448 O
 0945097042 O
 
-Baby O
+Baby B-PRODUCT
 girl O
 biaper O
 t O
@@ -63072,8 +62153,6 @@ birr O
 በመጫን O
 ማዘዝ O
 ትችላላቹ O
-@sinasinaye O
-@sinayalj2 O
 አድራሻ O
 ቁጥር O
 ገርጂ I-LOC
@@ -63320,7 +62399,7 @@ brand O
 
 High O
 quality O
-baby O
+baby B-PRODUCT
 diaper O
 t O
 shirt O
@@ -63339,8 +62418,6 @@ birr O
 በመጫን O
 ማዘዝ O
 ትችላላቹ O
-@sinasinaye O
-@sinayalj2 O
 አድራሻ O
 ቁጥር O
 ገርጂ I-LOC
@@ -63412,8 +62489,8 @@ birr O
 ደስታ O
 እናበስራለን O
 
-Kids O
-toy O
+Kids B-PRODUCT
+toy B-PRODUCT
 700 I-PRICE
 birr O
 0909003864 O
@@ -63426,8 +62503,6 @@ birr O
 በመጫን O
 ማዘዝ O
 ትችላላቹ O
-@sinasinaye O
-@sinayalj2 O
 አድራሻ O
 ቁጥር O
 ገርጂ I-LOC
@@ -63516,8 +62591,6 @@ stoo O
 በመጫን O
 ማዘዝ O
 ትችላላቹ O
-@sinasinaye O
-@sinayalj2 O
 አድራሻ O
 ቁጥር O
 ገርጂ I-LOC
@@ -63606,8 +62679,6 @@ dolls O
 በመጫን O
 ማዘዝ O
 ትችላላቹ O
-@sinasinaye O
-@sinayalj2 O
 አድራሻ O
 ቁጥር O
 ገርጂ I-LOC
@@ -63878,7 +62949,7 @@ birr O
 0 I-PRICE
 pcs O
 የልጆች O
-መጫወቻ O
+መጫወቻ B-PRODUCT
 300 I-PRICE
 ብር I-PRICE
 0909003864 O
@@ -64044,7 +63115,7 @@ UK O
 Available O
 on O
 sina O
-kids O
+kids B-PRODUCT
 300 I-PRICE
 birr O
 0909003864 O
@@ -64428,7 +63499,7 @@ birr O
 8 I-PRICE
 pcs O
 የልጆች O
-መጫወቻ O
+መጫወቻ B-PRODUCT
 00 I-PRICE
 ብር I-PRICE
 0909003864 O
@@ -64506,7 +63577,7 @@ pcs O
 
 AVEHNI O
 natural O
-baby O
+baby B-PRODUCT
 feeder O
 ጫፉ O
 የእናት O
@@ -64611,7 +63682,7 @@ feeder O
 ለየት O
 ያለ O
 ውብ O
-Baby O
+Baby B-PRODUCT
 walker O
 ውስጡ O
 ገብተው O
@@ -64889,7 +63960,7 @@ delivery O
 
 New O
 arival O
-baby O
+baby B-PRODUCT
 carier O
 500birr O
 Free O
@@ -65053,7 +64124,7 @@ Dual-Sim O
 Android O
 Tablet O
 For O
-Kids O
+Kids B-PRODUCT
 - O
 7"Inch O
 5000mAh O
@@ -65068,7 +64139,7 @@ CPU,Wi-Fi O
 - O
 Early O
 Education O
-Kids O
+Kids B-PRODUCT
 Tablet O
 Pc O
 Plus O
@@ -65167,7 +64238,7 @@ DELIVERY O
 እንደገቡ O
 ያገኙናል O
 
-Baby O
+Baby B-PRODUCT
 high O
 chair O
 ምቹ O
@@ -65447,7 +64518,7 @@ birr O
 ደስታ O
 እናበስራለን O
 
-baby O
+baby B-PRODUCT
 girl O
 sweater O
 turban O
@@ -65526,7 +64597,7 @@ birr O
 ደስታ O
 እናበስራለን O
 
-Baby O
+Baby B-PRODUCT
 turban O
 350 I-PRICE
 birr O
@@ -65688,7 +64759,7 @@ delivery O
 ደስታ O
 እናበስራለን O
 
-Baby O
+Baby B-PRODUCT
 romper O
 800 I-PRICE
 birr O
@@ -65896,7 +64967,7 @@ dough O
 ደስታ O
 እናበስራለን O
 
-Kids O
+Kids B-PRODUCT
 sofa O
 3000 I-PRICE
 birr O
@@ -66013,8 +65084,8 @@ delivery O
 ነው O
 
 Bloom O
-baby O
-BABY O
+baby B-PRODUCT
+BABY B-PRODUCT
 BATHER O
 የራሱ O
 ትራስ O
@@ -66105,8 +65176,6 @@ BATHER O
 በመጫን O
 ማዘዝ O
 ትችላላቹ O
-@sinasinaye O
-@sinayalj2 O
 አድራሻ O
 ቁጥር O
 ገርጂ I-LOC
@@ -67023,7 +66092,7 @@ Comfort O
 harmony O
 infant O
 to O
-toddler O
+toddler B-PRODUCT
 roker O
 8ኪሎ O
 ድረስ O
@@ -67053,8 +66122,6 @@ delivery O
 በመጫን O
 ማዘዝ O
 ትችላላቹ O
-@sinasinaye O
-@sinayalj2 O
 አድራሻ O
 ቁጥር O
 ገርጂ I-LOC
@@ -68007,7 +67074,7 @@ Dual-Sim O
 Android O
 Tablet O
 For O
-Kids O
+Kids B-PRODUCT
 - O
 7"Inch O
 5000mAh O
@@ -68022,7 +67089,7 @@ CPU,Wi-Fi O
 - O
 Early O
 Education O
-Kids O
+Kids B-PRODUCT
 Tablet O
 Pc O
 Plus O
@@ -68125,7 +67192,7 @@ for O
 ያገኙናል O
 
 Only O
-baby O
+baby B-PRODUCT
 2 I-PRICE
 pcs O
 fruit O
@@ -68152,7 +67219,7 @@ pcs O
 beautiful O
 and O
 different O
-baby O
+baby B-PRODUCT
 girl O
 hair O
 clips O
@@ -68212,7 +67279,7 @@ birr O
 አክብሮት O
 ነው O
 
-Baby O
+Baby B-PRODUCT
 garden O
 brand O
 2pcs O
@@ -68265,7 +67332,7 @@ brand O
 ነው O
 
 Only O
-baby O
+baby B-PRODUCT
 feeding O
 bottle O
 60 I-PRICE
@@ -68414,7 +67481,7 @@ birr O
 ያገኙናል O
 
 Newborn O
-baby O
+baby B-PRODUCT
 cotton O
 bibs O
 pcs O
@@ -68476,7 +67543,7 @@ date O
 0905707448 O
 
 Plush O
-toy O
+toy B-PRODUCT
 teddy O
 bear O
 000 I-PRICE
@@ -68497,7 +67564,7 @@ birr O
 ያገኙናል O
 
 Plush O
-toy O
+toy B-PRODUCT
 simba O
 950 I-PRICE
 birr O
@@ -68561,7 +67628,7 @@ birr O
 እንደገቡ O
 ያገኙናል O
 
-Kids O
+Kids B-PRODUCT
 shoe O
 000 I-PRICE
 birr O
@@ -68660,7 +67727,7 @@ dark O
 
 3 I-PRICE
 in O
-baby O
+baby B-PRODUCT
 rocking O
 chair O
 ልጃችን O
@@ -69029,7 +68096,7 @@ birr O
 
 infant O
 to O
-toddler O
+toddler B-PRODUCT
 roker O
 8ኪሎ O
 ድረስ O
@@ -69079,20 +68146,17 @@ delivery O
 
 3 I-PRICE
 in O
-baby O
+baby B-PRODUCT
 blanket O
-⚡ O
 ስዋድል O
 መጠቅለያ O
 መሆን O
 የሚችል O
-⚡ O
 ባለ O
 ኮፍያ O
 ማቀፊያ O
 መሆን O
 የሚችል O
-⚡ O
 እንዲሁም O
 በዚፕ O
 የሚዘጋ O
@@ -69100,14 +68164,12 @@ blanket O
 ባግ O
 መሆን O
 የሚችል O
-⚡ O
 ለስላሳ O
 እና O
 ወፍራም O
 የሆነ O
 ኳሊቲ O
 ማቴሪያል O
-⚡ O
 ከለር O
 ፒንክ O
 እና O
@@ -69144,7 +68206,7 @@ birr O
 0905707448 O
 0909003864 O
 
-Baby O
+Baby B-PRODUCT
 jump O
 suit O
 350 I-PRICE
@@ -69253,7 +68315,7 @@ case O
 እንደገቡ O
 ያገኙናል O
 
-baby O
+baby B-PRODUCT
 carrier O
 original O
 4 I-PRICE
@@ -69343,9 +68405,9 @@ lock O
 ያገኙናል O
 
 Only O
-baby O
+baby B-PRODUCT
 natural O
-baby O
+baby B-PRODUCT
 feeder O
 ጫፉ O
 የእናት O
@@ -69434,7 +68496,7 @@ birr O
 
 Unicorn O
 plus O
-toy O
+toy B-PRODUCT
 050 I-PRICE
 birr O
 0909003864 O
@@ -69497,8 +68559,6 @@ protector O
 በመጫን O
 ማዘዝ O
 ትችላላቹ O
-@sinasinaye O
-@sinayalj2 O
 አድራሻ O
 ቁጥር O
 ገርጂ I-LOC
@@ -69588,7 +68648,6 @@ FF-09 O
 
 Plush O
 toys O
-🧸 O
 000 I-PRICE
 birr O
 0909003864 O
@@ -69671,7 +68730,7 @@ gun O
 እንደገቡ O
 ያገኙናል O
 
-Baby O
+Baby B-PRODUCT
 comb O
 and O
 brush O
@@ -69726,8 +68785,6 @@ birr O
 በመጫን O
 ማዘዝ O
 ትችላላቹ O
-@sinasinaye O
-@sinayalj2 O
 አድራሻ O
 ቁጥር O
 ገርጂ I-LOC
@@ -69855,9 +68912,9 @@ delivery O
 ያገኙናል O
 
 Only O
-baby O
+baby B-PRODUCT
 natural O
-baby O
+baby B-PRODUCT
 feeder O
 ጫፉ O
 የእናት O
@@ -70069,8 +69126,6 @@ DELIVERY O
 በመጫን O
 ማዘዝ O
 ትችላላቹ O
-@sinasinaye O
-@sinayalj2 O
 አድራሻ O
 ቁጥር O
 ገርጂ I-LOC
@@ -70166,7 +69221,7 @@ in O
 እናበስራለን O
 
 Mini O
-kids O
+kids B-PRODUCT
 pull O
 back O
 toys O
@@ -70189,7 +69244,7 @@ birr O
 እንደገቡ O
 ያገኙናል O
 
-Baby O
+Baby B-PRODUCT
 original O
 big O
 size O
@@ -70371,7 +69426,7 @@ birr O
 0909003864 O
 0905707448 O
 
-Baby O
+Baby B-PRODUCT
 girl O
 turban O
 350 I-PRICE
@@ -70391,7 +69446,7 @@ birr O
 እንደገቡ O
 ያገኙናል O
 
-Baby O
+Baby B-PRODUCT
 girl O
 turban O
 300 I-PRICE
@@ -70419,7 +69474,7 @@ birr O
 ለየት O
 ያለ O
 ውብ O
-Baby O
+Baby B-PRODUCT
 walker O
 ውስጡ O
 ገብተው O
@@ -70496,8 +69551,6 @@ delivery O
 በመጫን O
 ማዘዝ O
 ትችላላቹ O
-@sinasinaye O
-@sinayalj2 O
 አድራሻ O
 ቁጥር O
 ገርጂ I-LOC
@@ -70606,12 +69659,12 @@ FF-09 O
 የሚሆን O
 የልብስ O
 ማስጫ O
-▶ለኮንዶሚኒየም O
+ለኮንዶሚኒየም O
 ገላግሌ O
-▶ለክረምት O
+ለክረምት O
 ቤትውስጥ O
 ለማስጣት O
-▶ባጠቃላይ O
+ባጠቃላይ O
 ጠባብ O
 ቤት O
 ላለው O
@@ -70629,8 +69682,8 @@ kg O
 ድረስ O
 መሸከም O
 የሚችል O
-ስልክ▶0905707448 O
-▶0909003864 O
+ስልክ0905707448 O
+0909003864 O
 ዋጋ O
 3600ብር I-PRICE
 free O
@@ -70654,9 +69707,9 @@ delivery O
 በድጋሚ O
 ገብቷል O
 Only O
-baby O
+baby B-PRODUCT
 natural O
-baby O
+baby B-PRODUCT
 feeder O
 ጫፉ O
 የእናት O
@@ -70698,7 +69751,7 @@ feeder O
 ያገኙናል O
 
 Electric O
-baby O
+baby B-PRODUCT
 nail O
 trimmer O
 0-6 O
@@ -70760,29 +69813,28 @@ trimmer O
 እንደገቡ O
 ያገኙናል O
 
-❇ O
 Hair O
 Dye O
 Brush O
 Bottle O
-✔Made O
+Made O
 of O
 quality O
 plastic O
 material O
-✔Great O
+Great O
 tool O
 for O
 hair O
 dyeing O
 use O
-✔Easy O
+Easy O
 to O
 mix O
 hair O
 color O
 potion O
-✔Suitable O
+Suitable O
 for O
 both O
 professional O
@@ -70790,7 +69842,7 @@ or O
 home O
 DIY O
 use O
-✔Attached O
+Attached O
 with O
 a O
 comb, O
@@ -70799,7 +69851,7 @@ and O
 safe O
 to O
 use O
-✔Bottle O
+Bottle O
 with O
 scale, O
 easy O
@@ -70808,7 +69860,7 @@ mix O
 hair O
 color O
 potion O
-✔Capacity: O
+Capacity: O
 60mlore O
 የአዋቂንም O
 ሆነ O
@@ -70862,8 +69914,6 @@ cap O
 በመጫን O
 ማዘዝ O
 ትችላላቹ O
-@sinasinaye O
-@sinayalj2 O
 አድራሻ O
 ቁጥር O
 ገርጂ I-LOC
@@ -70984,7 +70034,7 @@ FF-09 O
 እንደገቡ O
 ያገኙናል O
 
-Baby O
+Baby B-PRODUCT
 nail O
 trimmer O
 Including O
@@ -71000,7 +70050,7 @@ mom O
 cushioned O
 pads O
 for O
-baby O
+baby B-PRODUCT
 storage O
 and O
 travel O
@@ -71008,7 +70058,7 @@ case O
 Call O
 as O
 Electric O
-baby O
+baby B-PRODUCT
 nail O
 trimmer O
 0-6 O
@@ -71039,8 +70089,6 @@ trimmer O
 በመጫን O
 ማዘዝ O
 ትችላላቹ O
-@sinasinaye O
-@sinayalj2 O
 አድራሻ O
 ቁጥር O
 ገርጂ I-LOC
@@ -71128,7 +70176,7 @@ FF-09 O
 ደስታ O
 እናበስራለን O
 
-Baby O
+Baby B-PRODUCT
 keen O
 protector O
 ዳዴ O
@@ -71144,7 +70192,7 @@ as O
 0909003864 O
 0905707448 O
 
-Baby O
+Baby B-PRODUCT
 Hat O
 miiten O
 and O
@@ -71162,8 +70210,6 @@ birr O
 በመጫን O
 ማዘዝ O
 ትችላላቹ O
-@sinasinaye O
-@sinayalj2 O
 አድራሻ O
 ቁጥር O
 ገርጂ I-LOC
@@ -71295,7 +70341,7 @@ FF-09 O
 0905707448 O
 
 Sky O
-baby O
+baby B-PRODUCT
 brand O
 twins O
 stroller O
@@ -71333,7 +70379,7 @@ delivery O
 0905707448 O
 0909003864 O
 
-Baby O
+Baby B-PRODUCT
 girl O
 walking O
 shoe O
@@ -71354,7 +70400,7 @@ birr O
 0909003864 O
 0905707448 O
 
-Baby O
+Baby B-PRODUCT
 boy O
 walking O
 shoe O
@@ -71375,7 +70421,7 @@ birr O
 እንደገቡ O
 ያገኙናል O
 
-Baby O
+Baby B-PRODUCT
 boy O
 walking O
 shoe O
@@ -71396,7 +70442,7 @@ birr O
 እንደገቡ O
 ያገኙናል O
 
-Baby O
+Baby B-PRODUCT
 boy O
 walking O
 shoe O
@@ -71417,7 +70463,7 @@ birr O
 እንደገቡ O
 ያገኙናል O
 
-Baby O
+Baby B-PRODUCT
 girl O
 walking O
 shoe O
@@ -71439,7 +70485,7 @@ birr O
 ያገኙናል O
 
 Newborn O
-baby O
+baby B-PRODUCT
 bath O
 support O
 net O
@@ -71480,7 +70526,6 @@ bank O
 በመጫን O
 ማዘዝ O
 ትችላላቹ O
-@sinasinaye O
 https://t.me/sinayelj2 O
 አድራሻ O
 ቁጥር O
@@ -71623,7 +70668,7 @@ delivery O
 
 4 I-PRICE
 pcs O
-Kids O
+Kids B-PRODUCT
 pedicure O
 set O
 400 I-PRICE
@@ -71671,7 +70716,7 @@ birr O
 
 3 I-PRICE
 pcs O
-baby O
+baby B-PRODUCT
 tooth O
 brush O
 ሙሉ O
@@ -71723,7 +70768,7 @@ birr O
 እንደገቡ O
 ያገኙናል O
 
-Baby O
+Baby B-PRODUCT
 girl O
 tiyara O
 20 I-PRICE
@@ -71899,7 +70944,7 @@ Big O
 boss O
 2 I-PRICE
 pcs O
-baby O
+baby B-PRODUCT
 bank O
 60ml O
 ጡጦ O
@@ -72049,7 +71094,7 @@ pcs O
 0905707448 O
 
 Only O
-baby O
+baby B-PRODUCT
 2ፍሬ O
 የጡጦ O
 ጫፍ O
@@ -72198,7 +71243,7 @@ delivery O
 0909003864 O
 0905707448 O
 
-Kids O
+Kids B-PRODUCT
 sofa O
 3200 I-PRICE
 birr O
@@ -72207,7 +71252,7 @@ delivery O
 0905707448 O
 0945097042 O
 
-Baby O
+Baby B-PRODUCT
 Jumpsuit O
 Ultra O
 Soft O
@@ -72264,7 +71309,7 @@ pcs O
 0905707448 O
 
 Sky O
-baby O
+baby B-PRODUCT
 brand O
 high O
 chair O
@@ -72353,7 +71398,7 @@ pcs O
 እጅግ O
 ዘመናዊ O
 የልጆች O
-መጫወቻ O
+መጫወቻ B-PRODUCT
 ድሮን O
 (LH-X5 O
 Flying O
@@ -72482,7 +71527,7 @@ birr O
 8 I-PRICE
 pcs O
 የልጆች O
-መጫወቻ O
+መጫወቻ B-PRODUCT
 000 I-PRICE
 ብር I-PRICE
 0909003864 O
@@ -72608,7 +71653,7 @@ delivery O
 0905707448 O
 
 Barbietu O
-kids O
+kids B-PRODUCT
 dress O
 600 I-PRICE
 birr O
@@ -72865,7 +71910,7 @@ pcs O
 0909003864 O
 0905707448 O
 
-Baby O
+Baby B-PRODUCT
 kingdom O
 original O
 big O
@@ -72881,7 +71926,7 @@ delivery O
 0905707448 O
 0909003864 O
 
-Baby O
+Baby B-PRODUCT
 walker O
 and O
 push O
@@ -72957,7 +72002,7 @@ delivery O
 0905707448 O
 0909003864 O
 
-Baby O
+Baby B-PRODUCT
 girl O
 walking O
 shoe O
@@ -73062,7 +72107,7 @@ set O
 
 New O
 born O
-baby O
+baby B-PRODUCT
 girl O
 long O
 socks O
@@ -73072,7 +72117,7 @@ birr O
 0905707448 O
 
 Infantino O
-baby O
+baby B-PRODUCT
 carier O
 ባለ O
 ኮፉያ O
@@ -73089,7 +72134,7 @@ carier O
 0909003864 O
 0905707448 O
 
-Baby O
+Baby B-PRODUCT
 keen O
 protector O
 ዳዴ O
@@ -73113,7 +72158,7 @@ as O
 0909003864 O
 
 Only O
-baby O
+baby B-PRODUCT
 double O
 bottle O
 milk O
@@ -73166,7 +72211,7 @@ delivery O
 
 3 I-PRICE
 pcs O
-Baby O
+Baby B-PRODUCT
 headband O
 +clippers O
 300 I-PRICE
@@ -73222,7 +72267,7 @@ turban O
 
 3 I-PRICE
 pec O
-baby O
+baby B-PRODUCT
 care O
 kit O
 የራሱ O
@@ -73236,13 +72281,13 @@ birr O
 0909003864 O
 0905707448 O
 
-Baby O
+Baby B-PRODUCT
 Turban O
 250birr O
 0905707448 O
 0909003864 O
 
-Baby O
+Baby B-PRODUCT
 turban O
 350birr O
 0905707448 O
@@ -73459,7 +72504,6 @@ bell O
 የልጆች O
 የአልጋ O
 ማጫዎቻ O
-⚡ O
 የራሱ O
 ሪሞት O
 ኮንትሮል O
@@ -73469,7 +72513,6 @@ bell O
 ምቹ O
 ወላጆችን O
 የማያደክም O
-⚡ O
 ታይመር O
 መሙያ O
 ስላለው O
@@ -73487,11 +72530,10 @@ bell O
 አስተኝቶ O
 እራሱ O
 ያጠፋል O
-⚡360° O
+360° O
 እየተሽከረከረ O
 ልጆቻችንን O
 ያስፈነድቃል O
-⚡ O
 ፕሮጀክተር O
 ያለው O
 ህፃናት O
@@ -73514,7 +72556,7 @@ bell O
 ፕሮጀክተሩን O
 አለማብራት O
 እንችላለን O
-⚡ህፃናትን O
+ህፃናትን O
 የሚያስፈነድቁ O
 የተለያዩ O
 ሜሎዲዮችን O
@@ -73651,7 +72693,7 @@ birr O
 
 4 I-PRICE
 pcs O
-baby O
+baby B-PRODUCT
 health O
 care O
 kit O
@@ -73754,7 +72796,7 @@ delivery O
 6 I-PRICE
 pices O
 Johnson O
-Baby O
+Baby B-PRODUCT
 Gift O
 ℹ O
 ለልጅዎ O
@@ -73770,10 +72812,8 @@ Gift O
 ብር I-PRICE
 Free O
 delivery O
-☎ O
 - O
 0909003864 O
-☎ O
 - O
 0905707448 O
 
@@ -73859,7 +72899,7 @@ delivery O
 0905707448 O
 
 Magic O
-Play O
+Play B-PRODUCT
 Sand O
 with O
 moulds O
@@ -73869,7 +72909,7 @@ moulds O
 0909003864 O
 
 Sky O
-baby O
+baby B-PRODUCT
 brand O
 twins O
 stroller O
@@ -73911,7 +72951,7 @@ Free O
 shipping O
 musical O
 frog O
-baby O
+baby B-PRODUCT
 walker O
 jumper O
 7300 I-PRICE
@@ -73922,7 +72962,7 @@ delivery O
 0909003864 O
 
 Only O
-Baby O
+Baby B-PRODUCT
 Natural O
 manual O
 breast O
@@ -73953,7 +72993,7 @@ as O
 0909003864 O
 0905707448 O
 
-baby O
+baby B-PRODUCT
 girl O
 sweater O
 turban O
@@ -74000,10 +73040,9 @@ birr O
 0905707448 O
 0909003864 O
 
-Baby O
+Baby B-PRODUCT
 bottle O
 thermostat O
-☑ O
 Used O
 to O
 retain O
@@ -74264,7 +73303,7 @@ delivery O
 0909003864 O
 
 Only O
-baby O
+baby B-PRODUCT
 2ፍሬ O
 የጡጦ O
 ጫፍ O
@@ -74375,7 +73414,7 @@ t.me/sinayelj O
 በአክብሮት O
 እንገልፃለን O
 
-Baby O
+Baby B-PRODUCT
 walking O
 shose O
 450 I-PRICE
@@ -74385,7 +73424,7 @@ shose O
 
 Carters O
 brand O
-Baby O
+Baby B-PRODUCT
 jumpsut O
 00% O
 cotton O
@@ -74439,7 +73478,6 @@ in O
 ወንበርም O
 መሆን O
 ይችላል O
-✅ O
 የራሱ O
 ጥላ O
 ስላለው O
@@ -74492,7 +73530,6 @@ in O
 ወንበርም O
 መሆን O
 ይችላል O
-✅ O
 የራሱ O
 ጥላ O
 ስላለው O
@@ -74536,7 +73573,7 @@ box O
 with O
 bottle O
 Happy O
-baby O
+baby B-PRODUCT
 brand O
 600 I-PRICE
 birr O
@@ -74570,7 +73607,7 @@ birr O
 ለየት O
 ያለ O
 ውብ O
-Baby O
+Baby B-PRODUCT
 walker O
 ውስጡ O
 ገብተው O
@@ -74643,7 +73680,7 @@ as O
 0909003864 O
 0905707448 O
 
-baby O
+baby B-PRODUCT
 carters O
 brand O
 three O
@@ -74657,7 +73694,7 @@ month O
 0909003864 O
 0905707448 O
 
-Kids O
+Kids B-PRODUCT
 sofa O
 3000 I-PRICE
 birr O
@@ -74838,7 +73875,7 @@ birr O
 in O
 multi O
 purpose O
-baby O
+baby B-PRODUCT
 food O
 maker O
 set O
@@ -74868,7 +73905,7 @@ delivery O
 0905707448 O
 0945097042 O
 
-Baby O
+Baby B-PRODUCT
 summer O
 jacket O
 0905707448 O
@@ -74919,7 +73956,7 @@ delivery O
 ለየት O
 ያለ O
 ውብ O
-Baby O
+Baby B-PRODUCT
 walker O
 ውስጡ O
 ገብተው O
@@ -75016,7 +74053,6 @@ in O
 ወንበርም O
 መሆን O
 ይችላል O
-✅ O
 የራሱ O
 ጥላ O
 ስላለው O
@@ -75039,7 +74075,7 @@ delivery O
 0905707448 O
 0945097042 O
 
-Baby O
+Baby B-PRODUCT
 stroller O
 9000 I-PRICE
 birr O
@@ -75085,7 +74121,7 @@ design O
 to O
 switch O
 from O
-play O
+play B-PRODUCT
 to O
 sleep O
 in O
@@ -75096,10 +74132,10 @@ for O
 your O
 little O
 one. O
-Baby O
+Baby B-PRODUCT
 growth O
 during O
-play O
+play B-PRODUCT
 and O
 snooze O
 never O
@@ -75126,13 +74162,12 @@ materials O
 Easy O
 to O
 carry O
-⚡ O
 A O
 perfect O
 gift O
 for O
 your O
-children O
+children B-PRODUCT
 Five O
 products O
 in O
@@ -75172,14 +74207,13 @@ Vibration O
 - O
 Music O
 - O
-Games O
+Games B-PRODUCT
 Can O
 carry O
 it O
 up O
 to O
 exit O
-⚡ O
 It O
 has O
 an O
@@ -75187,19 +74221,19 @@ umbrella O
 to O
 protect O
 the O
-baby O
+baby B-PRODUCT
 🅰 O
 Vibration O
 will O
 calm O
 the O
-baby O
+baby B-PRODUCT
 out O
 with O
 calm O
 music O
 and O
-games O
+games B-PRODUCT
 One O
 hand O
 lying O
@@ -75211,7 +74245,6 @@ child-level O
 vibrations O
 and O
 vibrators O
-⚡ O
 It O
 can O
 be O
@@ -75234,7 +74267,6 @@ seat O
 cushion O
 and O
 mattresses, O
-⚡ O
 Suitable O
 Age: O
 Suitable O
@@ -75355,7 +74387,7 @@ turkey O
 
 double O
 face O
-Baby O
+Baby B-PRODUCT
 summer O
 jacket O
 0905707448 O
@@ -75364,7 +74396,7 @@ jacket O
 ከስር O
 ይመልከቱ O
 
-Baby O
+Baby B-PRODUCT
 summer O
 jacket O
 0905707448 O
@@ -75467,7 +74499,7 @@ delivery O
 
 Soft O
 foam O
-puzzle O
+puzzle B-PRODUCT
 mat O
 የልጆች O
 መቦረቂያ O
@@ -75488,20 +74520,17 @@ delivery O
 
 3 I-PRICE
 in O
-baby O
+baby B-PRODUCT
 blanket O
-⚡ O
 ስዋድል O
 መጠቅለያ O
 መሆን O
 የሚችል O
-⚡ O
 ባለ O
 ኮፍያ O
 ማቀፊያ O
 መሆን O
 የሚችል O
-⚡ O
 እንዲሁም O
 በዚፕ O
 የሚዘጋ O
@@ -75509,14 +74538,12 @@ blanket O
 ባግ O
 መሆን O
 የሚችል O
-⚡ O
 ለስላሳ O
 እና O
 ወፍራም O
 የሆነ O
 ኳሊቲ O
 ማቴሪያል O
-⚡ O
 ከለር O
 ፒንክ O
 እና O
@@ -75692,7 +74719,7 @@ pacifier O
 0909003864 O
 0905707448 O
 
-Kids O
+Kids B-PRODUCT
 bed O
 room O
 stickers O
@@ -75797,7 +74824,7 @@ delivery O
 0905707448 O
 0945097042 O
 
-Baby O
+Baby B-PRODUCT
 bouncer O
 ከተወለዱ O
 ጀምሮ O
@@ -75837,7 +74864,7 @@ delivery O
 0905707448 O
 0945097042 O
 
-baby O
+baby B-PRODUCT
 high O
 chair O
 የልጆች O
@@ -75897,7 +74924,7 @@ DELIVERY O
 0905707448 O
 0945097042 O
 
-Baby O
+Baby B-PRODUCT
 mosquito O
 net O
 and O
@@ -75991,7 +75018,7 @@ birr O
 0945097042 O
 
 Quality O
-kids O
+kids B-PRODUCT
 soks O
 for O
 school O
@@ -76000,7 +75027,7 @@ pcs O
 0905707448 O
 0945097042 O
 
-Baby O
+Baby B-PRODUCT
 underwear O
 pcs O
 50birr O
@@ -76021,7 +75048,7 @@ cloth O
 pcs O
 new O
 born O
-baby O
+baby B-PRODUCT
 girl O
 gift O
 set O
@@ -76044,7 +75071,7 @@ set O
 pcs O
 new O
 born O
-baby O
+baby B-PRODUCT
 girl O
 gift O
 set O
@@ -76112,7 +75139,7 @@ birr O
 በጣም O
 ኮምፎርተብል O
 ምቹ O
-baby O
+baby B-PRODUCT
 swing O
 በባትሪ O
 እና O
@@ -76188,7 +75215,6 @@ in O
 ወንበርም O
 መሆን O
 ይችላል O
-✅ O
 የራሱ O
 ጥላ O
 ስላለው O
@@ -76278,7 +75304,7 @@ Only O
 0909003864 O
 
 We O
-baby O
+baby B-PRODUCT
 25 I-PRICE
 pcs O
 Breast O
@@ -76294,7 +75320,7 @@ brand O
 made O
 in O
 Turkey O
-kids O
+kids B-PRODUCT
 towel O
 with O
 shower O
@@ -76397,8 +75423,8 @@ out O
 Mastela O
 happy O
 frinds O
-baby O
-play O
+baby B-PRODUCT
+play B-PRODUCT
 gym O
 2500 I-PRICE
 birr O
@@ -76546,7 +75572,7 @@ delivery O
 0945097042 O
 
 For O
-baby O
+baby B-PRODUCT
 high O
 chair O
 የልጆች O
@@ -76692,7 +75718,7 @@ Leader O
 green O
 brand O
 quality O
-kids O
+kids B-PRODUCT
 shoe O
 62-3 O
 ቁጥር O
@@ -76704,7 +75730,7 @@ delivery O
 
 SBD O
 QUALITY O
-KIDS O
+KIDS B-PRODUCT
 SPORT O
 SHOE O
 32-37ቁጥር O
@@ -76718,7 +75744,7 @@ TMT O
 air O
 force O
 brand O
-kids O
+kids B-PRODUCT
 shoe O
 26-3 O
 ቁጥር O
@@ -76733,7 +75759,7 @@ delivery O
 
 abc O
 brand O
-kids O
+kids B-PRODUCT
 shoe O
 3-63 O
 ቁጥር O
@@ -76746,7 +75772,7 @@ delivery O
 champion O
 brand O
 quality O
-kids O
+kids B-PRODUCT
 shoe O
 26-3 O
 ቁጥር O
@@ -76770,7 +75796,7 @@ delivery O
 0945097042 O
 
 kenike O
-kids O
+kids B-PRODUCT
 brand O
 quality O
 girls O
@@ -76784,7 +75810,7 @@ delivery O
 0945097042 O
 
 kenike O
-kids O
+kids B-PRODUCT
 brand O
 quality O
 girls O
@@ -76797,7 +75823,7 @@ delivery O
 0905707448 O
 0945097042 O
 
-Baby O
+Baby B-PRODUCT
 stroller O
 ቀለል O
 ያለ O
@@ -76904,7 +75930,7 @@ cover O
 0945097042 O
 
 Infant O
-baby O
+baby B-PRODUCT
 shower O
 pillow O
 bed O
@@ -76938,7 +75964,7 @@ container O
 0905707448 O
 0945097042 O
 
-Kids O
+Kids B-PRODUCT
 mat O
 .20*80cm O
 2300 I-PRICE
@@ -76986,7 +76012,7 @@ delivery O
 0945097042 O
 
 5pcs O
-kids O
+kids B-PRODUCT
 suit O
 4000birr O
 0905707448 O
@@ -77098,7 +76124,7 @@ delivery O
 0905707448 O
 0945097042 O
 
-baby O
+baby B-PRODUCT
 bath O
 towel O
 ልጆች O
@@ -77172,13 +76198,13 @@ brand O
 shoes O
 For O
 your O
-baby O
+baby B-PRODUCT
 600 I-PRICE
 birr O
 0905707448 O
 0945097042 O
 
-Kids O
+Kids B-PRODUCT
 Tricycle O
 ልጆቹ O
 ጠንክረው O
@@ -77341,7 +76367,7 @@ birr O
 
 BLB O
 brand O
-baby O
+baby B-PRODUCT
 high O
 chair O
 ተጣጥፎ O
@@ -77417,7 +76443,7 @@ material O
 
 infant O
 to O
-toddler O
+toddler B-PRODUCT
 roker O
 8ኪሎ O
 ድረስ O
@@ -77571,7 +76597,7 @@ delivery O
 0945097042 O
 t.me/sinayelj O
 
-Baby O
+Baby B-PRODUCT
 walker O
 and O
 push O
@@ -77643,7 +76669,7 @@ delivery O
 
 BERR O
 BRAND O
-KIDS O
+KIDS B-PRODUCT
 SHOES O
 29-34 O
 ቁጥር O
@@ -77712,7 +76738,7 @@ birr O
 Popito O
 popita O
 brand O
-baby O
+baby B-PRODUCT
 gym O
 ልጆቾ O
 ጠንካራ O
@@ -77836,7 +76862,7 @@ t.me/sinayelj O
 
 Comfy O
 portable O
-baby O
+baby B-PRODUCT
 floor O
 seat O
 3500 I-PRICE
@@ -77847,7 +76873,7 @@ delivery O
 0945097042 O
 
 Portable O
-baby O
+baby B-PRODUCT
 bed O
 With O
 head O
@@ -77921,7 +76947,7 @@ delivery O
 0905707448 O
 0945097042 O
 
-Baby O
+Baby B-PRODUCT
 bath O
 toys O
 ልጆች O
@@ -77973,7 +76999,7 @@ turkey O
 0 I-PRICE
 pcs O
 quality O
-baby O
+baby B-PRODUCT
 gift O
 set O
 3000ብር I-PRICE
@@ -77983,7 +77009,7 @@ delivery O
 0945097042 O
 
 Infant O
-baby O
+baby B-PRODUCT
 car O
 seat O
 5000birr O
@@ -77994,7 +77020,7 @@ delivery O
 
 Quality O
 cotton O
-kids O
+kids B-PRODUCT
 soks O
 pcs O
 00birr O
@@ -78015,7 +77041,7 @@ pink O
 panter O
 smilling O
 face O
-doll O
+doll B-PRODUCT
 disney O
 princess O
 elsa O
@@ -78065,7 +77091,7 @@ birr O
 
 AVEHNI O
 NATURAL O
-baby O
+baby B-PRODUCT
 feeding O
 bottle O
 የናት O
@@ -78128,7 +77154,7 @@ cap O
 0905707448 O
 0945097042 O
 
-Baby O
+Baby B-PRODUCT
 high O
 chair O
 7300 I-PRICE
@@ -78142,7 +77168,7 @@ delivery O
 ይመልከቱ O
 
 Marry O
-Baby O
+Baby B-PRODUCT
 bouncer O
 ከተወለዱ O
 ጀምሮ O
@@ -78177,7 +77203,7 @@ delivery O
 0945097042 O
 
 Sky O
-baby O
+baby B-PRODUCT
 3 I-PRICE
 in O
 potty O
@@ -78220,7 +77246,7 @@ potty O
 0905707448 O
 0945097042 O
 
-Kids O
+Kids B-PRODUCT
 potty O
 ጎማው O
 መነዳት O
@@ -78230,8 +77256,8 @@ potty O
 0945097042 O
 
 Car O
-toy O
-Baby O
+toy B-PRODUCT
+Baby B-PRODUCT
 walker O
 ልጁ O
 ጋሪውን O
@@ -78275,7 +77301,7 @@ delivery O
 የሚችል O
 ምቹ O
 best O
-baby O
+baby B-PRODUCT
 ኩርሲ O
 ማዘያ O
 20ኪሎ O
@@ -78504,7 +77530,7 @@ Mug O
 
 Daky O
 bramd O
-kids O
+kids B-PRODUCT
 mug O
 small O
 size O
@@ -78591,7 +77617,7 @@ shope O
 no O
 2 I-PRICE
 sina O
-kids O
+kids B-PRODUCT
 0905707448 O
 0945097042 O
 
@@ -78625,13 +77651,13 @@ shope O
 no O
 2 I-PRICE
 sina O
-kids O
+kids B-PRODUCT
 0905707448 O
 0945097042 O
 
 BERR O
 BRAND O
-KIDS O
+KIDS B-PRODUCT
 SHOES O
 2-28 O
 ቁጥር O
@@ -78971,7 +77997,7 @@ shoes O
 
 infant O
 to O
-toddler O
+toddler B-PRODUCT
 roker O
 8ኪሎ O
 ድረስ O
@@ -79092,7 +78118,6 @@ in O
 ወንበርም O
 መሆን O
 ይችላል O
-✅ O
 የራሱ O
 ጥላ O
 ስላለው O
@@ -79221,7 +78246,7 @@ pcs O
 0905707448 O
 
 0pec O
-baby O
+baby B-PRODUCT
 gift O
 set O
 Good O
@@ -79318,7 +78343,7 @@ delivery O
 New O
 born O
 to O
-toddler O
+toddler B-PRODUCT
 rocker O
 8ኪሎ O
 ድረስ O
@@ -79597,21 +78622,17 @@ pump O
 & O
 feeding O
 bottle O
-✅ O
 silicone O
 material O
-✅ O
 BPA O
 free O
-✅P.p O
-✅ O
+P.p O
 uniqe O
 more O
 comortable O
 natutal O
 expressing O
 position O
-✅ O
 soft O
 warm O
 massage O
@@ -79620,14 +78641,12 @@ to O
 gently O
 stimulatevmilk O
 flow O
-✅ O
 natural O
 shaped O
 teat O
 for O
 easy O
 feeding O
-✅ O
 80 I-PRICE
 mL O
 700 I-PRICE
@@ -79640,7 +78659,7 @@ delivery O
 Sold O
 out O
 
-Baby O
+Baby B-PRODUCT
 kingdom O
 original O
 big O
@@ -79656,7 +78675,7 @@ delivery O
 0905707448 O
 0945097042 O
 
-Kids O
+Kids B-PRODUCT
 laptop O
 60 I-PRICE
 አክቲቪቲዮችን O
@@ -79688,7 +78707,7 @@ delivery O
 0945097042 O
 
 Penta O
-kids O
+kids B-PRODUCT
 tab O
 6ጂቢ O
 በ O
@@ -79733,7 +78752,7 @@ delivery O
 0905707448 O
 0945097042 O
 
-Baby O
+Baby B-PRODUCT
 bath O
 toys O
 ልጆች O
@@ -79816,13 +78835,13 @@ birr O
 0905707448 O
 0945097042 O
 
-Kids O
+Kids B-PRODUCT
 potty O
 500ብር I-PRICE
 0905707448 O
 0945097042 O
 
-Kids O
+Kids B-PRODUCT
 potty O
 ጎማው O
 መነዳት O
@@ -79833,7 +78852,7 @@ potty O
 
 New O
 model's O
-Baby O
+Baby B-PRODUCT
 Turban O
 Made O
 in O
@@ -79844,7 +78863,7 @@ turkey O
 
 New O
 model's O
-Baby O
+Baby B-PRODUCT
 Turban O
 Made O
 in O
@@ -79854,7 +78873,7 @@ turkey O
 0945097042 O
 
 Legendary O
-baby O
+baby B-PRODUCT
 high O
 chair O
 በቀላሉ O
@@ -79873,7 +78892,7 @@ delivery O
 0945097042 O
 
 Infant O
-baby O
+baby B-PRODUCT
 shower O
 pillow O
 bed O
@@ -79953,9 +78972,9 @@ delivery O
 Sold O
 out O
 
-Kids O
+Kids B-PRODUCT
 star O
-baby O
+baby B-PRODUCT
 car O
 seat O
 ጥራቱን O
@@ -80003,7 +79022,7 @@ delivery O
 0945097042 O
 
 ONLY O
-baby O
+baby B-PRODUCT
 natural O
 mug O
 የተፈጥሩ O
@@ -80058,7 +79077,7 @@ excavator O
 የሚሰራ O
 ውብ O
 የልጆች O
-መጫወቻ O
+መጫወቻ B-PRODUCT
 መኪና O
 900ብር I-PRICE
 0905707448 O
@@ -80128,7 +79147,7 @@ delivery O
 
 Brand O
 new O
-baby O
+baby B-PRODUCT
 high O
 chair O
 7000 I-PRICE
@@ -80156,14 +79175,14 @@ delivery O
 መጨነቅ O
 ቀረ O
 የሕጻናት O
-አጫዋች❤ O
+አጫዋች O
 በቻርጅ O
 የሚሰራ O
 ድምጽ O
 / O
 ሙዚቃ O
 ሲከፈት O
-የሚደንስ🥳 O
+የሚደንስ O
 የልጆችን O
 ትኩረት O
 የሚስብ O
@@ -80185,7 +79204,7 @@ delivery O
 Mastela O
 infant O
 to O
-toddler O
+toddler B-PRODUCT
 roker O
 8ኪሎ O
 ድረስ O
@@ -80370,7 +79389,7 @@ delivery O
 0945097042 O
 
 SHENMA O
-baby O
+baby B-PRODUCT
 high O
 chai O
 እንደአልጋ O
@@ -80422,7 +79441,7 @@ delivery O
 0945097042 O
 
 Child O
-play O
+play B-PRODUCT
 fence O
 ዋጋ O
 2800ብር I-PRICE
@@ -80436,7 +79455,7 @@ delivery O
 
 Projector O
 painting O
-play O
+play B-PRODUCT
 በባትሪ O
 የሚሰራ O
 የተለያዩ O
@@ -80518,7 +79537,6 @@ delivery O
 በውስጥ O
 መስመር O
 ለማናገር O
-@sinasinaye O
 ላይ O
 ይፃፉልን O
 ከስር O
@@ -80528,7 +79546,7 @@ delivery O
 0905707448 O
 0945097042 O
 
-Baby O
+Baby B-PRODUCT
 travle O
 bed O
 ምቹ O
@@ -80579,7 +79597,7 @@ pacifier O
 ገብቷል O
 Dr O
 Gym O
-baby O
+baby B-PRODUCT
 bottle O
 steam O
 sterillizer O
@@ -80632,9 +79650,9 @@ delivery O
 በድጋሚ O
 ገብቷል O
 Only O
-baby O
+baby B-PRODUCT
 natural O
-baby O
+baby B-PRODUCT
 feeder O
 ጫፉ O
 የእናት O
@@ -80708,7 +79726,7 @@ feeder O
 በድጋሚ O
 ገብቷል O
 Only O
-baby O
+baby B-PRODUCT
 comfort O
 brand O
 breas O
@@ -80735,14 +79753,14 @@ pad O
 መጨነቅ O
 ቀረ O
 የሕጻናት O
-አጫዋች❤ O
+አጫዋች O
 በቻርጅ O
 የሚሰራ O
 ድምጽ O
 / O
 ሙዚቃ O
 ሲከፈት O
-የሚደንስ🥳 O
+የሚደንስ O
 የልጆችን O
 ትኩረት O
 የሚስብ O
@@ -80761,7 +79779,7 @@ delivery O
 0905707448 O
 0945097042 O
 
-baby O
+baby B-PRODUCT
 music O
 walker O
 2600birr O
@@ -80789,7 +79807,7 @@ comfy O
 gym O
 ምቹ O
 የልጆች O
-play O
+play B-PRODUCT
 gym O
 2900ብር I-PRICE
 Free O
@@ -80807,7 +79825,7 @@ delivery O
 የልጆች O
 መመገቢያ O
 ማንኪያ O
-🥣ጫፉ O
+ጫፉ O
 በጣም O
 ለስላሳ O
 እና O
@@ -81033,7 +80051,7 @@ out O
 0905707448 O
 0945097042 O
 
-Baby O
+Baby B-PRODUCT
 Mug O
 with O
 strow O
@@ -81041,7 +80059,7 @@ strow O
 0905707448 O
 0945097042 O
 
-Baby O
+Baby B-PRODUCT
 Turban O
 with O
 socks O
@@ -81084,9 +80102,9 @@ cups O
 0905707448 O
 0945097042 O
 
-baby O
+baby B-PRODUCT
 walker O
-toddler O
+toddler B-PRODUCT
 harness O
 assistant O
 ቪዲዮውን O
@@ -81156,7 +80174,7 @@ milk O
 BLB O
 3 I-PRICE
 in O
-baby O
+baby B-PRODUCT
 walker O
 በአይነቱ O
 በጥንካሬው O
@@ -81165,7 +80183,7 @@ walker O
 ውብ O
 የልጆች O
 ዎከር O
-➊ስድስት O
+ስድስት O
 ወር O
 ሲሆናቸው O
 ውስጡ O
@@ -81176,7 +80194,7 @@ walker O
 ጄሪሎ O
 ሆኖ O
 ያግዛቸዋል O
-➋ትንሽ O
+ትንሽ O
 ጠንከር O
 ሲሉ O
 እንደ O
@@ -81184,7 +80202,7 @@ walker O
 ይዘውት O
 ለመራመድ O
 የሚያገለግላቸው O
-➌ከስር O
+ከስር O
 እንደ O
 ሮከር O
 እንዲሆን O
@@ -81202,7 +80220,7 @@ delivery O
 0905707448 O
 0945097042 O
 
-Baby O
+Baby B-PRODUCT
 Turban O
 Made O
 in O
@@ -81245,7 +80263,6 @@ delivery O
 በውስጥ O
 መስመር O
 ለማናገር O
-@sinasinaye O
 ላይ O
 ይፃፉልን O
 0905707448 O
@@ -81350,14 +80367,14 @@ girl O
 መጨነቅ O
 ቀረ O
 የሕጻናት O
-አጫዋች❤ O
+አጫዋች O
 በቻርጅ O
 የሚሰራ O
 ድምጽ O
 / O
 ሙዚቃ O
 ሲከፈት O
-የሚደንስ🥳 O
+የሚደንስ O
 የልጆችን O
 ትኩረት O
 የሚስብ O
@@ -81462,7 +80479,7 @@ delivery O
 0905707448 O
 0945097042 O
 
-Baby O
+Baby B-PRODUCT
 turban O
 350birr O
 0905707448 O
@@ -81532,7 +80549,7 @@ delivery O
 0945097042 O
 
 Only O
-baby O
+baby B-PRODUCT
 ሚልክ O
 ፓውደር O
 ኮንቴነር O
@@ -81545,7 +80562,7 @@ baby O
 0905707448 O
 0945097042 O
 
-Baby O
+Baby B-PRODUCT
 girl O
 yellow O
 turban O
@@ -81569,7 +80586,7 @@ delivery O
 0945097042 O
 
 Sky O
-baby O
+baby B-PRODUCT
 brand O
 high O
 chair O
@@ -81681,7 +80698,7 @@ delivery O
 0945097042 O
 
 5pcs O
-baby O
+baby B-PRODUCT
 set O
 made O
 in O
@@ -81697,13 +80714,12 @@ delivery O
 መስመር O
 ማናገር O
 ለምትፈልጉ O
-@sinasinaye O
 ላይ O
 ይፃፉልን O
 እናመሰግናለን O
 
-Baby O
-play O
+Baby B-PRODUCT
+play B-PRODUCT
 tent O
 Siz O
 ቁመት O
@@ -81722,7 +80738,7 @@ delivery O
 0945097042 O
 
 Curious O
-baby O
+baby B-PRODUCT
 HIP O
 SEAT O
 CARRIER O
@@ -81889,7 +80905,7 @@ delivery O
 ያሉበት O
 እናደርሳለን O
 
-Baby O
+Baby B-PRODUCT
 potty O
 በባትሪ O
 የሚሰራ O
@@ -81903,7 +80919,7 @@ potty O
 0945097042 O
 t.me/sinayelj O
 
-Baby O
+Baby B-PRODUCT
 potty O
 0905707448 O
 0945097042 O
