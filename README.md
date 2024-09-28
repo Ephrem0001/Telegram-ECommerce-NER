@@ -29,12 +29,25 @@ The project is divided into the following main tasks:
 ## Folder Structure
 
 ## Installation and Setup
+1. Clone this repository:
+   ```
+   git clone https://github.com/Alpha-Mintamir/Telegram-ECommerce-NER.git
+   cd Telegram-ECommerce-NER
+   ```
+2. Create a virtual environment (optional but recommended):
+   ```
+   python -m venv venv
+   source venv/bin/activate  # On Windows, use `venv\Scripts\activate`
 
+3. Install the required dependencies:
+   ```
+   pip install -r requirements.txt
+   ```
 ## Data
 
 - Source: Messages and data from Ethiopian-based e-commerce Telegram channel([SINA KIDS/ሲና ኪድስⓇ](https://t.me/sinayelj))
-- scraped data: [Shageronlinestore](link-to-sample-data)
-- labeled NER dataset: [Dataset Link](link-to-dataset)
+- scraped data: [SINA KIDS](link-to-sample-data)
+- labeled NER dataset: [SINA KIDS](link-to-dataset)
 
 
 
