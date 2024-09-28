@@ -75,7 +75,14 @@ Telegram-ECommerce-NER/
 - labeled NER dataset: [SINA KIDS](link-to-dataset)
 
 
+## Team Members
+
+- [Alpha Lencho ](https://github.com/Alpha-Mintamir)
+- [Olyad Temesgen](https://github.com/OL-YAD)
+- [Endekalu Simon](https://github.com/Endekalu777)
+- [Bereket Birhanu](https://github.com/Bereket-07)
+- [Ephrem M Merid](https://github.com/team-member-4)
+
 
 ## Acknowledgments
-
 - 10 Academy for providing the project requirements and guidance
