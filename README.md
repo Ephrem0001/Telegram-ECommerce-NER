@@ -28,6 +28,31 @@ The project is divided into the following main tasks:
 
 ## Folder Structure
 
+```plaintext
+
+Telegram-ECommerce-NER/
+├── .vscode/
+│   └── settings.json
+├── .github/
+│   └── workflows/
+│       └── unittests.yml   # GitHub Actions
+├── .gitignore              # files and folders to be ignored by git
+├── requirements.txt        # contains dependencies for the project
+├── README.md               # Documentation for the projects
+├── src/
+│   └── __init__.py
+├── notebooks/
+│   ├── __init__.py
+│   └── README.md                       # Description of notebooks directory 
+├── tests/
+│   └── __init__.py
+└── scripts/
+    ├── __init__.py
+    └── README.md                   # Description of scripts directory
+    
+```
+
+
 ## Installation and Setup
 1. Clone this repository:
    ```
