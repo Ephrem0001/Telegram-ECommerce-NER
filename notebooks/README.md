@@ -56,7 +56,7 @@ This project compares different models for Named Entity Recognition (NER) on Amh
    
 8. **Test the best model on sample text** to verify its predictions.
 
-## Tokenization Script: `tokenizer.ipynb`
+## Tokenization Script: `tokenization.ipynb`
 
 ### Overview
 This script utilizes various tokenizers to process Amharic text. It focuses on leveraging Hugging Face's tokenizers and Google’s SentencePiece to enhance text processing capabilities.
