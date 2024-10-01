@@ -2,6 +2,23 @@ import pandas as pd
 import re
 
 # Define sets of entities
+LOCATION_ENTITIES = {
+    'አድራሻ', '1️ቁጥር1', 'ገርጂ', 'ኢምፔሪያል', 'ከሳሚ',
+    'ህንፃ', 'ጎን', 'አልፎዝ', 'ፕላዛ', 'ግራውንድ',
+    'ላይ', 'እንደገቡ', 'ያገኙናል', '2️ቁጥር2', '4ኪሎ',
+    'ቅድስት', 'ስላሴ', 'ህንፃ', 'ማለትም', 'ከብልፅግና',
+    'ዋናፅፈት', 'ቤት', 'ህንፃ', 'በስተ', 'ቀኝ',
+    'ባለው', 'አስፓልት', '20ሜትር', 'ዝቅ', 'እንዳሉ',
+    'ሀበሻ', 'ኮፊ', 'የሚገኝበት', 'ቀይ', 'ሸክላ',
+    'ህንፃ', '2ተኛ', 'ፎቅ', 'ላይ', 'ያገኙናል',
+    '3️ቁጥር3', 'ብስራተ', 'ገብርኤል', 'ላፍቶ',
+    'ሞል', 'መግቢያው', 'ፊት', 'ለፊት',
+    'የሚገኘው', 'የብስራተ', 'ገብርኤል',
+    'ቤተ', 'ክርስቲያን', 'ህንፃ', 'አንደኛ',
+    'ፎቅ', 'ላይ', 'ደረጃ', 'እንደወጣቹ',
+    'በስተግራ', 'በኩል', 'ሱቅ', 'ቁጥር', '-09'
+}
+# Define sets of entities
 PRODUCT_ENTITIES = {
     'ለጠባብ',  'ገላግሌ','ከንፁህ',
     'የሲልከን', 'ጥሬ', 'እቃ', 'የልጆች', 'ማጠቢያ',
@@ -20,35 +37,9 @@ PRODUCT_ENTITIES = {
     'እቃ'
 }
 
-LOCATION_ENTITIES = {
-    'አድራሻ', '1️ቁጥር1', 'ገርጂ', 'ኢምፔሪያል', 'ከሳሚ',
-    'ህንፃ', 'ጎን', 'አልፎዝ', 'ፕላዛ', 'ግራውንድ',
-    'ላይ', 'እንደገቡ', 'ያገኙናል', '2️ቁጥር2', '4ኪሎ',
-    'ቅድስት', 'ስላሴ', 'ህንፃ', 'ማለትም', 'ከብልፅግና',
-    'ዋናፅፈት', 'ቤት', 'ህንፃ', 'በስተ', 'ቀኝ',
-    'ባለው', 'አስፓልት', '20ሜትር', 'ዝቅ', 'እንዳሉ',
-    'ሀበሻ', 'ኮፊ', 'የሚገኝበት', 'ቀይ', 'ሸክላ',
-    'ህንፃ', '2ተኛ', 'ፎቅ', 'ላይ', 'ያገኙናል',
-    '3️ቁጥር3', 'ብስራተ', 'ገብርኤል', 'ላፍቶ',
-    'ሞል', 'መግቢያው', 'ፊት', 'ለፊት',
-    'የሚገኘው', 'የብስራተ', 'ገብርኤል',
-    'ቤተ', 'ክርስቲያን', 'ህንፃ', 'አንደኛ',
-    'ፎቅ', 'ላይ', 'ደረጃ', 'እንደወጣቹ',
-    'በስተግራ', 'በኩል', 'ሱቅ', 'ቁጥር', '-09'
-}
-
 PRICE_ENTITIES = {'ብር'}
 
 def label_entities(tokens):
-    """
-    Labels tokens with entity tags: O, B-Product, I-Product, B-Price, I-Price, B-LOC, I-LOC.
-
-    Args:
-        tokens (list of str): The list of tokens to label.
-
-    Returns:
-        list of str: The list of labels corresponding to each token.
-    """
     labels = ['O'] * len(tokens)
     i = 0
     while i < len(tokens):
@@ -61,8 +52,6 @@ def label_entities(tokens):
                 j += 1
             i = j
             continue  # Move to the next token after labeling
-
-        # Label price entities
         # Label price entities (modified as per user request)
         if tokens[i].isdigit():
             # Check if the next token is "ብር"
