@@ -51,7 +51,6 @@ class TelegramDataProcessor:
         print("Cleaned data saved.")
 
     def label_message(self, message):
-        """Labels messages with prices, locations, and kids products using a rule-based approach."""
         # Define multi-word entities (locations, products, etc.)
         multi_word_entities = {
             'ብስራተ ገብርኤል': 'I-LOC',
