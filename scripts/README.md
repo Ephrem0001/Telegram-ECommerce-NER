@@ -1,43 +1,53 @@
 # Telegram-ECommerce-NER
 
-This repository contains a set of Python scripts designed for processing and analyzing data from Telegram messages. Each script is responsible for a specific aspect of the data pipeline, including entity labeling, data preprocessing, and model comparison.
+## Overview
 
-## Scripts Overview
+This project aims to develop a Named Entity Recognition (NER) system for EthioMart, a centralized e-commerce platform in Ethiopia. The system will extract key business entities such as product names, prices, and locations from Amharic text, images, and documents shared across multiple Telegram channels.
 
-### 1. `ner_labeling.py`
 
-This script is responsible for labeling named entities within the Telegram messages. It defines sets of product, location, and price entities, and provides functionality to label tokens based on these entities.
+## Business Need
 
-#### Key Functions:
+EthioMart's vision is to become the primary hub for all Telegram-based e-commerce activities in Ethiopia. By consolidating real-time data from multiple e-commerce Telegram channels, EthioMart aims to provide a seamless experience for customers to explore and interact with multiple vendors in one place.
 
-- `label_entities(tokens)`: Labels tokens with entity tags such as O (other), B-Product, I-Product, B-Price, I-Price, B-LOC, and I-LOC.
-- `create_conll_format(tokens, labels)`: Converts tokens and their corresponding labels into a format suitable for CoNLL files.
-- `process_messages(df, num_messages=50)`: Processes a DataFrame containing Telegram messages, labels the tokens, and prepares the output.
-- `main()`: The main entry point of the script that loads data and writes the labeled output to a file.
+## Key Objectives
 
-### 2. `pre_process.py`
+1. Real-time data extraction from Telegram channels
+2. Fine-tuning Large Language Models (LLMs) for Amharic Named Entity Recognition
+3. Extraction of entities such as Product names, Prices, and Locations
 
-This script handles the preprocessing of Telegram messages, including cleaning and labeling messages for further analysis.
+## Project Structure
 
-#### Key Functions:
+The project is divided into the following main tasks:
 
-- `check_and_remove_nan(column_name)`: Checks for NaN values in a specified column and removes rows with NaN values.
-- `remove_emojis(text)`: Removes emojis from the given text to ensure clean message data.
-- `clean_messages()`: Cleans the message data by applying the emoji removal function and saves the cleaned data to a CSV file.
-- `label_message(message)`: Labels messages with prices, locations, and children’s products using a rule-based approach.
+1. Data Ingestion and Preprocessing
+2. Data Labeling in CoNLL Format
+3. Fine-tuning NER Models
+4. Model Comparison and Selection
+5. Model Interpretability
 
-### 3. `telegram_scrapper.py`
 
-This script is intended for scraping data from Telegram channels. (Assuming scraping functionality will be implemented in the future or if you have existing functionality that needs to be added here.)
+## Folder Structure
 
-### 4. `model_comparison.py`
+- `notebooks/` : Jupyter notebooks for all the analysis.
+- `scripts/`   : Python scripts for the notebook files .
 
-This script allows for the comparison of different models used in processing and classifying the Telegram message data. (Add specific functionalities and key functions as needed.)
 
-## Usage Instructions
+## scripts Folder/ 
 
-1. **Installation**:
-   Ensure you have Python installed along with the required libraries. You can install the necessary libraries using pip:
-   ```bash
-   pip install pandas transformers
-   ```
+```
+   `telegram_scrapper.py`                         : contains a script to fetch  data from Telegram channels
+    `preprocessing.py`                            : contains a script for or amharic data processing
+    `ner_labelling.py`                            : contains a script to label amharic tokens in conll format
+    `ner_finetuning.py`                           : contains a script to fine-tune a NER model 
+    `model_comparison.py`                         : contains a script to compares different models NER
+    
+    
+```
+
+
+## Setup Instructions
+1. Clone the repository.
+2. Set up the virtual environment.
+3. Install dependencies using `pip install -r requirements.txt`
+
+
